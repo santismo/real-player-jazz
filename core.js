@@ -36,11 +36,28 @@ function preferredSource(song,requestedId){
 }
 // Reference listening and transcription timing are independent decisions.
 function referenceRecording(song){const r=song?.referenceRecording;return r&&youtubeId(r.videoId)?{...r,id:r.videoId,label:r.artist+' · '+r.album+' · recommended reference',reference:true,status:'reference'}:null;}
+function artistRecordings(song){
+ const grouped=new Map();
+ for(const entry of song?.artistRecordings||[]){
+  const r=entry.recording;if(!r||!youtubeId(r.videoId))continue;
+  if(grouped.has(r.videoId)){grouped.get(r.videoId).associatedSourceIds.push(entry.associatedSourceId);continue;}
+  grouped.set(r.videoId,{id:r.videoId,videoId:r.videoId,label:r.label,artist:r.artist,album:r.album,reason:entry.reason,evidence:entry.evidence,associatedSourceIds:[entry.associatedSourceId],reference:true,referenceKind:'artist',status:'reference',headStart:null,verification:{head:'listening-pending'},catalogIdentityNote:'Related artist performance. Its identity and timing have not been verified against this particular transcription.'});
+ }
+ return [...grouped.values()];
+}
+function partInCollection(source,filter){
+ const artist=source.performer||source.attributedArtist||'';
+ if(filter==='joe')return /Joe Pass/i.test(artist);
+ if(filter==='django')return /Django/i.test(artist);
+ if(filter==='miditar'||filter==='keyer')return (source.collections||[]).some(c=>c.toLowerCase()===filter);
+ if(filter==='guitar')return source.instrument==='guitar'||source.kind==='guitar'||/Joe Pass|Django/i.test(artist);
+ return false;
+}
 function preferredRecording(song,requestedSourceId){
  const reference=referenceRecording(song);
  if(!requestedSourceId&&reference)return reference;
  const source=preferredSource(song,requestedSourceId);
- return (song.recordings||[]).find(r=>r.sourceId===source?.id&&['source-aligned','estimated'].includes(r.status))||null;
+ return (song.recordings||[]).find(r=>r.sourceId===source?.id&&['source-aligned','estimated'].includes(r.status))||artistRecordings(song).find(r=>r.associatedSourceIds.includes(source?.id))||(source?.attributionRole==='composer'?reference:null)||null;
 }
 function preferredPracticeSource(song,requestedSourceId){
  if(!requestedSourceId&&referenceRecording(song)){
@@ -58,5 +75,5 @@ function activeNotes(notes,time){return notes.filter(n=>n.time<=time&&n.time+n.d
 function chordEvents(chart,bpm=120){let beat=0;const events=[];for(let bar=0;bar<(chart||[]).length;bar++){const b=chart[bar];let list=b.events||b.chords.map((symbol,i)=>({symbol,start:i*b.beats/b.chords.length,end:(i+1)*b.beats/b.chords.length}));for(const e of list)events.push({text:e.symbol,time:(beat+e.start)*60/bpm,duration:(e.end-e.start)*60/bpm,bar:bar+1,section:b.section});beat+=b.beats;}return {events,duration:beat*60/bpm}}
 function loopTarget(time,a,b,enabled){return enabled&&Number.isFinite(a)&&Number.isFinite(b)&&b>a&&time>=b?a:null}
 function randomSong(filteredSongs,currentId,random=Math.random){const playable=filteredSongs.filter(s=>s.sources?.length),others=playable.filter(s=>s.id!==currentId),pool=others.length?others:playable;return pool.length?pool[Math.floor(random()*pool.length)]:undefined}
-return {referenceRecording,preferredRecording,preferredPracticeSource,recordingStart,tabLayout,preferredSource,headStatus,tuning,validAnchors,mapTime,youtubeId,positions,fingerNotes,activeNotes,chordEvents,loopTarget,randomSong};
+return {referenceRecording,artistRecordings,partInCollection,preferredRecording,preferredPracticeSource,recordingStart,tabLayout,preferredSource,headStatus,tuning,validAnchors,mapTime,youtubeId,positions,fingerNotes,activeNotes,chordEvents,loopTarget,randomSong};
 });

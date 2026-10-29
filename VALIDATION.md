@@ -1,3 +1,20 @@
+# GitHub library completeness update — 2026-10-29
+
+GitHub Pages is now the maintained deployment: https://santismo.github.io/real-player-jazz/ . The earlier ChatGPT Site was not redeployed.
+
+- Audited all 4,390 MIDI paths at the current pinned Miditar/Keyer revisions. 4,389 map to playable catalog parts, including 533 identical Miditar offline copies. One file contains no pitched notes. No unaccounted paths remain.
+- Recovered five missing/broken WJazzD studies from published CSV notes and beats, including all 413 pitches of the original damaged Chris Potter MIDI. Four missing solos add 1,828 notes. The app includes all 456 WJazzD sources, 2,936 catalog tunes, 4,971 unique parts and 1,386 unique performance timelines.
+- Expanded historical head references from 39 to 83. All have metadata and source links; 14 have published head/form evidence and 69 await direct listening review. No exact head timestamps or synchronization claims were invented.
+- Added related Joe Pass videos for 28 of 31 parts (27 unique uploads), with checked watch-page metadata. Existing nine supplied audio alignments and two estimated audio matches retain priority for explicit part choices. Generic Blues, Blues in B♭ and Extended Blues remain unresolved. Added four Django-related references; the Chez Jacquet reference is Matelo Ferret. BIAB arrangements and unsubstantiated filename credits are labeled accurately.
+- Rechecked 36 previously unavailable published JazzTube uploads. None became embeddable. One remains watchable only on YouTube; the exclusion is retained in `data/recording-recheck.json`.
+- Existing 28 automated checks passed over 5,183 MIDI source occurrences and 1,598 timeline occurrences (aliases included). Four additional checks passed for complete inventory accounting, artist-reference timing isolation, Django credits, and the recovered Potter pitch/timing data.
+- Silent browser checks verified Django and Joe Pass filters, the Matelo Ferret default, Minor Matter's Joe Pass reference, independent MIDI mode, mobile recording details and the Miditar/Keyer catalog filters. The 390×844 phone layout keeps video, controls, tablature and fretboard visible. MIDI audition was disabled; no media was played during this update. A Joe Pass embed loaded visibly; local preview availability varied for other uploads.
+- Current coverage: 887 tunes have some recording, including independent listening references; 868 have source-aligned studies. 2,049 still have no identified listening recording. Metadata, source alignment and independent acoustic verification remain separate claims.
+
+The notes below are historical validation from earlier versions; their counts and deployment status do not describe the current build.
+
+---
+
 # Reference recording update — 2026-10-29
 
 - 39 curated references with artist/release identity, selection reason, evidence links and explicit head-review status. All exact video IDs returned YouTube metadata. This is not a complete-library listening audit.

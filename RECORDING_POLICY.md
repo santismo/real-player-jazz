@@ -27,4 +27,8 @@ Reference listening and synchronized study coverage are separate. The existing `
 
 ## Extending the list
 
-Add a reviewed entry to the reference JSON, including evidence and any unresolved uncertainty. Do not copy the reference onto aliases or similarly titled entries without checking composition identity. Run `npm test` and `npm run build`. Inspect the reference choice, manual study switch, and mobile details. GitHub Pages and the ChatGPT Site use the same app and reference JSON, but publishing to one host does not automatically update the other.
+Add a reviewed entry to the reference JSON, including evidence and any unresolved uncertainty. Do not copy the reference onto aliases or similarly titled entries without checking composition identity. Run `npm test` and `npm run build`. Inspect the reference choice, manual study switch, and mobile details. This update is maintained on GitHub Pages; the earlier ChatGPT Site is not being redeployed.
+
+## Related artist performances
+
+`data/artist-recordings.json` covers the Joe Pass collection independently of the recommended melody references. A named release or transcriber link can support a related performance without proving that a contributor score transcribes that exact take. These entries use `associatedSourceId`, never a timing `sourceId`, and remain unsynchronized. An explicit part selection keeps its existing supplied or estimated audio first; otherwise it can open its associated listening reference. Ambiguous blues titles stay pending rather than being filled with covers or arbitrary videos. Django composition arrangements are credited as arrangements, and their reference performer is stated separately.

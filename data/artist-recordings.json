@@ -1,0 +1,1966 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-29",
+  "policy": "Related artist performances, separately associated with source parts. These do not claim identical takes or synchronized transcription timing. Pending entries retain the reason for exclusion.",
+  "entries": [
+    {
+      "associatedSourceId": "leduc-yfC4c",
+      "songIds": [
+        "allthethingsyouare"
+      ],
+      "title": "All The Things You Are",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "Same transcriber and title; the candidate duration is close, but the source publishes audio only and no transferable YouTube anchor.",
+      "sourceAttribution": "provider-identified",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://www.soundslice.com/slices/yfC4c/",
+          "title": "Public Soundslice source — one uploaded audio recording, no YouTube ID"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=NV-GhJNsOG0",
+          "title": "All the things you are - Joe Pass (Transcription) — François Leduc"
+        },
+        {
+          "url": "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-12-transcriptions/",
+          "title": "Original transcriber’s linked collection"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "publicSourceAudit": {
+        "name": "Joe Pass - All The Things You Are",
+        "publicPage": "https://www.soundslice.com/slices/yfC4c/",
+        "recordingCount": 1,
+        "recordings": [
+          {
+            "id": 995488,
+            "type": 2,
+            "name": "Audio",
+            "durationSeconds": 242
+          }
+        ],
+        "youtubeIdentityPublished": false,
+        "checkedAt": "2026-10-29"
+      },
+      "recording": {
+        "id": "NV-GhJNsOG0",
+        "videoId": "NV-GhJNsOG0",
+        "url": "https://www.youtube.com/watch?v=NV-GhJNsOG0",
+        "artist": "Joe Pass",
+        "title": "All the things you are - Joe Pass (Transcription)",
+        "album": null,
+        "label": "Joe Pass · All The Things You Are · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "All the things you are - Joe Pass (Transcription)",
+          "channel": "François Leduc",
+          "durationSeconds": 242,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": [
+            "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-12-transcriptions/"
+          ]
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "leduc-sxh4c",
+      "songIds": [
+        "autummleaves",
+        "autumnleaves"
+      ],
+      "title": "Autumn Leaves",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "Same transcriber and title; the public source recording remains an uploaded audio file, with no YouTube identity or offset.",
+      "sourceAttribution": "provider-identified",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://www.soundslice.com/slices/sxh4c/",
+          "title": "Public Soundslice source — one uploaded audio recording, no YouTube ID"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=OV6nTsh1pF4",
+          "title": "Autumn Leaves - Joe Pass (Transcription) — François Leduc"
+        },
+        {
+          "url": "https://www.francoisleduconlinelibrary.com/product/best-of-youtube-vol-2-collection-12-transcriptions/",
+          "title": "Original transcriber’s linked collection"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "publicSourceAudit": {
+        "name": "Joe Pass - Autumn Leaves",
+        "publicPage": "https://www.soundslice.com/slices/sxh4c/",
+        "recordingCount": 1,
+        "recordings": [
+          {
+            "id": 995490,
+            "type": 2,
+            "name": "Audio",
+            "durationSeconds": 159
+          }
+        ],
+        "youtubeIdentityPublished": false,
+        "checkedAt": "2026-10-29"
+      },
+      "recording": {
+        "id": "OV6nTsh1pF4",
+        "videoId": "OV6nTsh1pF4",
+        "url": "https://www.youtube.com/watch?v=OV6nTsh1pF4",
+        "artist": "Joe Pass",
+        "title": "Autumn Leaves - Joe Pass (Transcription)",
+        "album": null,
+        "label": "Joe Pass · Autumn Leaves · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Autumn Leaves - Joe Pass (Transcription)",
+          "channel": "François Leduc",
+          "durationSeconds": 159,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": [
+            "https://www.francoisleduconlinelibrary.com/product/best-of-youtube-vol-2-collection-12-transcriptions/"
+          ]
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-blue-moon",
+      "songIds": [
+        "bluemoon"
+      ],
+      "title": "Blue Moon",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "Label-provided Joe Pass solo guitar recording. The contributor score names Pass but supplies no album or recording link.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=cKyQltevmpI",
+          "title": "Blue Moon — Joe Pass - Topic"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/blue_moon.gp3",
+        "title": "Blue Moon",
+        "artist": "Joe Pass",
+        "album": "",
+        "tempo": 156,
+        "transcriber": "cauvain@wanadoo.fr",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 207.85384615384692,
+      "recording": {
+        "id": "cKyQltevmpI",
+        "videoId": "cKyQltevmpI",
+        "url": "https://www.youtube.com/watch?v=cKyQltevmpI",
+        "artist": "Joe Pass",
+        "title": "Blue Moon",
+        "album": "Songs for Ellen",
+        "label": "Joe Pass · Blue Moon · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Blue Moon",
+          "channel": "Joe Pass - Topic",
+          "durationSeconds": 211,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-blues",
+      "songIds": [
+        "blues"
+      ],
+      "title": "Blues",
+      "artist": "Joe Pass",
+      "status": "unresolved",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The original GP5 has blank title, artist, album, composer and notice fields. A generic filename inside a Joe Pass archive is insufficient to identify a recording.",
+      "sourceAttribution": "unverified-archive-folder-only",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/blues.gp5",
+        "title": "",
+        "artist": "",
+        "album": "",
+        "tempo": 96,
+        "transcriber": "",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 240.0,
+      "recommendedSourceLabel": "Blues · contributor tab (Joe Pass attribution unverified)",
+      "recommendedPerformer": null,
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-blues-for-alican",
+      "songIds": [
+        "bluesforalican"
+      ],
+      "title": "Blues for Alican",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "Label-provided recording of Pass’s original piece; the GP contributor names the title and artist but supplies no recording anchor.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=W--qPGGvpF0",
+          "title": "Blues For Alican (Remastered 2025) — Joe Pass - Topic"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/blues_for_alican.gp4",
+        "title": "blues for alican",
+        "artist": "Joe Pass",
+        "album": "",
+        "tempo": 90,
+        "transcriber": "Yann TROADEC",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 322.66666666666674,
+      "recording": {
+        "id": "W--qPGGvpF0",
+        "videoId": "W--qPGGvpF0",
+        "url": "https://www.youtube.com/watch?v=W--qPGGvpF0",
+        "artist": "Joe Pass",
+        "title": "Blues For Alican (Remastered 2025)",
+        "album": "Virtuoso",
+        "label": "Joe Pass · Blues for Alican · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Blues For Alican (Remastered 2025)",
+          "channel": "Joe Pass - Topic",
+          "durationSeconds": 329,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-blues-for-fred",
+      "songIds": [
+        "bluesforfred"
+      ],
+      "title": "Blues for Fred",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The label-provided Blues for Fred / They All Laughed medley is a documented Joe Pass recording. The score’s approximate duration does not establish timing.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=nIm8noPT6Jw",
+          "title": "Blues For Fred / They All Laughed (Remastered 2004) — Joe Pass - Topic"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/blues_for_fred.gp3",
+        "title": "BLUES FOR FRED",
+        "artist": "JOE PASS",
+        "album": "",
+        "tempo": 147,
+        "transcriber": "Yann TROADEC",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 370.20408163265466,
+      "recording": {
+        "id": "nIm8noPT6Jw",
+        "videoId": "nIm8noPT6Jw",
+        "url": "https://www.youtube.com/watch?v=nIm8noPT6Jw",
+        "artist": "Joe Pass",
+        "title": "Blues For Fred / They All Laughed (Remastered 2004)",
+        "album": "Blues for Fred",
+        "label": "Joe Pass · Blues for Fred · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Blues For Fred / They All Laughed (Remastered 2004)",
+          "channel": "Joe Pass - Topic",
+          "durationSeconds": 374,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-blues-in-bb",
+      "songIds": [
+        "bluesinbb"
+      ],
+      "title": "Blues in B♭",
+      "artist": "Joe Pass",
+      "status": "unresolved",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "Searches found covers and teaching demonstrations of this short piece, but no substantiated original Joe Pass performance. Those covers are not substitutes for a Joe Pass recording.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/blues_in_bb.gp4",
+        "title": "Blues in Bb",
+        "artist": "Joe Pass",
+        "album": "",
+        "tempo": 85,
+        "transcriber": "chrlengert",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 101.64705882352943,
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-blues-in-g",
+      "songIds": [
+        "bluesing"
+      ],
+      "title": "Blues in G",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "A label-provided Joe Pass blues in G is available. Multiple Pass performances exist; the GP file does not specify which one it transcribes.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=pYsl-66FsE4",
+          "title": "Blues In \"G\" (Live) — Joe Pass - Topic"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/blues_in_g.gp4",
+        "title": "Blues in G",
+        "artist": "Joe Pass",
+        "album": "",
+        "tempo": 185,
+        "transcriber": "",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 452.75675675675495,
+      "recording": {
+        "id": "pYsl-66FsE4",
+        "videoId": "pYsl-66FsE4",
+        "url": "https://www.youtube.com/watch?v=pYsl-66FsE4",
+        "artist": "Joe Pass",
+        "title": "Blues In \"G\" (Live)",
+        "album": "Blues Dues: Live at Long Beach City College",
+        "label": "Joe Pass · Blues in G · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Blues In \"G\" (Live)",
+          "channel": "Joe Pass - Topic",
+          "durationSeconds": 425,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "leduc-3fC4c",
+      "songIds": [
+        "bluesette",
+        "bluesette44jeantootsthielemans"
+      ],
+      "title": "Bluesette",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The original transcriber’s public upload is a strong rendition candidate; the Soundslice player has audio only and no YouTube clock mapping.",
+      "sourceAttribution": "provider-identified",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://www.soundslice.com/slices/3fC4c/",
+          "title": "Public Soundslice source — one uploaded audio recording, no YouTube ID"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Tnl4VCLKaZM",
+          "title": "Bluesette - Joe Pass (Transcription) — François Leduc"
+        },
+        {
+          "url": "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-12-transcriptions/",
+          "title": "Original transcriber’s linked collection"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "publicSourceAudit": {
+        "name": "Joe Pass - Bluesette",
+        "publicPage": "https://www.soundslice.com/slices/3fC4c/",
+        "recordingCount": 1,
+        "recordings": [
+          {
+            "id": 995494,
+            "type": 2,
+            "name": "Audio",
+            "durationSeconds": 224
+          }
+        ],
+        "youtubeIdentityPublished": false,
+        "checkedAt": "2026-10-29"
+      },
+      "recording": {
+        "id": "Tnl4VCLKaZM",
+        "videoId": "Tnl4VCLKaZM",
+        "url": "https://www.youtube.com/watch?v=Tnl4VCLKaZM",
+        "artist": "Joe Pass",
+        "title": "Bluesette - Joe Pass (Transcription)",
+        "album": null,
+        "label": "Joe Pass · Bluesette · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Bluesette - Joe Pass (Transcription)",
+          "channel": "François Leduc",
+          "durationSeconds": 224,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": [
+            "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-12-transcriptions/"
+          ]
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "cherokee-joe-pass",
+      "songIds": [
+        "cherokee"
+      ],
+      "title": "Cherokee",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The Leduc video supplies a Joe Pass listening reference. The local MIDI is a BIAB arrangement whose filename attributes the solo to Pass; its exact recorded performance is unverified.",
+      "sourceAttribution": "unverified-filename-only",
+      "evidence": [
+        {
+          "url": "https://github.com/santismo/Keyer/tree/main/a-z-midi",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=yRTaEOzOBXc",
+          "title": "Cherokee - Joe Pass (Transcription) — François Leduc"
+        },
+        {
+          "url": "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-vol-3-12-transcriptions/",
+          "title": "Original transcriber’s linked collection"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "recording": {
+        "id": "yRTaEOzOBXc",
+        "videoId": "yRTaEOzOBXc",
+        "url": "https://www.youtube.com/watch?v=yRTaEOzOBXc",
+        "artist": "Joe Pass",
+        "title": "Cherokee - Joe Pass (Transcription)",
+        "album": null,
+        "label": "Joe Pass · Cherokee · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Cherokee - Joe Pass (Transcription)",
+          "channel": "François Leduc",
+          "durationSeconds": 223,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": [
+            "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-vol-3-12-transcriptions/"
+          ]
+        }
+      },
+      "recommendedSourceLabel": "Cherokee · BIAB arrangement (file attributed to Joe Pass)",
+      "recommendedPerformer": null,
+      "midiAudit": {
+        "trackNames": [
+          "Cherokee  Joe Pass Solo",
+          "Bass    (BB)",
+          "Drums   (BB)",
+          "Piano   (BB)",
+          "Melody  (BB)"
+        ],
+        "noteCounts": [
+          0,
+          681,
+          1781,
+          1766,
+          1218
+        ],
+        "melodyProgramZeroBased": 57,
+        "sha256": "5ec3066bd5c2daeeafc5bf74cba81640f414cf38cb43830c11d6a715079c8d46",
+        "finding": "BIAB-generated accompaniment plus a melody track; filename attribution does not establish a specific recorded solo."
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-dissonance",
+      "songIds": [
+        "dissonance"
+      ],
+      "title": "Dissonance",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The label documents Dissonance #1. The GP title omits the movement number, so this remains a listening reference rather than a confirmed score match.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=kDC84KtJylA",
+          "title": "Dissonance #1 — Joe Pass - Topic"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/dissonance.gp3",
+        "title": "Dissonance",
+        "artist": "Joe Pass",
+        "album": "",
+        "tempo": 110,
+        "transcriber": "kry",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 116.54338977051499,
+      "recording": {
+        "id": "kDC84KtJylA",
+        "videoId": "kDC84KtJylA",
+        "url": "https://www.youtube.com/watch?v=kDC84KtJylA",
+        "artist": "Joe Pass",
+        "title": "Dissonance #1",
+        "album": "Virtuoso #3",
+        "label": "Joe Pass · Dissonance · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Dissonance #1",
+          "channel": "Joe Pass - Topic",
+          "durationSeconds": 114,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-django",
+      "songIds": [
+        "django"
+      ],
+      "title": "Django",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The original GP header explicitly names For Django and the Bob Enevoldsen transcription book. The label-provided upload documents that album; score-to-recording timing remains unverified.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=GT8N9i87p6s",
+          "title": "Django — Joe Pass - Topic"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/django.gp3",
+        "title": "Django",
+        "artist": "Joe Pass",
+        "album": "For Django",
+        "tempo": 128,
+        "transcriber": "AC",
+        "hasNotice": true,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 208.04166666666666,
+      "recording": {
+        "id": "GT8N9i87p6s",
+        "videoId": "GT8N9i87p6s",
+        "url": "https://www.youtube.com/watch?v=GT8N9i87p6s",
+        "artist": "Joe Pass",
+        "title": "Django",
+        "album": "For Django",
+        "label": "Joe Pass · Django · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Django",
+          "channel": "Joe Pass - Topic",
+          "durationSeconds": 201,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "recording-or-release-explicit-in-original-score"
+    },
+    {
+      "associatedSourceId": "diab-joe-djangos-castle-1964",
+      "songIds": [
+        "djangoscastle"
+      ],
+      "title": "Django’s Castle",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The provider identifies a 1964 Joe Pass rendition and pairs it with original audio. This official album upload is a documented reference, but its clock has not been matched to the provider’s audio edit.",
+      "sourceAttribution": "provider-identified",
+      "evidence": [
+        {
+          "url": "https://www.djangoinabox.com/free.aspx",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=RU9w0JahzA8",
+          "title": "Django's Castle (Manoir De Mes Reves) — Joe Pass - Topic"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "recording": {
+        "id": "RU9w0JahzA8",
+        "videoId": "RU9w0JahzA8",
+        "url": "https://www.youtube.com/watch?v=RU9w0JahzA8",
+        "artist": "Joe Pass",
+        "title": "Django's Castle (Manoir De Mes Reves)",
+        "album": "For Django",
+        "label": "Joe Pass · Django’s Castle · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Django's Castle (Manoir De Mes Reves)",
+          "channel": "Joe Pass - Topic",
+          "durationSeconds": 227,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-extended-blues",
+      "songIds": [
+        "extendedblues"
+      ],
+      "title": "Extended Blues",
+      "artist": "Joe Pass",
+      "status": "unresolved",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The contributor file names Joe Pass but no album, recording, transcriber or source notice. Search results did not substantiate a Joe Pass recording with this title.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/extended_blues.gp3",
+        "title": "Extended Blues",
+        "artist": "Joe Pass",
+        "album": "",
+        "tempo": 143,
+        "transcriber": "",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 128.3916083916085,
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-how-high-the-moon",
+      "songIds": [
+        "howhighthemoon"
+      ],
+      "title": "How High the Moon",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "A label-provided Joe Pass solo rendition is documented. The 56-second GP study is an excerpt with no stated recording origin.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=8vzHC6neACk",
+          "title": "How High The Moon (Album Version) — Joe Pass - Topic"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/how_high_the_moon.gp4",
+        "title": "how high the moon",
+        "artist": "joe pass",
+        "album": "",
+        "tempo": 160,
+        "transcriber": "dragam",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 56.25,
+      "recording": {
+        "id": "8vzHC6neACk",
+        "videoId": "8vzHC6neACk",
+        "url": "https://www.youtube.com/watch?v=8vzHC6neACk",
+        "artist": "Joe Pass",
+        "title": "How High The Moon (Album Version)",
+        "album": "Virtuoso",
+        "label": "Joe Pass · How High the Moon · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "How High The Moon (Album Version)",
+          "channel": "Joe Pass - Topic",
+          "durationSeconds": 300,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-jeannine",
+      "songIds": [
+        "jeannine"
+      ],
+      "title": "Jeannine",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The GP header explicitly identifies Richard Groove Holmes’s After Hours and Joe Pass’s solo. The upload names the same session, but the score’s expanded practice repeats and exact audio placement are not synchronized.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=un6egPqUY1w",
+          "title": "Richard \"Groove\" Holmes ft. Joe Pass - Jeannine — Joseph Passadena"
+        },
+        {
+          "url": "https://www.qobuz.com/ie-en/album/sounds-of-synanon-original-album-joe-pass/7630026320153",
+          "title": "Label-supplied album credits: Jeannine, Joe Pass performer, Duke Pearson composer"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/jeannine.gp3",
+        "title": "Jeannine",
+        "artist": "Richard Groove Holmes",
+        "album": "After hours",
+        "tempo": 209,
+        "transcriber": "Faab",
+        "hasNotice": true,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 708.5167464114841,
+      "recording": {
+        "id": "un6egPqUY1w",
+        "videoId": "un6egPqUY1w",
+        "url": "https://www.youtube.com/watch?v=un6egPqUY1w",
+        "artist": "Joe Pass",
+        "title": "Richard \"Groove\" Holmes ft. Joe Pass - Jeannine",
+        "album": "After Hours",
+        "label": "Joe Pass · Jeannine · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Richard \"Groove\" Holmes ft. Joe Pass - Jeannine",
+          "channel": "Joseph Passadena",
+          "durationSeconds": 175,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "timingCaution": "Uploader says the guitar solo begins at 1:01. This is not a validated note alignment and is intentionally not used as offset. The source expands a 56-bar practice passage 11 times.",
+      "sourceRecordingIdentity": "recording-or-release-explicit-in-original-score"
+    },
+    {
+      "associatedSourceId": "leduc-dfC4c",
+      "songIds": [
+        "lildarlin",
+        "lildarlinlive"
+      ],
+      "title": "Li’l Darlin’",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The original transcriber publishes a live Joe Pass rendition. The source audio is available separately, without a YouTube timing map.",
+      "sourceAttribution": "provider-identified",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://www.soundslice.com/slices/dfC4c/",
+          "title": "Public Soundslice source — one uploaded audio recording, no YouTube ID"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=D9Oro2r3Quw",
+          "title": "Li'l Darlin' (Live) - Joe Pass (Transcription) — François Leduc"
+        },
+        {
+          "url": "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-vol-2-12-transcriptions-2/",
+          "title": "Original transcriber’s linked collection"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "publicSourceAudit": {
+        "name": "Joe Pass - Li'l Darlin 'live'",
+        "publicPage": "https://www.soundslice.com/slices/dfC4c/",
+        "recordingCount": 1,
+        "recordings": [
+          {
+            "id": 995503,
+            "type": 2,
+            "name": "Audio",
+            "durationSeconds": 198
+          }
+        ],
+        "youtubeIdentityPublished": false,
+        "checkedAt": "2026-10-29"
+      },
+      "recording": {
+        "id": "D9Oro2r3Quw",
+        "videoId": "D9Oro2r3Quw",
+        "url": "https://www.youtube.com/watch?v=D9Oro2r3Quw",
+        "artist": "Joe Pass",
+        "title": "Li'l Darlin' (Live) - Joe Pass (Transcription)",
+        "album": null,
+        "label": "Joe Pass · Li’l Darlin’ · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Li'l Darlin' (Live) - Joe Pass (Transcription)",
+          "channel": "François Leduc",
+          "durationSeconds": 198,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": [
+            "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-vol-2-12-transcriptions-2/"
+          ]
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-love-for-sale",
+      "songIds": [
+        "loveforsale"
+      ],
+      "title": "Love for Sale",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "This label-provided Joe Pass rendition is a listening reference. The original GP explicitly names a different album, Virtuoso Live!, so this video must not be presented as its synchronized performance.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=8rQ9ADXQ1JM",
+          "title": "Love For Sale — Joe Pass - Topic"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/love_for_sale.gp3",
+        "title": "Love For Sale",
+        "artist": "Joe Pass",
+        "album": "Virtuoso Live!",
+        "tempo": 180,
+        "transcriber": "Robert-Philippe Couturier (rp.couturier@wanadoo.fr)",
+        "hasNotice": true,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 70.66666666666669,
+      "recording": {
+        "id": "8rQ9ADXQ1JM",
+        "videoId": "8rQ9ADXQ1JM",
+        "url": "https://www.youtube.com/watch?v=8rQ9ADXQ1JM",
+        "artist": "Joe Pass",
+        "title": "Love For Sale",
+        "album": "In Hamburg",
+        "label": "Joe Pass · Love for Sale · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Love For Sale",
+          "channel": "Joe Pass - Topic",
+          "durationSeconds": 307,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "alternateCandidate": {
+        "videoId": "eQNWh7F4Oxs",
+        "title": "Joe Pass — Virtuoso Live! full album",
+        "url": "https://www.youtube.com/watch?v=eQNWh7F4Oxs",
+        "status": "reference-candidate",
+        "reason": "Matches the GP album credit, but this full-album upload has no verified track-boundary timestamp. Do not start it at zero as a Love for Sale track."
+      },
+      "sourceRecordingIdentity": "recording-or-release-explicit-in-original-score"
+    },
+    {
+      "associatedSourceId": "diab-joe-meditation-1970",
+      "songIds": [
+        "meditation"
+      ],
+      "title": "Meditation",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The official 1970-album rendition is a useful Joe Pass reference. The local provider audio is a roughly 100-second solo excerpt; its placement within this full track is not established.",
+      "sourceAttribution": "provider-identified",
+      "evidence": [
+        {
+          "url": "https://www.djangoinabox.com/free.aspx",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=mg2YfXbJfHc",
+          "title": "Meditation — Joe Pass - Topic"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "recording": {
+        "id": "mg2YfXbJfHc",
+        "videoId": "mg2YfXbJfHc",
+        "url": "https://www.youtube.com/watch?v=mg2YfXbJfHc",
+        "artist": "Joe Pass",
+        "title": "Meditation",
+        "album": "Intercontinental",
+        "label": "Joe Pass · Meditation · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Meditation",
+          "channel": "Joe Pass - Topic",
+          "durationSeconds": 324,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-minor-matter",
+      "songIds": [
+        "minormatter"
+      ],
+      "title": "Minor Matter",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The GP notice identifies the August 1986 Guitar Player lesson flexi-disc; this upload names its three sections. No timing relation to the score has been established.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=7I4KXmXWYC8",
+          "title": "Guitar Player Magazine, Joe Pass \"Minor Matter\" 1.Melody 2.Singl-note soloing 3.Chord-melody soloing — Vinyl_Rage"
+        },
+        {
+          "url": "https://www.45cat.com/label/guitar-player-magazine",
+          "title": "Guitar Player Soundpage discography — #23, August 1986, three Minor Matter sections"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/minor_matter.gp3",
+        "title": "Minor Matter",
+        "artist": "Joe Pass",
+        "album": "Voir notice",
+        "tempo": 100,
+        "transcriber": "Robert-Philippe Couturier (rp.couturier@wanadoo.fr)",
+        "hasNotice": true,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 110.40000000000009,
+      "recording": {
+        "id": "7I4KXmXWYC8",
+        "videoId": "7I4KXmXWYC8",
+        "url": "https://www.youtube.com/watch?v=7I4KXmXWYC8",
+        "artist": "Joe Pass",
+        "title": "Guitar Player Magazine, Joe Pass \"Minor Matter\" 1.Melody 2.Singl-note soloing 3.Chord-melody soloing",
+        "album": "Guitar Player Soundpage #23 (August 1986)",
+        "label": "Joe Pass · Minor Matter · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Guitar Player Magazine, Joe Pass \"Minor Matter\" 1.Melody 2.Singl-note soloing 3.Chord-melody soloing",
+          "channel": "Vinyl_Rage",
+          "durationSeconds": 233,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "rejectedCandidate": {
+        "videoId": "Mx59eT_Tbt0",
+        "reason": "The uploader identifies a different February 1990 Soundpage #63 with two sections; do not confuse it with the GP’s August 1986 three-section lesson."
+      },
+      "sourceRecordingIdentity": "recording-or-release-explicit-in-original-score"
+    },
+    {
+      "associatedSourceId": "gp-joe-misty",
+      "songIds": [
+        "misty"
+      ],
+      "title": "Misty",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The Leduc upload provides a Joe Pass listening rendition. The GP header marks its album as unknown, so its performance identity remains unverified.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=5rpCRo3bcrI",
+          "title": "Misty - Joe Pass (Transcription) — François Leduc"
+        },
+        {
+          "url": "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-vol-3-12-transcriptions/",
+          "title": "Original transcriber’s linked collection"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/misty.gp4",
+        "title": "Misty",
+        "artist": "Joe Pass",
+        "album": "?",
+        "tempo": 56,
+        "transcriber": "JPL",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 162.85714285714286,
+      "recording": {
+        "id": "5rpCRo3bcrI",
+        "videoId": "5rpCRo3bcrI",
+        "url": "https://www.youtube.com/watch?v=5rpCRo3bcrI",
+        "artist": "Joe Pass",
+        "title": "Misty - Joe Pass (Transcription)",
+        "album": null,
+        "label": "Joe Pass · Misty · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Misty - Joe Pass (Transcription)",
+          "channel": "François Leduc",
+          "durationSeconds": 176,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": [
+            "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-vol-3-12-transcriptions/"
+          ]
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "leduc-5xh4c",
+      "songIds": [
+        "nightandday",
+        "nightanddaywversenicearrchords"
+      ],
+      "title": "Night and Day",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The matching transcriber upload is a strong candidate, but the public source provides only uploaded audio. Another Leduc Night and Day rendition also exists.",
+      "sourceAttribution": "provider-identified",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://www.soundslice.com/slices/5xh4c/",
+          "title": "Public Soundslice source — one uploaded audio recording, no YouTube ID"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=hA0b9SPZjyM",
+          "title": "Night & Day - Joe Pass (Transcription) — François Leduc"
+        },
+        {
+          "url": "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-12-transcriptions/",
+          "title": "Original transcriber’s linked collection"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "publicSourceAudit": {
+        "name": "Joe Pass - Night & Day",
+        "publicPage": "https://www.soundslice.com/slices/5xh4c/",
+        "recordingCount": 1,
+        "recordings": [
+          {
+            "id": 978320,
+            "type": 2,
+            "name": "Audio",
+            "durationSeconds": 218
+          }
+        ],
+        "youtubeIdentityPublished": false,
+        "checkedAt": "2026-10-29"
+      },
+      "recording": {
+        "id": "hA0b9SPZjyM",
+        "videoId": "hA0b9SPZjyM",
+        "url": "https://www.youtube.com/watch?v=hA0b9SPZjyM",
+        "artist": "Joe Pass",
+        "title": "Night & Day - Joe Pass (Transcription)",
+        "album": null,
+        "label": "Joe Pass · Night and Day · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Night & Day - Joe Pass (Transcription)",
+          "channel": "François Leduc",
+          "durationSeconds": 218,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": [
+            "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-12-transcriptions/"
+          ]
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-night-and-day-part-1",
+      "songIds": [
+        "nightandday"
+      ],
+      "title": "Night and Day — part 1",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The official Virtuoso upload is an established listening reference. The GP notes only a Guitar One source; the performance and excerpt boundaries are not documented.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=fiE5WW73e44",
+          "title": "Joe Pass - Night And Day (Official Visualizer) — Joe Pass"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/night_and_day_part_1.gp3",
+        "title": "Night And Day",
+        "artist": "",
+        "album": "",
+        "tempo": 80,
+        "transcriber": "",
+        "hasNotice": true,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 73.5,
+      "recording": {
+        "id": "fiE5WW73e44",
+        "videoId": "fiE5WW73e44",
+        "url": "https://www.youtube.com/watch?v=fiE5WW73e44",
+        "artist": "Joe Pass",
+        "title": "Joe Pass - Night And Day (Official Visualizer)",
+        "album": "Virtuoso",
+        "label": "Joe Pass · Night and Day · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Joe Pass - Night And Day (Official Visualizer)",
+          "channel": "Joe Pass",
+          "durationSeconds": 212,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-night-and-day-part-2",
+      "songIds": [
+        "nightandday"
+      ],
+      "title": "Night and Day — part 2",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The official Virtuoso upload is an established listening reference. Part 2 cannot inherit part 1’s timing or an assumed boundary; the GP identifies only Guitar One.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=fiE5WW73e44",
+          "title": "Joe Pass - Night And Day (Official Visualizer) — Joe Pass"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/night_and_day_part_2.gp3",
+        "title": "Night And Day",
+        "artist": "",
+        "album": "",
+        "tempo": 164,
+        "transcriber": "",
+        "hasNotice": true,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 139.02439024390264,
+      "recording": {
+        "id": "fiE5WW73e44",
+        "videoId": "fiE5WW73e44",
+        "url": "https://www.youtube.com/watch?v=fiE5WW73e44",
+        "artist": "Joe Pass",
+        "title": "Joe Pass - Night And Day (Official Visualizer)",
+        "album": "Virtuoso",
+        "label": "Joe Pass · Night and Day · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Joe Pass - Night And Day (Official Visualizer)",
+          "channel": "Joe Pass",
+          "durationSeconds": 212,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-pasta-blues",
+      "songIds": [
+        "pastablues"
+      ],
+      "title": "Pasta Blues",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The label-provided recording documents Pass’s original piece. The score duration differs substantially from the released track, so no score-clock relationship is claimed.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=s6pc6DEdGrA",
+          "title": "Pasta Blues — Joe Pass - Topic"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/pasta_blues.gp3",
+        "title": "Pasta Blues",
+        "artist": "Joe Pass",
+        "album": "",
+        "tempo": 90,
+        "transcriber": "kry",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 433.90000000000083,
+      "recording": {
+        "id": "s6pc6DEdGrA",
+        "videoId": "s6pc6DEdGrA",
+        "url": "https://www.youtube.com/watch?v=s6pc6DEdGrA",
+        "artist": "Joe Pass",
+        "title": "Pasta Blues",
+        "album": "Virtuoso #3",
+        "label": "Joe Pass · Pasta Blues · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Pasta Blues",
+          "channel": "Joe Pass - Topic",
+          "durationSeconds": 277,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-rosetta",
+      "songIds": [
+        "rosetta"
+      ],
+      "title": "Rosetta",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The label-provided quartet recording is a documented Pass reference. The contributor score’s repeats and tempo are not evidence of the recorded form.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=-gbMvEoYxwg",
+          "title": "Rosetta — Joe Pass - Topic"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/rosetta.gp3",
+        "title": "Rosetta",
+        "artist": "Joe Pass",
+        "album": "",
+        "tempo": 100,
+        "transcriber": "",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 307.19999999999993,
+      "recording": {
+        "id": "-gbMvEoYxwg",
+        "videoId": "-gbMvEoYxwg",
+        "url": "https://www.youtube.com/watch?v=-gbMvEoYxwg",
+        "artist": "Joe Pass",
+        "title": "Rosetta",
+        "album": "For Django",
+        "label": "Joe Pass · Rosetta · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Rosetta",
+          "channel": "Joe Pass - Topic",
+          "durationSeconds": 185,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": []
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "gp-joe-the-shadow-of-your-smile",
+      "songIds": [
+        "shadowofyoursmile"
+      ],
+      "title": "The Shadow of Your Smile",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The transcriber’s public upload provides a Joe Pass listening example. The GP has no album reference, and its artificial-harmonic pitches remain unverified.",
+      "sourceAttribution": "contributor-attributed",
+      "evidence": [
+        {
+          "url": "https://gtptabs.com/tabs/16/pass-joe.html",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://gtptabs.com/storage/archive/pass_joe.zip",
+          "title": "Original Guitar Pro archive — embedded metadata inspected"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=GF_HElrhgr0",
+          "title": "The Shadow of Your Smile - Joe Pass (Transcription) — François Leduc"
+        },
+        {
+          "url": "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-12-transcriptions/",
+          "title": "Original transcriber’s linked collection"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "sourceMetadata": {
+        "file": "pass_joe/the_shadow_of_your_smile.gp3",
+        "title": "The Shadow Of Your Smile",
+        "artist": "Joe Pass",
+        "album": "",
+        "tempo": 90,
+        "transcriber": "Alex Sas et Cauvain@wanadoo.fr",
+        "hasNotice": false,
+        "archiveUrl": "https://gtptabs.com/storage/archive/pass_joe.zip"
+      },
+      "scoreDurationSeconds": 177.3672316384181,
+      "recording": {
+        "id": "GF_HElrhgr0",
+        "videoId": "GF_HElrhgr0",
+        "url": "https://www.youtube.com/watch?v=GF_HElrhgr0",
+        "artist": "Joe Pass",
+        "title": "The Shadow of Your Smile - Joe Pass (Transcription)",
+        "album": null,
+        "label": "Joe Pass · The Shadow of Your Smile · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "The Shadow of Your Smile - Joe Pass (Transcription)",
+          "channel": "François Leduc",
+          "durationSeconds": 162,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": [
+            "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-12-transcriptions/"
+          ]
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "leduc-gfC4c",
+      "songIds": [
+        "someonetowatchoverme"
+      ],
+      "title": "Someone to Watch Over Me",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The same transcriber publishes this Joe Pass rendition; exact video edit and timing are not documented by the source audio player.",
+      "sourceAttribution": "provider-identified",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://www.soundslice.com/slices/gfC4c/",
+          "title": "Public Soundslice source — one uploaded audio recording, no YouTube ID"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=bHNmsU1EeB4",
+          "title": "Someone to Watch Over Me - Joe Pass (Transcription) — François Leduc"
+        },
+        {
+          "url": "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-12-transcriptions/",
+          "title": "Original transcriber’s linked collection"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "publicSourceAudit": {
+        "name": "Joe Pass - Someone To Watch Over Me",
+        "publicPage": "https://www.soundslice.com/slices/gfC4c/",
+        "recordingCount": 1,
+        "recordings": [
+          {
+            "id": 995521,
+            "type": 2,
+            "name": "Audio",
+            "durationSeconds": 185
+          }
+        ],
+        "youtubeIdentityPublished": false,
+        "checkedAt": "2026-10-29"
+      },
+      "recording": {
+        "id": "bHNmsU1EeB4",
+        "videoId": "bHNmsU1EeB4",
+        "url": "https://www.youtube.com/watch?v=bHNmsU1EeB4",
+        "artist": "Joe Pass",
+        "title": "Someone to Watch Over Me - Joe Pass (Transcription)",
+        "album": null,
+        "label": "Joe Pass · Someone to Watch Over Me · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Someone to Watch Over Me - Joe Pass (Transcription)",
+          "channel": "François Leduc",
+          "durationSeconds": 185,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": [
+            "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-12-transcriptions/"
+          ]
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "leduc-SXw4c",
+      "songIds": [
+        "stardust",
+        "stardustjs"
+      ],
+      "title": "Stardust",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "Same transcriber and title, but the video is about eight seconds longer than the source audio. That discrepancy prevents assuming zero offset or the same edit.",
+      "sourceAttribution": "provider-identified",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://www.soundslice.com/slices/SXw4c/",
+          "title": "Public Soundslice source — one uploaded audio recording, no YouTube ID"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=d3SHWATEjbc",
+          "title": "Stardust - Joe Pass (Transcription) — François Leduc"
+        },
+        {
+          "url": "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-vol-3-12-transcriptions/",
+          "title": "Original transcriber’s linked collection"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "publicSourceAudit": {
+        "name": "Joe Pass - Stardust",
+        "publicPage": "https://www.soundslice.com/slices/SXw4c/",
+        "recordingCount": 1,
+        "recordings": [
+          {
+            "id": 908650,
+            "type": 2,
+            "name": "Audio",
+            "durationSeconds": 207
+          }
+        ],
+        "youtubeIdentityPublished": false,
+        "checkedAt": "2026-10-29"
+      },
+      "recording": {
+        "id": "d3SHWATEjbc",
+        "videoId": "d3SHWATEjbc",
+        "url": "https://www.youtube.com/watch?v=d3SHWATEjbc",
+        "artist": "Joe Pass",
+        "title": "Stardust - Joe Pass (Transcription)",
+        "album": null,
+        "label": "Joe Pass · Stardust · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "Stardust - Joe Pass (Transcription)",
+          "channel": "François Leduc",
+          "durationSeconds": 215,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": [
+            "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-vol-3-12-transcriptions/"
+          ]
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "leduc-cDC4c",
+      "songIds": [
+        "theycanttakethatawayfromme"
+      ],
+      "title": "They Can’t Take That Away From Me",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The original transcriber’s upload is a strong listening candidate; source-to-video timing is not documented.",
+      "sourceAttribution": "provider-identified",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://www.soundslice.com/slices/cDC4c/",
+          "title": "Public Soundslice source — one uploaded audio recording, no YouTube ID"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=EA7eyF9BuAQ",
+          "title": "They Can't Take That Away From Me - Joe Pass (Transcription) — François Leduc"
+        },
+        {
+          "url": "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-12-transcriptions/",
+          "title": "Original transcriber’s linked collection"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "publicSourceAudit": {
+        "name": "Joe Pass - They Can't Take That Away From Me",
+        "publicPage": "https://www.soundslice.com/slices/cDC4c/",
+        "recordingCount": 1,
+        "recordings": [
+          {
+            "id": 995541,
+            "type": 2,
+            "name": "Audio",
+            "durationSeconds": 287
+          }
+        ],
+        "youtubeIdentityPublished": false,
+        "checkedAt": "2026-10-29"
+      },
+      "recording": {
+        "id": "EA7eyF9BuAQ",
+        "videoId": "EA7eyF9BuAQ",
+        "url": "https://www.youtube.com/watch?v=EA7eyF9BuAQ",
+        "artist": "Joe Pass",
+        "title": "They Can't Take That Away From Me - Joe Pass (Transcription)",
+        "album": null,
+        "label": "Joe Pass · They Can’t Take That Away From Me · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "They Can't Take That Away From Me - Joe Pass (Transcription)",
+          "channel": "François Leduc",
+          "durationSeconds": 287,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": [
+            "https://www.francoisleduconlinelibrary.com/product/joe-pass-collection-12-transcriptions/"
+          ]
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    },
+    {
+      "associatedSourceId": "leduc-MDC4c",
+      "songIds": [
+        "whitechristmas",
+        "whitechristmaswintronicearrchords"
+      ],
+      "title": "White Christmas",
+      "artist": "Joe Pass",
+      "status": "reference",
+      "exactVideoMatch": false,
+      "synchronizationVerified": false,
+      "offset": null,
+      "reason": "The original transcriber publishes this Joe Pass performance. Nearly equal duration does not prove a synchronized beginning or identical edit.",
+      "sourceAttribution": "provider-identified",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+          "title": "Existing source provider"
+        },
+        {
+          "url": "https://www.soundslice.com/slices/MDC4c/",
+          "title": "Public Soundslice source — one uploaded audio recording, no YouTube ID"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=8uIhS1ywof0",
+          "title": "White Christmas - Joe Pass (Transcription) — François Leduc"
+        },
+        {
+          "url": "https://www.francoisleduconlinelibrary.com/product/christmas-collection-18-transcriptions/",
+          "title": "Original transcriber’s linked collection"
+        }
+      ],
+      "checkedAt": "2026-10-29",
+      "publicSourceAudit": {
+        "name": "Joe Pass - White Christmas",
+        "publicPage": "https://www.soundslice.com/slices/MDC4c/",
+        "recordingCount": 1,
+        "recordings": [
+          {
+            "id": 995576,
+            "type": 2,
+            "name": "Audio",
+            "durationSeconds": 199
+          }
+        ],
+        "youtubeIdentityPublished": false,
+        "checkedAt": "2026-10-29"
+      },
+      "recording": {
+        "id": "8uIhS1ywof0",
+        "videoId": "8uIhS1ywof0",
+        "url": "https://www.youtube.com/watch?v=8uIhS1ywof0",
+        "artist": "Joe Pass",
+        "title": "White Christmas - Joe Pass (Transcription)",
+        "album": null,
+        "label": "Joe Pass · White Christmas · listening reference (not synchronized)",
+        "status": "reference-only",
+        "synchronized": false,
+        "offset": null,
+        "metadata": {
+          "title": "White Christmas - Joe Pass (Transcription)",
+          "channel": "François Leduc",
+          "durationSeconds": 199,
+          "publicPlayerStatus": "OK",
+          "method": "Public YouTube watch-page metadata; no playback attempted",
+          "checkedAt": "2026-10-29",
+          "providerUrls": [
+            "https://www.francoisleduconlinelibrary.com/product/christmas-collection-18-transcriptions/"
+          ]
+        }
+      },
+      "sourceRecordingIdentity": "not-established-for-youtube"
+    }
+  ]
+}

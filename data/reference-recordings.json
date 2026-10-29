@@ -4,100 +4,24 @@
   "policy": "Established recordings with a recognizable head; historical reference selection is separate from transcription alignment.",
   "entries": [
     {
-      "songId": "jordu",
-      "title": "Jordu",
-      "artist": "Clifford Brown & Max Roach",
-      "album": "Clifford Brown and Max Roach",
-      "recordedYear": 1954,
-      "videoId": "mcx6eyDGhp4",
-      "reason": "Brown and Roach's established early version makes the horn melody, rhythmic hits and bridge the reference point.",
+      "songId": "roundmidnight",
+      "title": "'Round Midnight",
+      "artist": "Thelonious Monk",
+      "album": "Genius of Modern Music, Vol. 1",
+      "recordedYear": 1947,
+      "videoId": "wnJU_Q6ZkKw",
+      "reason": "Monk's first commercial recording of his own ballad anchors the melody in the composer's early conception.",
       "evidence": [
         {
-          "url": "https://cruiseshipdrummer.com/2013/10/13/how-to-play-jordu/",
-          "title": "How to play Jordu \u2014 original recording and melody discrepancies"
+          "url": "https://www.wbgo.org/music/2021-05-25/what-thelonious-monks-most-famous-composition-owes-to-dizzy-gillespie",
+          "title": "WBGO — Monk's November 1947 recording and its introduction"
         },
         {
-          "url": "https://jazzjam.dk/jordu/",
-          "title": "Jordu \u2014 reference recording and theme study"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=mcx6eyDGhp4",
-          "title": "Clifford Brown \u2014 Jordu, label-provided recording"
+          "url": "https://www.youtube.com/watch?v=wnJU_Q6ZkKw",
+          "title": "Thelonious Monk — 'Round Midnight (recording upload)"
         }
       ],
-      "headEvidence": "The drum educator's discussion compares the written head with this exact Brown/Roach recording, including horn rhythms.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "documented",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Jordu",
-        "channel": "Clifford Brown - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "autumnleaves",
-      "title": "Autumn Leaves",
-      "artist": "Cannonball Adderley with Miles Davis",
-      "album": "Somethin' Else",
-      "recordedYear": 1958,
-      "videoId": "CpB7-8SGlJ0",
-      "reason": "Miles states the theme on this widely studied Adderley session; a strong model for melody, phrasing and the tune's minor-key atmosphere.",
-      "evidence": [
-        {
-          "url": "https://music.apple.com/us/album/somethin-else-remastered-2012/721271258",
-          "title": "Somethin' Else \u2014 editorial description of Davis stating the theme"
-        },
-        {
-          "url": "https://www.cannonball-adderley.com/1144.htm",
-          "title": "Somethin' Else \u2014 session personnel and original liner notes"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=CpB7-8SGlJ0",
-          "title": "Autumn Leaves \u2014 official Cannonball Adderley upload"
-        }
-      ],
-      "headEvidence": "Apple Music's album notes explicitly describe the introduction followed by Davis's trumpet statement of the theme.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "documented",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Autumn Leaves",
-        "channel": "Cannonball Adderley - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "bluebossa",
-      "title": "Blue Bossa",
-      "artist": "Joe Henderson with Kenny Dorham",
-      "album": "Page One",
-      "recordedYear": 1963,
-      "videoId": "EUxv3AAaK_Y",
-      "reason": "The original Henderson recording includes composer Kenny Dorham; it is the starting point for the tune's melody and bossa feel.",
-      "evidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=EUxv3AAaK_Y",
-          "title": "Blue Bossa \u2014 official Joe Henderson upload, Page One"
-        },
-        {
-          "url": "https://www.jazzadvice.com/lessons/kenny-dorham-not-just-another-trumpet-player/",
-          "title": "Jazzadvice \u2014 Kenny Dorham and the Page One standards"
-        },
-        {
-          "url": "https://www.jazzguitar.be/blog/wp-content/uploads/2025/11/blue-bossa.pdf",
-          "title": "JazzGuitar.be \u2014 Blue Bossa melody lesson and original recording"
-        }
-      ],
-      "headEvidence": "The original recording is identified by instrumental teaching sources. No independent listening or head timestamp is claimed.",
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
       "headStart": null,
       "verification": {
         "recordingIdentity": "documented",
@@ -105,67 +29,39 @@
         "checkedAt": "2026-10-29"
       },
       "uploadMetadata": {
-        "title": "Blue Bossa (Remastered)",
-        "channel": "Joe Henderson Quintet - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "bluemonk",
-      "title": "Blue Monk",
-      "artist": "Thelonious Monk Trio",
-      "album": "Thelonious Monk Trio",
-      "recordedYear": 1954,
-      "videoId": "ZdA_ywpEMXw",
-      "reason": "Monk's first recording gives the composer's own blues phrasing and touch, with a compact trio texture for following the melody.",
-      "evidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=ZdA_ywpEMXw",
-          "title": "Blue Monk \u2014 Thelonious Monk Trio, label-provided recording"
-        },
-        {
-          "url": "https://www.jazzstandards.com/compositions-1/bluemonk.htm",
-          "title": "JazzStandards \u2014 Monk's 1954 trio recording"
-        }
-      ],
-      "headEvidence": "JazzStandards identifies this first recording as a defining example of Monk's style; independent listening review remains pending.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Blue Monk (Rudy Van Gelder Remastered 2007)",
+        "title": "'Round Midnight",
         "channel": "Thelonious Monk - Topic",
         "oembedChecked": true,
         "checkedAt": "2026-10-29"
       }
     },
     {
-      "songId": "sowhat",
-      "title": "So What",
-      "artist": "Miles Davis",
-      "album": "Kind of Blue",
-      "recordedYear": 1959,
-      "videoId": "ylXk1LBvIqU",
-      "reason": "The original studio performance establishes the bass-led theme and the band's characteristic response; start with this version to learn the tune.",
+      "songId": "nightintunisia",
+      "title": "A Night In Tunisia",
+      "artist": "Dizzy Gillespie and His Orchestra",
+      "album": "The Complete RCA Victor Recordings",
+      "recordedYear": 1946,
+      "videoId": "vFli0-NsVFc",
+      "reason": "The composer’s 1946 RCA recording is a foundational model of the head, contrasting rhythmic feels and interlude.",
       "evidence": [
         {
-          "url": "https://www.milesdavis.com/albums/kind-of-blue/",
-          "title": "Miles Davis official \u2014 Kind of Blue"
+          "url": "https://jazzchanges.app/a-night-in-tunisia/",
+          "title": "A Night in Tunisia — composer’s 1946 recording with head, interlude and break discussion"
         },
         {
-          "url": "https://www.youtube.com/watch?v=ylXk1LBvIqU",
-          "title": "So What \u2014 Miles Davis official audio"
+          "url": "https://www.jazzdisco.org/dizzy-gillespie/discography/",
+          "title": "Dizzy Gillespie discography — February 22, 1946 RCA session"
         },
         {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "OCSA \u2014 104 Must-Know Tunes, definitive recordings"
+          "url": "https://www.northcountrypublicradio.org/news/npr/4543503/dizzy-gillespie-the-complete-rca-victor-recordings",
+          "title": "NPR: Dizzy Gillespie’s Complete RCA Victor Recordings"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=vFli0-NsVFc",
+          "title": "A Night In Tunisia — verified YouTube upload"
         }
       ],
-      "headEvidence": "The school repertoire guide names this exact upload as its definitive recording. Head timestamp is not measured.",
+      "headEvidence": "The tune study links this exact upload as Gillespie’s February 22, 1946 recording and describes its 32-bar head, interlude and break. The complete upload still needs an independent listening review; no start time is inferred.",
       "headStart": null,
       "verification": {
         "recordingIdentity": "documented",
@@ -173,8 +69,76 @@
         "checkedAt": "2026-10-29"
       },
       "uploadMetadata": {
-        "title": "Miles Davis - So What (Audio) (Official Audio)",
-        "channel": "MilesDavisVEVO",
+        "title": "Night in Tunisia",
+        "channel": "Dizzy Gillespie - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "airegin",
+      "title": "Airegin",
+      "artist": "Miles Davis with Sonny Rollins",
+      "album": "Bags’ Groove",
+      "recordedYear": 1954,
+      "videoId": "fpBMne1sfNE",
+      "reason": "Davis and composer Sonny Rollins introduce the tune on this foundational studio recording, a source for the complete horn melody.",
+      "evidence": [
+        {
+          "url": "https://sonnyrollins.com/bags-groove",
+          "title": "Sonny Rollins official discography — Airegin, June 29, 1954"
+        },
+        {
+          "url": "https://www.milesdavis.com/albums/bags-groove/",
+          "title": "Miles Davis official discography — Bags’ Groove"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=fpBMne1sfNE",
+          "title": "Airegin — verified YouTube upload"
+        }
+      ],
+      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Miles Davis - Airegin (Official Audio)",
+        "channel": "Miles Davis",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "aliceinwonderland",
+      "title": "Alice In Wonderland",
+      "artist": "Bill Evans Trio",
+      "album": "Sunday at the Village Vanguard",
+      "recordedYear": 1961,
+      "videoId": "LSleuTj_SpA",
+      "reason": "The Evans trio's issued Village Vanguard take is a central jazz reading of the Disney melody.",
+      "evidence": [
+        {
+          "url": "https://craftrecordings.com/blogs/news/original-jazz-classics-batch-2",
+          "title": "Craft Recordings — Sunday at the Village Vanguard, June 25, 1961 session"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=LSleuTj_SpA",
+          "title": "Bill Evans Trio — Alice In Wonderland (Live At The Village Vanguard, 1961 / Take 2) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Alice In Wonderland (Live At The Village Vanguard, 1961 / Take 2)",
+        "channel": "Bill Evans Trio - Topic",
         "oembedChecked": true,
         "checkedAt": "2026-10-29"
       }
@@ -190,15 +154,15 @@
       "evidence": [
         {
           "url": "https://www.jazzinamerica.org/Media/Audio/18?KeepThis=true&TB_iframe=true&height=640&width=500",
-          "title": "Jazz in America \u2014 All Blues recording and form"
+          "title": "Jazz in America — All Blues recording and form"
         },
         {
           "url": "https://www.milesdavis.com/albums/kind-of-blue/",
-          "title": "Miles Davis official \u2014 Kind of Blue"
+          "title": "Miles Davis official — Kind of Blue"
         },
         {
           "url": "https://www.youtube.com/watch?v=-488UORrfJ0",
-          "title": "All Blues \u2014 Miles Davis official audio"
+          "title": "All Blues — Miles Davis official audio"
         }
       ],
       "headEvidence": "The Herbie Hancock Institute's Jazz in America lesson uses the original recording as an educational example. No independent listening timestamp is claimed.",
@@ -216,28 +180,24 @@
       }
     },
     {
-      "songId": "freddiefreeloader",
-      "title": "Freddie Freeloader",
-      "artist": "Miles Davis",
-      "album": "Kind of Blue",
-      "recordedYear": 1959,
-      "videoId": "ZZcuSBouhVA",
-      "reason": "The original Miles Davis sextet recording is the standard starting point for the head, blues phrasing and relaxed swing feel.",
+      "songId": "allofme",
+      "title": "All Of Me",
+      "artist": "Lester Young & Teddy Wilson Quartet",
+      "album": "Pres and Teddy",
+      "recordedYear": 1956,
+      "videoId": "cH77OyCq7PU",
+      "reason": "Young and Wilson's established swing reading provides a historical reference for the song's phrasing and standard form.",
       "evidence": [
         {
-          "url": "https://www.milesdavis.com/albums/kind-of-blue/",
-          "title": "Miles Davis official \u2014 Kind of Blue"
+          "url": "https://www.udiscovermusic.com/stories/rediscovered-pres-and-teddy/",
+          "title": "UMG editorial — Pres and Teddy and All of Me"
         },
         {
-          "url": "https://www.youtube.com/watch?v=ZZcuSBouhVA",
-          "title": "Freddie Freeloader \u2014 Miles Davis official audio"
-        },
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "OCSA \u2014 104 Must-Know Tunes, definitive recordings"
+          "url": "https://www.youtube.com/watch?v=cH77OyCq7PU",
+          "title": "Lester Young & Teddy Wilson Quartet — All Of Me (recording upload)"
         }
       ],
-      "headEvidence": "The school guide selects the Kind of Blue performance. This official upload is identified by the Miles Davis channel; no head timestamp is asserted.",
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
       "headStart": null,
       "verification": {
         "recordingIdentity": "documented",
@@ -245,8 +205,380 @@
         "checkedAt": "2026-10-29"
       },
       "uploadMetadata": {
-        "title": "Miles Davis - Freddie Freeloader (Audio) (Official Audio)",
-        "channel": "MilesDavisVEVO",
+        "title": "All Of Me",
+        "channel": "Lester Young - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "allthethingsyouare",
+      "title": "All The Things You Are",
+      "artist": "Ella Fitzgerald with Nelson Riddle's orchestra",
+      "album": "Ella Fitzgerald Sings the Jerome Kern Song Book",
+      "recordedYear": 1963,
+      "videoId": "ASNSS_G62zw",
+      "reason": "Ella's songbook interpretation is a clear vocal reference for the complete song and its phrasing before exploring instrumental variations.",
+      "evidence": [
+        {
+          "url": "https://www.ellafitzgerald.com/releases-archive/ella-fitzgerald-sings-jerome-kern-songbook/",
+          "title": "Ella Fitzgerald official — Jerome Kern Songbook"
+        },
+        {
+          "url": "https://thesongbook.org/ellafitzgerald",
+          "title": "Great American Songbook Foundation — Ella's songbook recordings"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=ASNSS_G62zw",
+          "title": "All The Things You Are — UMG label-provided recording"
+        }
+      ],
+      "headEvidence": "Artist discography and the Songbook Foundation support this traditional songbook rendition. No independent listening or note alignment is claimed.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "All The Things You Are",
+        "channel": "Ella Fitzgerald - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "alonetogether",
+      "title": "Alone Together",
+      "artist": "Chet Baker",
+      "album": "Chet",
+      "recordedYear": 1958,
+      "videoId": "p0zIbYCu7Yc",
+      "reason": "Baker's lyrical Riverside performance, with Bill Evans and the horn ensemble, is a strong early small-group reference.",
+      "evidence": [
+        {
+          "url": "https://concord.com/concord-albums/chet-2/",
+          "title": "Concord — Chet"
+        },
+        {
+          "url": "https://musicbrainz.org/release/4ae051ec-8914-4432-9803-e76308268005",
+          "title": "Chet session data — Alone Together recorded December 30, 1958"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=p0zIbYCu7Yc",
+          "title": "Chet Baker — Alone Together (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Alone Together",
+        "channel": "Chet Baker - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "anthropology",
+      "title": "Anthropology",
+      "artist": "Dizzy Gillespie",
+      "album": "Bebop Masterpieces",
+      "recordedYear": 1946,
+      "videoId": "NyWfU29reYA",
+      "reason": "Gillespie’s early recording is a foundational source for the fast rhythm-changes head and ensemble articulation.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://www.jazzdisco.org/dizzy-gillespie/discography/",
+          "title": "Dizzy Gillespie discography — February 22, 1946 RCA session"
+        },
+        {
+          "url": "https://jazz-hitz.musikene.eus/index.php/jazz-hitz/es/article/download/86/50/100",
+          "title": "Jazz-hitz research: Milt Jackson on Gillespie’s 1946 Anthropology"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=NyWfU29reYA",
+          "title": "Anthropology — verified YouTube upload"
+        }
+      ],
+      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Anthropology (Remastered 2002)",
+        "channel": "Dizzy Gillespie - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "auprivave",
+      "title": "Au Privave",
+      "artist": "Charlie Parker Quintet",
+      "album": "Rétrospective 1940–1953",
+      "recordedYear": 1951,
+      "videoId": "i68MPEkI5dU",
+      "reason": "The composer’s 1951 small-group recording is a strong source for the melody’s bebop rhythms and blues form.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://www.jazzdisco.org/charlie-parker/discography/",
+          "title": "Charlie Parker discography — January 17, 1951 session"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=i68MPEkI5dU",
+          "title": "Au Privave — verified YouTube upload"
+        }
+      ],
+      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Au Privave (Eng 17 Jan 1951 NYC)",
+        "channel": "Charlie Parker - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "autumnleaves",
+      "title": "Autumn Leaves",
+      "artist": "Cannonball Adderley with Miles Davis",
+      "album": "Somethin' Else",
+      "recordedYear": 1958,
+      "videoId": "CpB7-8SGlJ0",
+      "reason": "Miles states the theme on this widely studied Adderley session; a strong model for melody, phrasing and the tune's minor-key atmosphere.",
+      "evidence": [
+        {
+          "url": "https://music.apple.com/us/album/somethin-else-remastered-2012/721271258",
+          "title": "Somethin' Else — editorial description of Davis stating the theme"
+        },
+        {
+          "url": "https://www.cannonball-adderley.com/1144.htm",
+          "title": "Somethin' Else — session personnel and original liner notes"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=CpB7-8SGlJ0",
+          "title": "Autumn Leaves — official Cannonball Adderley upload"
+        }
+      ],
+      "headEvidence": "Apple Music's album notes explicitly describe the introduction followed by Davis's trumpet statement of the theme.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Autumn Leaves",
+        "channel": "Cannonball Adderley - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "babik",
+      "title": "Babik",
+      "artist": "Django Reinhardt & le Quintette du Hot Club de France",
+      "album": "Brussels, 21 May 1947; reissued on Intégrale Vol. 13: Echoes of France",
+      "recordedYear": 1947,
+      "videoId": "xl72gWqkOCo",
+      "reason": "Django's own 1947 electric-guitar performance with Hubert Rostaing is an established source for the chromatic head and rhythm-changes form.",
+      "evidence": [
+        {
+          "url": "https://www.fremeaux.com/en/3973-django-reinhardt-integrale-vol-13-3448960231329-fa313.html",
+          "title": "Frémeaux & Associés — Intégrale Vol. 13; both 1947 Babik takes"
+        },
+        {
+          "url": "https://www.martingioani.com/docs/TGJC/V0/The_Transcribed_Gypsy_Jazz_Chordbook_V0.pdf",
+          "title": "Martin Gioani — Babik head harmony transcribed from two 1947 versions"
+        },
+        {
+          "url": "https://www.cglib.org/wp-content/uploads/Complete%20Works/Django%2C%20Reinhardt/Babik%20%28Bi-Bop%29%20%28Take%202%29.pdf",
+          "title": "Ben Givan — Babik take 2, May 21 1947, matrix Fo 1785-RC"
+        },
+        {
+          "url": "https://www.thebluegrassspecial.com/archive/2010/march10/django-reinhardt-michael-dregni.html",
+          "title": "Django biographer Michael Dregni recommends the May 1947 Babik session"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=xl72gWqkOCo",
+          "title": "Hubert Rostaing - Babik (Bi-Bob) Take 2 - Brussels 21.05.1947"
+        }
+      ],
+      "headEvidence": "Martin Gioani explicitly distinguishes head harmony from solo harmony in the two 1947 versions. Ben Givan documents the session and take 2; the selected upload attributes itself to that take. No listening or timing verification was performed.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Hubert Rostaing - Babik (Bi-Bob) Take 2 - Brussels 21.05.1947",
+        "channel": "Heinz Becker",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29",
+        "playerStatus": "OK",
+        "playableInEmbed": true
+      },
+      "catalogIdentityNote": "The bundled babik-django MIDI is a fixed-tempo Band-in-a-Box arrangement in F, not an evidenced transcription of this performance. The upload take number is uploader attribution. Use as an independent reference; do not inherit MIDI sync."
+    },
+    {
+      "songId": "beautifullove",
+      "title": "Beautiful Love",
+      "artist": "Bill Evans Trio",
+      "album": "Explorations",
+      "recordedYear": 1961,
+      "videoId": "7cdVTEe5Tyw",
+      "reason": "The original Evans trio's issued Explorations performance is an established piano-trio interpretation of this standard.",
+      "evidence": [
+        {
+          "url": "https://concord.com/news/craft-recordings-announces-latest-installment-in-prestigious-small-batch-series-bill-evans-trios-masterpiece-explorations/",
+          "title": "Craft/Concord — Explorations and the issued Beautiful Love take"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=7cdVTEe5Tyw",
+          "title": "Bill Evans Trio — Beautiful Love by the Bill Evans Trio from Explorations (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Beautiful Love by the Bill Evans Trio from Explorations",
+        "channel": "Bill Evans",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "billiesbounce",
+      "title": "Billie's Bounce",
+      "artist": "Charlie Parker",
+      "album": "The Savoy Recordings Master Takes",
+      "recordedYear": 1945,
+      "videoId": "S4mRaEzwTYo",
+      "reason": "Parker’s foundational blues recording is a standard source for the melody’s swing, accents and blues language.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://ci.nii.ac.jp/ncid/BB03143661",
+          "title": "The Charlie Parker Story — original takes and November 26, 1945 recording date"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=S4mRaEzwTYo",
+          "title": "Billie's Bounce — verified YouTube upload"
+        },
+        {
+          "url": "https://huggingface.co/datasets/xavriley/CharlieParkerAlignedOmnibook",
+          "title": "Charlie Parker Aligned Omnibook — source recording and aligned head transcription"
+        }
+      ],
+      "headEvidence": "The existing catalog connects this exact upload to the Charlie Parker Aligned Omnibook head-plus-solo source. This is source/transcription documentation, not a new independent listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "existingSourceId": "parker-Q6Ryc",
+      "uploadMetadata": {
+        "title": "Billie's Bounce / Charlie Parker　The Savoy Recordings",
+        "channel": "MINICQQPER",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "blackorpheus",
+      "title": "Black Orpheus",
+      "artist": "Stan Getz",
+      "album": "Big Band Bossa Nova",
+      "recordedYear": 1962,
+      "videoId": "LUiBg4T9h5g",
+      "reason": "Getz's early bossa recording with Gary McFarland's orchestra connects Manhã de Carnaval to its established jazz repertoire identity.",
+      "evidence": [
+        {
+          "url": "https://www.universalmusic.it/musica-jazz/album/big-band-bossa-nova_31002861927/",
+          "title": "Universal Music — Big Band Bossa Nova track list"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=LUiBg4T9h5g",
+          "title": "Stan Getz — Manha De Carnaval (Morning of Carnaval) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Manha De Carnaval (Morning of Carnaval)",
+        "channel": "Stan Getz - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "bluebossa",
+      "title": "Blue Bossa",
+      "artist": "Joe Henderson with Kenny Dorham",
+      "album": "Page One",
+      "recordedYear": 1963,
+      "videoId": "EUxv3AAaK_Y",
+      "reason": "The original Henderson recording includes composer Kenny Dorham; it is the starting point for the tune's melody and bossa feel.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=EUxv3AAaK_Y",
+          "title": "Blue Bossa — official Joe Henderson upload, Page One"
+        },
+        {
+          "url": "https://www.jazzadvice.com/lessons/kenny-dorham-not-just-another-trumpet-player/",
+          "title": "Jazzadvice — Kenny Dorham and the Page One standards"
+        },
+        {
+          "url": "https://www.jazzguitar.be/blog/wp-content/uploads/2025/11/blue-bossa.pdf",
+          "title": "JazzGuitar.be — Blue Bossa melody lesson and original recording"
+        }
+      ],
+      "headEvidence": "The original recording is identified by instrumental teaching sources. No independent listening or head timestamp is claimed.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Blue Bossa (Remastered)",
+        "channel": "Joe Henderson Quintet - Topic",
         "oembedChecked": true,
         "checkedAt": "2026-10-29"
       }
@@ -262,11 +594,11 @@
       "evidence": [
         {
           "url": "https://www.milesdavis.com/track/blue-in-green-feat-john-coltrane-bill-evans/",
-          "title": "Miles Davis official \u2014 Blue in Green session"
+          "title": "Miles Davis official — Blue in Green session"
         },
         {
           "url": "https://www.youtube.com/watch?v=TLDflhhdPCg",
-          "title": "Blue In Green \u2014 Miles Davis official audio"
+          "title": "Blue In Green — Miles Davis official audio"
         }
       ],
       "headEvidence": "Artist discography establishes the original performance. Independent listening and a precise head boundary remain pending.",
@@ -284,6 +616,2002 @@
       }
     },
     {
+      "songId": "bluemonk",
+      "title": "Blue Monk",
+      "artist": "Thelonious Monk Trio",
+      "album": "Thelonious Monk Trio",
+      "recordedYear": 1954,
+      "videoId": "ZdA_ywpEMXw",
+      "reason": "Monk's first recording gives the composer's own blues phrasing and touch, with a compact trio texture for following the melody.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=ZdA_ywpEMXw",
+          "title": "Blue Monk — Thelonious Monk Trio, label-provided recording"
+        },
+        {
+          "url": "https://www.jazzstandards.com/compositions-1/bluemonk.htm",
+          "title": "JazzStandards — Monk's 1954 trio recording"
+        }
+      ],
+      "headEvidence": "JazzStandards identifies this first recording as a defining example of Monk's style; independent listening review remains pending.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Blue Monk (Rudy Van Gelder Remastered 2007)",
+        "channel": "Thelonious Monk - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "bluetrain",
+      "title": "Blue Train (Blue Trane)",
+      "artist": "John Coltrane",
+      "album": "Blue Train",
+      "recordedYear": 1957,
+      "videoId": "-81BzBWGXZM",
+      "reason": "Coltrane's original Blue Note sextet recording establishes the arranged blues head with Lee Morgan and Curtis Fuller.",
+      "evidence": [
+        {
+          "url": "https://www.universalmusic.ca/2022/07/27/blue-note-announces-two-special-tone-poet-vinyl-editions-of-john-coltranes-blue-train-due-out-september-16/",
+          "title": "Universal/Blue Note — Blue Train original 1957 recording"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=-81BzBWGXZM",
+          "title": "John Coltrane — Blue Train (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Blue Train",
+        "channel": "John Coltrane - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "bodyandsoul",
+      "title": "Body And Soul",
+      "artist": "Benny Goodman Trio",
+      "album": "Victor 25115 / After You've Gone",
+      "recordedYear": 1935,
+      "videoId": "Ko2c5yJp8G8",
+      "reason": "Goodman's historic small-group version offers a melody-centered starting point. Hawkins's famous 1939 improvisation belongs among later listening comparisons.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "OCSA — Benny Goodman Trio definitive recording, exact video"
+        },
+        {
+          "url": "https://www.wtju.net/jazz-at-100-hour-20-small-groups-benny-goodman-django-reinhardt-john-kirby/",
+          "title": "WTJU — Goodman recording in Smithsonian Collection of Classic Jazz"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Ko2c5yJp8G8",
+          "title": "Benny Goodman Trio — Body and Soul"
+        },
+        {
+          "url": "https://www.allaboutjazz.com/coleman-hawkins-fifty-years-gone-a-saxophone-across-time-coleman-hawkins",
+          "title": "All About Jazz — why Hawkins's classic does not state the tune's melody"
+        }
+      ],
+      "headEvidence": "The school guide recommends this exact Goodman upload and WTJU identifies the historic trio master; head clarity still needs an independent listening pass.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Benny Goodman Trio - Body and soul",
+        "channel": "Lennart Länk aka helluvagun",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "cjamblues",
+      "title": "C Jam Blues",
+      "artist": "Duke Ellington and His Famous Orchestra",
+      "album": "Original Victor single 27856",
+      "recordedYear": 1942,
+      "videoId": "sp8vig6GQW4",
+      "reason": "Ellington's original record is a compact reference for the two-note head and swing-blues form.",
+      "catalogIdentityNote": "Catalog title is 'C Jam Blues (Russian Version)', inherited from a MIDI arrangement. Its Melody (BB) track starts with three G4 repeated-note figures ending on C5, over C/F/G blues changes; this supports the underlying tune identity. The arrangement label is retained, and this recording is a listening reference rather than a matched performance.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=sp8vig6GQW4",
+          "title": "The78Prof — original January 21, 1942 Victor recording"
+        },
+        {
+          "url": "https://ellingtonweb.ca/Hostedpages/DoojiCollection/DoojiCollection-1941-42.html",
+          "title": "Ellington label archive — matrix BS070683-1 / Victor 27856"
+        },
+        {
+          "url": "https://www.seattlejazzed.org/educator-store/foundations-unit-g-jam-blues",
+          "title": "Seattle JazzED — C Jam Blues as foundational repertoire"
+        }
+      ],
+      "headEvidence": "The transfer identifies the original 1942 record and its two-note head; the catalog arrangement begins with the characteristic G-to-C theme. No independent audio listening timestamp is claimed.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "1942 Duke Ellington - The “C” Jam Blues",
+        "channel": "The78Prof",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "cantaloupeisland",
+      "title": "Cantaloupe island",
+      "artist": "Herbie Hancock",
+      "album": "Empyrean Isles",
+      "recordedYear": 1964,
+      "videoId": "wWe17w5OeAk",
+      "reason": "Hancock's original acoustic quartet, with Freddie Hubbard, supplies the defining riff and horn-theme reference.",
+      "evidence": [
+        {
+          "url": "https://www.herbiehancock.com/music/discography/album/empyrean-isles/",
+          "title": "Herbie Hancock — Empyrean Isles discography and session notes"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=wWe17w5OeAk",
+          "title": "Herbie Hancock — Cantaloupe Island (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Cantaloupe Island",
+        "channel": "Herbie Hancock - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "caravan",
+      "title": "Caravan",
+      "artist": "Duke Ellington and His Famous Orchestra",
+      "album": "Ellington in Order, Volume 8 (1937)",
+      "recordedYear": 1937,
+      "videoId": "fTPxZd-q7j0",
+      "reason": "Ellington's 1937 orchestra recording supplies an early bandleader-led reference for the composed theme and contrasting bridge.",
+      "evidence": [
+        {
+          "url": "https://www.qobuz.com/us-en/album/ellington-in-order-volume-8-1937-duke-ellington/ff1p124grntqa",
+          "title": "Legacy-supplied catalog credits — Ellington in Order Volume 8"
+        },
+        {
+          "url": "https://www.americanhistory.si.edu/documentsgallery/exhibitions/ellington_strayhorn_5.html",
+          "title": "Smithsonian — Caravan and Ellington's performance history"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=fTPxZd-q7j0",
+          "title": "Duke Ellington and His Famous Orchestra — Caravan (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Caravan",
+        "channel": "Duke Ellington - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "chezjacquet",
+      "title": "Chez Jacquet",
+      "artist": "Matelo Ferret",
+      "album": "Matelot Ferret joue les inédits de Django Reinhardt; reissued on Tziganskaia and Other Rare Recordings",
+      "recordedYear": 1960,
+      "videoId": "18JnqL5YOHw",
+      "reason": "Django did not record this waltz. His collaborator Matelo Ferret's 1960 Vogue performance preserves the traditional melody and is the historically grounded reference, issued here by Hot Club Records.",
+      "evidence": [
+        {
+          "url": "https://www.djangostation.com/Matelot-Ferret-joue-les-inedits-de%2C389.html",
+          "title": "Django Station — 1960 Vogue EP EPL.7.740, personnel and recording history"
+        },
+        {
+          "url": "https://www.djangostation.com/Tziganskaia-and-other-rare%2C049.html",
+          "title": "Django Station — 1988 Hot Club reissue includes the four 1960 waltzes"
+        },
+        {
+          "url": "https://www.transcriptionslibrary.com/product/matelo-ferret-chez-jacquet/",
+          "title": "Valentin Voyer — complete Matelo Ferret Chez Jacquet transcription"
+        },
+        {
+          "url": "https://music.apple.com/us/song/296130546",
+          "title": "Apple Music — Matelo Ferret, Chez Jacquet, Tziganskaia and Other Rare Recordings"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=18JnqL5YOHw",
+          "title": "Chez Jacquet"
+        }
+      ],
+      "headEvidence": "Valentin Voyer transcribes the Matelo Ferret performance as a complete waltz and identifies Django as composer, not performer. The label-supplied Topic upload matches the documented Hot Club Records reissue and 2:20 track duration.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Chez Jacquet",
+        "channel": "Matelo Ferré - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29",
+        "playerStatus": "OK",
+        "playableInEmbed": true
+      },
+      "catalogIdentityNote": "Django Reinhardt is the composer. Matelo Ferret is the reference performer. The chez-jacquet-django MIDI is a Band-in-a-Box waltz arrangement, not an evidenced Django or Ferret performance transcription."
+    },
+    {
+      "songId": "confirmation",
+      "title": "Confirmation",
+      "artist": "Charlie Parker",
+      "album": "Now’s the Time: The Genius of Charlie Parker #3",
+      "recordedYear": 1953,
+      "videoId": "qHFSoE-3t-o",
+      "reason": "Parker’s studio statement is an established model for the tune’s intricate bebop melody and phrasing.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://jazzizdiscovery.com/charlie-parker-confirmation/",
+          "title": "Charlie Parker — Confirmation: July 30, 1953 studio master"
+        },
+        {
+          "url": "https://www.fremeaux.com/en/2604-integrale-vol-13-i-remember-you-1953-1954-3561302134321-fa1343.html",
+          "title": "Frémeaux: Charlie Parker integral, July 1953 session discography"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=qHFSoE-3t-o",
+          "title": "Confirmation — verified YouTube upload"
+        }
+      ],
+      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Confirmation",
+        "channel": "Charlie Parker - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "corcovado",
+      "title": "CORCOVADO",
+      "artist": "Stan Getz & João Gilberto, with Astrud Gilberto and Antônio Carlos Jobim",
+      "album": "Getz/Gilberto",
+      "recordedYear": 1963,
+      "videoId": "s3nfZ_aRRV0",
+      "reason": "The Getz/Gilberto album version preserves the song's vocal presentation within the foundational bossa nova ensemble.",
+      "evidence": [
+        {
+          "url": "https://www.jobim.org/jobim/handle/2010/14799",
+          "title": "Instituto Antônio Carlos Jobim — Getz/Gilberto recording archive"
+        },
+        {
+          "url": "https://store.ververecords.com/products/stan-getz-joao-gilberto-getz-gilberto-lp",
+          "title": "Verve — Getz/Gilberto and track list"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=s3nfZ_aRRV0",
+          "title": "Stan Getz & João Gilberto, with Astrud Gilberto and Antônio Carlos Jobim — Corcovado (Quiet Nights Of Quiet Stars) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Corcovado (Quiet Nights Of Quiet Stars)",
+        "channel": "Stan Getz - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "daysofwineandroses",
+      "title": "Days of Wine and Roses",
+      "artist": "Wes Montgomery",
+      "album": "Boss Guitar",
+      "recordedYear": 1963,
+      "videoId": "lTsao5gjbZo",
+      "reason": "Montgomery's classic organ-trio reading is a substantial jazz-guitar reference for Mancini's song, with a full performance surrounding the solos.",
+      "evidence": [
+        {
+          "url": "https://concord.com/concord-albums/boss-guitar/",
+          "title": "Concord — Boss Guitar"
+        },
+        {
+          "url": "https://www.jazzdisco.org/wes-montgomery/catalog/",
+          "title": "Jazz Discography — Boss Guitar session, April 22, 1963"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=lTsao5gjbZo",
+          "title": "Wes Montgomery — Wes Montgomery - Days Of Wine And Roses (Official Audio) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Wes Montgomery - Days Of Wine And Roses (Official Audio)",
+        "channel": "Wes Montgomery",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "desafinado",
+      "title": "Desafinado",
+      "artist": "Stan Getz & João Gilberto",
+      "album": "Getz/Gilberto",
+      "recordedYear": 1963,
+      "videoId": "oqHONL-LZ58",
+      "reason": "João Gilberto and Getz's Getz/Gilberto version provides an early vocal and instrumental reference with Jobim participating.",
+      "evidence": [
+        {
+          "url": "https://www.jobim.org/jobim/handle/2010/14799",
+          "title": "Instituto Antônio Carlos Jobim — Getz/Gilberto recording archive"
+        },
+        {
+          "url": "https://store.ververecords.com/products/stan-getz-joao-gilberto-getz-gilberto-lp",
+          "title": "Verve — Getz/Gilberto and track list"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=oqHONL-LZ58",
+          "title": "Stan Getz & João Gilberto — Desafinado (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Desafinado",
+        "channel": "Stan Getz - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "djangoscastle",
+      "title": "Django’s Castle (Manoir de mes rêves)",
+      "artist": "Django Reinhardt & le Quintette du Hot Club de France",
+      "album": "Paris, 17 February 1943; reissued on Intégrale Vol. 12: Manoir de mes rêves",
+      "recordedYear": 1943,
+      "videoId": "Z2Ev0B3b_hI",
+      "reason": "Django's 1943 recording presents the melody in the two clarinets before his guitar solo, making the composition's original phrasing and form clear.",
+      "evidence": [
+        {
+          "url": "https://djangonewquintettclarinet.wordpress.com/2016/07/10/manoir-de-mes-reves/",
+          "title": "Django Reinhardt & le Nouveau QHCF — 1943 head analysis and complete transcription"
+        },
+        {
+          "url": "https://www.djangostation.com/Manoir-de-mes-reves-IDR12%2C241.html",
+          "title": "Django Station — Frémeaux Intégrale Vol. 12"
+        },
+        {
+          "url": "https://www.gypsyjazztunes.com/songs/django-s-castle",
+          "title": "Gypsy Jazz Tunes — Django’s Castle / Manoir de mes rêves title identity"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Z2Ev0B3b_hI",
+          "title": "Django Reinhardt - Manoir De Mes Reves - Paris, 17.02.1943"
+        }
+      ],
+      "headEvidence": "The transcription resource describes the guitar/clarinet introduction, full theme in two clarinets, guitar solo, and final eight bars of the theme for this exact February 17, 1943 session.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Django Reinhardt - Manoir De Mes Reves - Paris, 17.02.1943",
+        "channel": "Heinz Becker",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29",
+        "playerStatus": "OK",
+        "playableInEmbed": true
+      },
+      "catalogIdentityNote": "The djangos-castle MIDI is a Band-in-a-Box arrangement in E-flat. This historical reference is independent of that MIDI and of the separate Joe Pass 1964 For Django transcription; it cannot inherit either source’s alignment."
+    },
+    {
+      "songId": "dontgetaroundmuchanymore",
+      "title": "Don't Get Around Much Anymore",
+      "artist": "Duke Ellington",
+      "album": "The Essential Duke Ellington (1940 recording)",
+      "recordedYear": 1940,
+      "videoId": "8aEUwMwy3UA",
+      "reason": "Ellington's 1940 instrumental, first known as Never No Lament, places the original band melody before later vocal adaptations.",
+      "evidence": [
+        {
+          "url": "https://www.bluesharmonica.com/dont_get_around_much_anymore",
+          "title": "Blues Harmonica — Ellington's 1940 original, Never No Lament"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=8aEUwMwy3UA",
+          "title": "Duke Ellington — Don't Get Around Much Anymore (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Don't Get Around Much Anymore",
+        "channel": "Duke Ellington - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "donnalee",
+      "title": "Donna Lee",
+      "artist": "Charlie Parker Quintet",
+      "album": "The Complete Savoy & Dial Master Takes",
+      "recordedYear": 1947,
+      "videoId": "Ny1bZE-SI_Q",
+      "reason": "The original Parker-led master provides the foundational phrasing and articulation of this demanding bebop head.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://www.jazzdisco.org/charlie-parker/discography/",
+          "title": "Charlie Parker session discography — May 8, 1947"
+        },
+        {
+          "url": "https://jcgairard.com/files/transcriptions/jcgairard-JA1-02_donna_lee.pdf",
+          "title": "Jean-Christophe Gairard: Donna Lee transcription, May 8, 1947"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Ny1bZE-SI_Q",
+          "title": "Donna Lee — verified YouTube upload"
+        }
+      ],
+      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Donna Lee",
+        "channel": "Charlie Parker - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "footprints",
+      "title": "Footprints",
+      "artist": "Wayne Shorter",
+      "album": "Adam's Apple",
+      "recordedYear": 1966,
+      "videoId": "LgaIUqH0w6c",
+      "reason": "Shorter's original quartet recording is the source for the tune's melody and pulse before the later Miles Davis treatment.",
+      "evidence": [
+        {
+          "url": "https://www.bluenote.com/ezra-collective-rework-wayne-shorters-footprints-for-blue-note-reimagined/",
+          "title": "Blue Note — Footprints originally recorded on Adam's Apple"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=LgaIUqH0w6c",
+          "title": "Wayne Shorter — Footprints (Remastered) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Footprints (Remastered)",
+        "channel": "Wayne Shorter - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "four",
+      "title": "Four",
+      "artist": "Miles Davis Quartet",
+      "album": "Blue Haze",
+      "recordedYear": 1954,
+      "videoId": "L_tYbcPvX_o",
+      "reason": "Davis’s early quartet recording is an established source for the tune’s head and swing articulation.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://aspen.greenvillelibrary.org/Record/54621",
+          "title": "Greenville County Library: Blue Haze track listing and recording credits"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=L_tYbcPvX_o",
+          "title": "Four — verified YouTube upload"
+        }
+      ],
+      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "MiLes Davis - FouR",
+        "channel": "kristkrst",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "freddiefreeloader",
+      "title": "Freddie Freeloader",
+      "artist": "Miles Davis",
+      "album": "Kind of Blue",
+      "recordedYear": 1959,
+      "videoId": "ZZcuSBouhVA",
+      "reason": "The original Miles Davis sextet recording is the standard starting point for the head, blues phrasing and relaxed swing feel.",
+      "evidence": [
+        {
+          "url": "https://www.milesdavis.com/albums/kind-of-blue/",
+          "title": "Miles Davis official — Kind of Blue"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=ZZcuSBouhVA",
+          "title": "Freddie Freeloader — Miles Davis official audio"
+        },
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "OCSA — 104 Must-Know Tunes, definitive recordings"
+        }
+      ],
+      "headEvidence": "The school guide selects the Kind of Blue performance. This official upload is identified by the Miles Davis channel; no head timestamp is asserted.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Miles Davis - Freddie Freeloader (Audio) (Official Audio)",
+        "channel": "MilesDavisVEVO",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "giantsteps",
+      "title": "Giant Steps",
+      "artist": "John Coltrane",
+      "album": "Giant Steps",
+      "recordedYear": 1959,
+      "videoId": "GaF-bu_0RG8",
+      "reason": "Coltrane's original issued master is the central reference for the composed head and its harmonic cycle.",
+      "evidence": [
+        {
+          "url": "https://media.rhino.com/press-release/john-coltrane-giant-steps-60th-anniversary-super-deluxe-edition-available-september",
+          "title": "Rhino — Giant Steps original 1959 sessions and 2020 remaster"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=GaF-bu_0RG8",
+          "title": "John Coltrane — Giant Steps (2020 Remaster) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Giant Steps (2020 Remaster)",
+        "channel": "John Coltrane - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "haveyoumetmissjones",
+      "title": "Have You Met Miss Jones?",
+      "artist": "Oscar Peterson Trio",
+      "album": "We Get Requests",
+      "recordedYear": 1964,
+      "videoId": "0gjUhFbp3XE",
+      "reason": "Peterson's concise We Get Requests version is an established trio reading for learning the song's melody and bridge.",
+      "evidence": [
+        {
+          "url": "https://store.ververecords.com/products/the-oscar-peterson-trio-we-get-requests-lp",
+          "title": "Verve — We Get Requests original 1964 album and track list"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=0gjUhFbp3XE",
+          "title": "Oscar Peterson Trio — Have You Met Miss Jones? (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Have You Met Miss Jones?",
+        "channel": "Oscar Peterson - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "howinsensitive",
+      "title": "How Insensitive (Insensatez)",
+      "artist": "Antônio Carlos Jobim",
+      "album": "The Composer of Desafinado, Plays",
+      "recordedYear": 1963,
+      "videoId": "deyU5iDPLXo",
+      "reason": "Jobim's first solo-album version supplies a composer-led instrumental reference for Insensatez.",
+      "evidence": [
+        {
+          "url": "https://www.jobim.org/jobim/handle/2010/10401",
+          "title": "Instituto Antônio Carlos Jobim — Insensatez, 1963 recording"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=deyU5iDPLXo",
+          "title": "Antônio Carlos Jobim — Insentatez (How Insensitive) (Remastered) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Insentatez (How Insensitive) (Remastered)",
+        "channel": "Antonio Carlos Jobim - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "icouldwriteabook",
+      "title": "I Could Write A Book",
+      "artist": "Miles Davis Quintet",
+      "album": "Relaxin' with the Miles Davis Quintet",
+      "recordedYear": 1956,
+      "videoId": "V-aaTglstZo",
+      "reason": "The first Miles Davis quintet's Prestige performance is an established small-group swing reading of the Rodgers and Hart standard.",
+      "evidence": [
+        {
+          "url": "https://www.milesdavis.com/albums/relaxin-with-the-miles-davis-quintet/",
+          "title": "Miles Davis official discography — Relaxin' with the Miles Davis Quintet"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=V-aaTglstZo",
+          "title": "Miles Davis Quintet — I Could Write A Book (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "I Could Write A Book",
+        "channel": "Miles Davis - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "irememberclifford",
+      "title": "I Remember Clifford",
+      "artist": "Lee Morgan",
+      "album": "Volume 3",
+      "recordedYear": 1957,
+      "videoId": "wB4xWjgbGwY",
+      "reason": "Morgan's early recording with composer Benny Golson gives this Clifford Brown tribute an authoritative trumpet-led reference.",
+      "evidence": [
+        {
+          "url": "https://www.universalmusic.it/musica-jazz/album/volume-3_30800849476/",
+          "title": "Universal Music — Lee Morgan Volume 3 and I Remember Clifford"
+        },
+        {
+          "url": "https://www.bluenote.com/artist/benny-golson/",
+          "title": "Blue Note — Golson's tribute to Clifford Brown"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=wB4xWjgbGwY",
+          "title": "Lee Morgan — I Remember Clifford (Rudy Van Gelder Edition / Remastered 2007) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "I Remember Clifford (Rudy Van Gelder Edition / Remastered 2007)",
+        "channel": "Lee Morgan - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "irememberyou",
+      "title": "I REMEMBER YOU",
+      "artist": "Chet Baker",
+      "album": "Chet Baker Sings and Plays",
+      "recordedYear": 1955,
+      "videoId": "M7pwRAh08sg",
+      "reason": "Baker's Pacific Jazz recording is an established small-group reference from his Sings and Plays period.",
+      "evidence": [
+        {
+          "url": "https://www.bluenote.com/tone-poet-vinyl-reissue-series-2023-line-up/",
+          "title": "Blue Note — Chet Baker Sings and Plays, 1955"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=M7pwRAh08sg",
+          "title": "Chet Baker — I Remember You (Remastered 2004) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "I Remember You (Remastered 2004)",
+        "channel": "Chet Baker - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "inamellowtone",
+      "title": "In A Mellow Tone",
+      "artist": "Louis Armstrong & Duke Ellington",
+      "album": "The Great Summit",
+      "recordedYear": 1961,
+      "videoId": "kd9XBMs-yvk",
+      "reason": "Armstrong and Ellington's 1961 collaboration provides a historic small-group reading by the composer and a major melodic interpreter.",
+      "evidence": [
+        {
+          "url": "https://www.louisarmstronghouse.org/virtual-exhibits/louis-armstrong-and-duke-ellington-65-years-of-the-great-summit/",
+          "title": "Louis Armstrong House Museum — The Great Summit session and In a Mellow Tone"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=kd9XBMs-yvk",
+          "title": "Louis Armstrong & Duke Ellington — In a Mellow Tone (1990 Remaster) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "In a Mellow Tone (1990 Remaster)",
+        "channel": "Louis Armstrong And The All-Stars - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "inasentimentalmood",
+      "title": "In A Sentimental Mood",
+      "artist": "Duke Ellington & John Coltrane",
+      "album": "Duke Ellington & John Coltrane",
+      "recordedYear": 1962,
+      "videoId": "JiP7jKdAhD0",
+      "reason": "Ellington and Coltrane's familiar ballad performance is a strong phrasing reference. Its concert key differs from many lead sheets.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=JiP7jKdAhD0",
+          "title": "In A Sentimental Mood — UMG label-provided recording"
+        },
+        {
+          "url": "https://www.jazzguitarcomprehensive.com/rep/in-a-sentimental-mood",
+          "title": "Jazz Guitar Comprehensive — top reference recording and key difference"
+        },
+        {
+          "url": "https://johncoltranediscography.org/release/duke-ellington-and-john-coltrane/",
+          "title": "John Coltrane discography — September 26, 1962 session"
+        }
+      ],
+      "headEvidence": "The guitar repertoire guide recommends this rendition and documents its different key. No exact head or tab synchronization is implied.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "In A Sentimental Mood",
+        "channel": "Duke Ellington - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "itcouldhappentoyou",
+      "title": "It Could Happen to You",
+      "artist": "Chet Baker",
+      "album": "Chet Baker Sings: It Could Happen to You",
+      "recordedYear": 1958,
+      "videoId": "TQ9I7wjdLqE",
+      "reason": "Baker's Riverside vocal interpretation offers a respected lyrical reference before the improvisation.",
+      "evidence": [
+        {
+          "url": "https://concord.com/concord-albums/chet-baker-sings-it-could-happen-to-you/",
+          "title": "Concord — Chet Baker Sings: It Could Happen to You"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=TQ9I7wjdLqE",
+          "title": "Chet Baker — It Could Happen To You (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "It Could Happen To You",
+        "channel": "Chet Baker - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "jordu",
+      "title": "Jordu",
+      "artist": "Clifford Brown & Max Roach",
+      "album": "Clifford Brown and Max Roach",
+      "recordedYear": 1954,
+      "videoId": "mcx6eyDGhp4",
+      "reason": "Brown and Roach's established early version makes the horn melody, rhythmic hits and bridge the reference point.",
+      "evidence": [
+        {
+          "url": "https://cruiseshipdrummer.com/2013/10/13/how-to-play-jordu/",
+          "title": "How to play Jordu — original recording and melody discrepancies"
+        },
+        {
+          "url": "https://jazzjam.dk/jordu/",
+          "title": "Jordu — reference recording and theme study"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=mcx6eyDGhp4",
+          "title": "Clifford Brown — Jordu, label-provided recording"
+        }
+      ],
+      "headEvidence": "The drum educator's discussion compares the written head with this exact Brown/Roach recording, including horn rhythms.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Jordu",
+        "channel": "Clifford Brown - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "likesomeoneinlove",
+      "title": "Like Someone In Love",
+      "artist": "Chet Baker",
+      "album": "Chet Baker Sings",
+      "recordedYear": 1956,
+      "videoId": "6WWRMqC1ONM",
+      "reason": "Baker's Pacific Jazz vocal performance keeps the lyric and song melody central to a traditional quartet reading.",
+      "evidence": [
+        {
+          "url": "https://shop.bluenote.com/products/chet-baker-sings-vinyl-lp",
+          "title": "Blue Note — Chet Baker Sings original sessions and track list"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=6WWRMqC1ONM",
+          "title": "Chet Baker — Like Someone In Love (Vocal Version) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Like Someone In Love (Vocal Version)",
+        "channel": "Chet Baker - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "littlesunflower",
+      "title": "Little Sunflower",
+      "artist": "Freddie Hubbard",
+      "album": "Backlash",
+      "recordedYear": 1966,
+      "videoId": "0ZBu0ARDGxs",
+      "reason": "Hubbard's original Backlash performance is specifically recommended by jazz educators for learning its approachable melody and modal contrast.",
+      "evidence": [
+        {
+          "url": "https://www.jazzresources.org/jazz-band-director-cohort-blog/blog-post-title-two-xfxa6",
+          "title": "Jazz Band Director Resource Site — Little Sunflower melody study, linked to this exact upload"
+        },
+        {
+          "url": "https://www.jazzdisco.org/freddie-hubbard/catalog/",
+          "title": "Jazz Discography — Backlash sessions, Little Sunflower recorded October 19, 1966"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=0ZBu0ARDGxs",
+          "title": "Freddie Hubbard — Little Sunflower (recording upload)"
+        }
+      ],
+      "headEvidence": "A jazz-educator lesson explicitly recommends this exact upload for its simple melody and modal contrast. No listening or timestamp claim is made.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Little Sunflower",
+        "channel": "Freddie Hubbard - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "maidenvoyage",
+      "title": "Maiden Voyage",
+      "artist": "Herbie Hancock",
+      "album": "Maiden Voyage",
+      "recordedYear": 1965,
+      "videoId": "EWC5x9G45yo",
+      "reason": "The composer's original quintet recording establishes the melody, suspended harmony and characteristic rhythmic figure.",
+      "evidence": [
+        {
+          "url": "https://www.herbiehancock.com/music/discography/album/maiden-voyage/",
+          "title": "Herbie Hancock — Maiden Voyage discography and session notes"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=EWC5x9G45yo",
+          "title": "Herbie Hancock — Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
+        "channel": "Herbie Hancock - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "misty",
+      "title": "Misty",
+      "artist": "Erroll Garner Trio",
+      "album": "Contrasts",
+      "recordedYear": 1954,
+      "videoId": "8YeDvbGoJCI",
+      "reason": "Garner's original recording is both the composer's interpretation and a directly recommended source for learning the melody and form.",
+      "evidence": [
+        {
+          "url": "https://pianowithjonny.com/piano-lessons/3-steps-to-play-misty-on-piano/",
+          "title": "Piano With Jonny — Misty reference recordings"
+        },
+        {
+          "url": "https://americanmusic.library.pitt.edu/content/garner-erroll",
+          "title": "University of Pittsburgh — Erroll Garner and the original Misty"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=8YeDvbGoJCI",
+          "title": "Erroll Garner Trio — Misty, original Contrasts recording"
+        }
+      ],
+      "headEvidence": "The piano lesson embeds this exact upload to help students internalize the melody and form, and explicitly identifies it as the original Contrasts recording.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Misty",
+        "channel": "Erroll Garner - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "myfoolishheart",
+      "title": "My Foolish Heart",
+      "artist": "Bill Evans Trio",
+      "album": "Waltz for Debby",
+      "recordedYear": 1961,
+      "videoId": "3y0lb5OG69E",
+      "reason": "Evans's Village Vanguard ballad reading is a foundational piano-trio interpretation, with the tune central to the performance.",
+      "evidence": [
+        {
+          "url": "https://craftrecordings.com/blogs/news/original-jazz-classics-batch-2",
+          "title": "Craft Recordings — Waltz for Debby, June 25, 1961 session and track list"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=3y0lb5OG69E",
+          "title": "Bill Evans Trio — My Foolish Heart (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "My Foolish Heart",
+        "channel": "Bill Evans Trio - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "myfunnyvalentine",
+      "title": "My Funny Valentine",
+      "artist": "Chet Baker",
+      "album": "Chet Baker Sings",
+      "recordedYear": 1954,
+      "videoId": "ni9Cp9mOOOg",
+      "reason": "Baker's original Pacific Jazz vocal version makes the lyric and melody the focus of this widely established interpretation.",
+      "evidence": [
+        {
+          "url": "https://shop.bluenote.com/products/chet-baker-sings-vinyl-lp",
+          "title": "Blue Note — Chet Baker Sings original sessions and track list"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=ni9Cp9mOOOg",
+          "title": "Chet Baker — My Funny Valentine (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "My Funny Valentine",
+        "channel": "Chet Baker - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "myromance",
+      "title": "My Romance",
+      "artist": "Bill Evans Trio",
+      "album": "Waltz for Debby",
+      "recordedYear": 1961,
+      "videoId": "XEkjCQNJWiw",
+      "reason": "Evans, LaFaro and Motian's Village Vanguard performance is a historic trio reference for the standard's melodic shape and interaction.",
+      "evidence": [
+        {
+          "url": "https://craftrecordings.com/blogs/news/original-jazz-classics-batch-2",
+          "title": "Craft Recordings — Waltz for Debby, June 25, 1961 session and track list"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=XEkjCQNJWiw",
+          "title": "Bill Evans Trio — My Romance (take 1) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "My Romance (take 1)",
+        "channel": "Bill Evans Trio - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "nowsthetime",
+      "title": "Now's The Time",
+      "artist": "Charlie Parker",
+      "album": "The Charlie Parker Story",
+      "recordedYear": 1945,
+      "videoId": "9dslss6qCC0",
+      "reason": "The original Parker blues master is a direct model of the compact riff melody and its traditional swing treatment.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://ci.nii.ac.jp/ncid/BB03143661",
+          "title": "The Charlie Parker Story — original take 4 and 1945 session"
+        },
+        {
+          "url": "https://www.kuvo.org/news/charlie-parkers-nows-the-time-stories-of-standards",
+          "title": "KUVO: Charlie Parker’s Now’s the Time — Stories of Standards"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=9dslss6qCC0",
+          "title": "Now's The Time — verified YouTube upload"
+        }
+      ],
+      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Now's The Time (Original Take 4)",
+        "channel": "Charlie Parker - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "nuages",
+      "title": "Nuages",
+      "artist": "Django Reinhardt & le Quintette du Hot Club de France",
+      "album": "Swing 88, Paris, 13 December 1940; reissued on Intégrale Vol. 10: Nuages 1940",
+      "recordedYear": 1940,
+      "videoId": "Fq-t9TVbthc",
+      "reason": "The celebrated December 1940 Swing recording puts Hubert Rostaing's clarinet head before Django's guitar solo. It is a clear historical source for the song's traditional melody.",
+      "evidence": [
+        {
+          "url": "https://djangonewquintettclarinet.wordpress.com/2016/07/10/nuages/",
+          "title": "Django Reinhardt & le Nouveau QHCF — December 1940 melody, form and complete transcription"
+        },
+        {
+          "url": "https://www.fremeaux.com/fr/3994-django-reinhardt-integrale-vol-10-3448960231022-fa310.html",
+          "title": "Frémeaux & Associés — Intégrale Vol. 10: Nuages 1940"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Fq-t9TVbthc",
+          "title": "Django Reinhardt - Nuages - Paris, 13.12.1940"
+        }
+      ],
+      "headEvidence": "The transcription resource identifies this December 13 session and describes the clarinet theme after the introduction, Django’s improvised chorus, and the written return. The separate October 1940 transcription must not be used to claim timing for this December take.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Django Reinhardt - Nuages - Paris, 13.12.1940",
+        "channel": "Heinz Becker",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29",
+        "playerStatus": "OK",
+        "playableInEmbed": true
+      },
+      "catalogIdentityNote": "The bundled Nuages MIDI/chart is in G; the 1940 reference is in F. The MIDI contains Band-in-a-Box Melody and Soloist tracks, not demonstrated exact-performance alignment. Existing catalog video Fq-t9TVbthc is correctly identified and can be promoted to the independent historical reference."
+    },
+    {
+      "songId": "oleo",
+      "title": "Oleo",
+      "artist": "Miles Davis with Sonny Rollins",
+      "album": "Bags’ Groove",
+      "recordedYear": 1954,
+      "videoId": "9IY29EZb1pI",
+      "reason": "The original Davis/Rollins recording establishes the rhythm-changes melody and its concise ensemble phrasing.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://sonnyrollins.com/bags-groove",
+          "title": "Sonny Rollins official discography — Bags’ Groove, June 29, 1954"
+        },
+        {
+          "url": "https://www.milesdavis.com/albums/bags-groove/",
+          "title": "Miles Davis official discography — Bags’ Groove"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=9IY29EZb1pI",
+          "title": "Oleo — verified YouTube upload"
+        }
+      ],
+      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Miles Davis Quintet - Oleo",
+        "channel": "60otaku4",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "ongreendolphinstreet",
+      "title": "On Green Dolphin Street",
+      "artist": "Miles Davis Sextet",
+      "album": "Jazz Track / '58 Sessions",
+      "recordedYear": 1958,
+      "videoId": "xGVdAlxlp18",
+      "reason": "The established Davis sextet rendition is a useful model for the tune's melody and its contrasting Latin and swing passages.",
+      "evidence": [
+        {
+          "url": "https://www.milesdavis.com/track/on-green-dolphin-street/",
+          "title": "Miles Davis official — May 26, 1958 recording"
+        },
+        {
+          "url": "https://www.milesdavis.com/videos/",
+          "title": "Miles Davis official — linked On Green Dolphin Street audio"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=xGVdAlxlp18",
+          "title": "On Green Dolphin Street — Miles Davis official audio"
+        },
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "OCSA — definitive recording from The '58 Sessions"
+        }
+      ],
+      "headEvidence": "The school guide selects this 1958 session; the artist website links the official upload. No measured head timing is claimed.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Miles Davis - On Green Dolphin Street (Official Audio)",
+        "channel": "MilesDavisVEVO",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "onceiloved",
+      "title": "Once I Loved (Amor Em Paz) (Love In Peace)",
+      "artist": "Antônio Carlos Jobim",
+      "album": "The Composer of Desafinado, Plays",
+      "recordedYear": 1963,
+      "videoId": "EBcKGIehQjk",
+      "reason": "Jobim's own 1963 arrangement is an early source for O amor em paz, also known as Once I Loved.",
+      "evidence": [
+        {
+          "url": "https://jobim.org/jobim/handle/2010/10408",
+          "title": "Instituto Antônio Carlos Jobim — O amor em paz, May 9, 1963 recording"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=EBcKGIehQjk",
+          "title": "Antônio Carlos Jobim — Once I Loved (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Once I Loved",
+        "channel": "Antonio Carlos Jobim - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "onenotesamba",
+      "title": "One Note Samba (Samba De Uma Nota Só)",
+      "artist": "Antônio Carlos Jobim",
+      "album": "The Composer of Desafinado, Plays",
+      "recordedYear": 1963,
+      "videoId": "DfRXj-8voas",
+      "reason": "The composer's 1963 arrangement provides a direct historical source for the repeated-note melody and contrasting bridge.",
+      "evidence": [
+        {
+          "url": "https://www.jobim.org/jobim/handle/2010/9736",
+          "title": "Instituto Antônio Carlos Jobim — One Note Samba arrangement recorded for the 1963 album"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=DfRXj-8voas",
+          "title": "Antônio Carlos Jobim — Samba De Uma Nota Só (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Samba De Uma Nota Só",
+        "channel": "Antonio Carlos Jobim - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "ornithology",
+      "title": "Ornithology",
+      "artist": "Charlie Parker",
+      "album": "The Genius of Charlie Parker",
+      "recordedYear": 1946,
+      "videoId": "Z2tvlp7RnlM",
+      "reason": "Parker’s original Dial-era performance establishes the head’s bebop phrasing and melodic contours.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://miguelgorodi.com/a-jazz-sessionography-1942-1959/",
+          "title": "Miguel Gorodi: Parker’s March 28, 1946 session"
+        },
+        {
+          "url": "https://pages.stolaf.edu/americanmusic/2017/10/",
+          "title": "St. Olaf American Music research — links this exact Parker recording"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Z2tvlp7RnlM",
+          "title": "Ornithology — verified YouTube upload"
+        },
+        {
+          "url": "https://huggingface.co/datasets/xavriley/CharlieParkerAlignedOmnibook",
+          "title": "Charlie Parker Aligned Omnibook — source recording and aligned head transcription"
+        }
+      ],
+      "headEvidence": "This exact upload is paired with the catalog’s Charlie Parker Aligned Omnibook head-plus-solo transcription. The head is source-documented; no new listening or timestamp claim is made.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "existingSourceId": "parker-KRfYc",
+      "uploadMetadata": {
+        "title": "Charlie Parker - Ornithology",
+        "channel": "rgsmusicargentina",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "preludetoakiss",
+      "title": "Prelude To A Kiss",
+      "artist": "Duke Ellington",
+      "album": "The Duke Plays Ellington",
+      "recordedYear": 1953,
+      "videoId": "HzqpEGP0JIg",
+      "reason": "Ellington's own Capitol trio performance is a compact composer-led reference for the ballad.",
+      "evidence": [
+        {
+          "url": "https://www.si.edu/object/archives/components/sova-cfch-rams-ref1205",
+          "title": "Smithsonian — The Duke Plays Ellington original Capitol LP"
+        },
+        {
+          "url": "https://etheses.whiterose.ac.uk/id/eprint/15076/12/665986_vol1.pdf",
+          "title": "University of Sheffield dissertation — Ellington's 1953 Capitol piano sessions"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=HzqpEGP0JIg",
+          "title": "Duke Ellington — Prelude To A Kiss (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Prelude To A Kiss",
+        "channel": "Duke Ellington - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "recordame",
+      "title": "Recorda Me",
+      "artist": "Joe Henderson",
+      "album": "Page One",
+      "recordedYear": 1963,
+      "videoId": "3c9zSAVWKEs",
+      "reason": "The composer’s debut-album recording sets out the bossa melody with Kenny Dorham and remains a central reference for the tune.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://www.bluenote.com/spotlight/joe-hendersons-auspicious-page-one/",
+          "title": "Blue Note: Joe Henderson’s auspicious Page One"
+        },
+        {
+          "url": "https://store.bluenote.com/products/joe-henderson-page-one-uhq-cd",
+          "title": "Blue Note: Page One release and track listing"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=3c9zSAVWKEs",
+          "title": "Recorda Me — verified YouTube upload"
+        }
+      ],
+      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Recorda Me",
+        "channel": "Joe Henderson Quintet - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "satindoll",
+      "title": "Satin Doll",
+      "artist": "Duke Ellington and His Orchestra",
+      "album": "Original Capitol single (Capitol 2458)",
+      "recordedYear": 1953,
+      "videoId": "Gj42JotNUko",
+      "reason": "Ellington's original orchestra recording is the natural reference for the tune's melody, phrasing and conventional swing setting.",
+      "evidence": [
+        {
+          "url": "https://www.americanhistory.si.edu/collections/object/nmah_1009378",
+          "title": "Smithsonian — Satin Doll / Without a Song, Capitol 2458"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Gj42JotNUko",
+          "title": "Duke Ellington — Satin Doll, 1953 Capitol recording"
+        },
+        {
+          "url": "https://www.filmsgraded.com/boxset/year/alpha/s/satindoll.htm",
+          "title": "Ellington discography — April 6, 1953 session"
+        }
+      ],
+      "headEvidence": "Museum and discographic records establish the original instrumental; independent listening remains pending.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Duke Ellington - Satin Doll 1953",
+        "channel": "JazzBreakTV",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "scrapplefromtheapple",
+      "title": "Scrapple From The Apple",
+      "artist": "Charlie Parker",
+      "album": "The Genius of Charlie Parker",
+      "recordedYear": 1947,
+      "videoId": "Mg4eOHc3Rpg",
+      "reason": "Parker’s original studio head is an established source for the tune’s accents and its transition into the rhythm-changes bridge.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://www.jazzdisco.org/charlie-parker/discography/",
+          "title": "Charlie Parker discography — November 4, 1947 Dial session"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Mg4eOHc3Rpg",
+          "title": "Scrapple From The Apple — verified YouTube upload"
+        },
+        {
+          "url": "https://huggingface.co/datasets/xavriley/CharlieParkerAlignedOmnibook",
+          "title": "Charlie Parker Aligned Omnibook — source recording and aligned head transcription"
+        }
+      ],
+      "headEvidence": "The existing catalog matches this exact upload to the aligned Parker head-plus-solo source. This documents the head through the source transcription; independent listening remains separate.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "existingSourceId": "parker-tRfYc",
+      "uploadMetadata": {
+        "title": "Charlie Parker - Scrapple from the apple",
+        "channel": "rgsmusicargentina",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "sowhat",
+      "title": "So What",
+      "artist": "Miles Davis",
+      "album": "Kind of Blue",
+      "recordedYear": 1959,
+      "videoId": "ylXk1LBvIqU",
+      "reason": "The original studio performance establishes the bass-led theme and the band's characteristic response; start with this version to learn the tune.",
+      "evidence": [
+        {
+          "url": "https://www.milesdavis.com/albums/kind-of-blue/",
+          "title": "Miles Davis official — Kind of Blue"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=ylXk1LBvIqU",
+          "title": "So What — Miles Davis official audio"
+        },
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "OCSA — 104 Must-Know Tunes, definitive recordings"
+        }
+      ],
+      "headEvidence": "The school repertoire guide names this exact upload as its definitive recording. Head timestamp is not measured.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Miles Davis - So What (Audio) (Official Audio)",
+        "channel": "MilesDavisVEVO",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "softlyasinamorningsunrise",
+      "title": "Softly as in a Morning Sunrise",
+      "artist": "Sonny Rollins",
+      "album": "A Night at the Village Vanguard",
+      "recordedYear": 1957,
+      "videoId": "47ah5umK0dA",
+      "reason": "Rollins's original Village Vanguard trio performance is a respected tenor reference for the tune without chordal accompaniment.",
+      "evidence": [
+        {
+          "url": "https://sonnyrollins.com/a-night-at-the-village-vanguard",
+          "title": "Sonny Rollins official discography — A Night at the Village Vanguard"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=47ah5umK0dA",
+          "title": "Sonny Rollins — Softly As In A Morning Sunrise (Live At The Village Vanguard/1957 - Evening Take) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Softly As In A Morning Sunrise (Live At The Village Vanguard/1957 - Evening Take)",
+        "channel": "Sonny Rollins - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "solar",
+      "title": "Solar",
+      "artist": "Miles Davis Quintet",
+      "album": "Walkin’",
+      "recordedYear": 1954,
+      "videoId": "X6pB2WtStbI",
+      "reason": "Davis’s early studio recording supplies an established model of the 12-bar melody, phrasing and compact form.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://www.milesdavis.com/albums/walkin/",
+          "title": "Miles Davis official discography — Walkin’, April 1954"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=X6pB2WtStbI",
+          "title": "Solar — verified YouTube upload"
+        }
+      ],
+      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Miles Davis Quintet - Solar",
+        "channel": "The Pleasure of Jazz",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "somedaymyprincewillcome",
+      "title": "Some Day My Prince Will Come",
+      "artist": "Miles Davis",
+      "album": "Someday My Prince Will Come",
+      "recordedYear": 1961,
+      "videoId": "fWN9UfUV9eE",
+      "reason": "Miles Davis's studio version preserves the waltz character and is used in a university text to illustrate the song's form.",
+      "evidence": [
+        {
+          "url": "https://www.milesdavis.com/albums/someday-my-prince-will-come/",
+          "title": "Miles Davis official discography — Someday My Prince Will Come"
+        },
+        {
+          "url": "https://musictheory.pugetsound.edu/hw/MusicTheory-August-2023.pdf",
+          "title": "University of Puget Sound — ABAC form example links to this exact recording"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=fWN9UfUV9eE",
+          "title": "Miles Davis — Someday My Prince Will Come (recording upload)"
+        }
+      ],
+      "headEvidence": "Robert Hutchinson's university music-theory text links this exact recording as an ABAC-form example. The head has not been independently timed in this run.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Someday My Prince Will Come",
+        "channel": "Miles Davis - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "songformyfather",
+      "title": "Song For My Father",
+      "artist": "Horace Silver Quintet",
+      "album": "Song for My Father",
+      "recordedYear": 1964,
+      "videoId": "mKf1x3CALAE",
+      "reason": "Silver’s original quintet recording anchors the familiar bass figure and horn melody in the composer’s own arrangement.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://www.bluenote.com/spotlight/horace-silver-song-for-my-father/",
+          "title": "Blue Note: Horace Silver’s Song for My Father — October 26, 1964 title track"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=mKf1x3CALAE",
+          "title": "Song For My Father — verified YouTube upload"
+        }
+      ],
+      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Song For My Father",
+        "channel": "Horace Silver - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "sophisticatedlady",
+      "title": "Sophisticated Lady",
+      "artist": "Duke Ellington and His Orchestra",
+      "album": "Ken Burns Jazz: Duke Ellington (1933 recording)",
+      "recordedYear": 1933,
+      "videoId": "s5DjHrKXccI",
+      "reason": "Ellington's 1933 orchestra performance offers an early source for the composition's melodic contours and orchestral phrasing.",
+      "evidence": [
+        {
+          "url": "https://albumlinernotes.com/Duke_-_Ken_Burns_Jazz.html",
+          "title": "Ken Burns Jazz: Duke Ellington — reproduced session credits and liner notes"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=s5DjHrKXccI",
+          "title": "Duke Ellington and His Orchestra — Sophisticated Lady (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Sophisticated Lady",
+        "channel": "Duke Ellington - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "stthomas",
+      "title": "St. Thomas",
+      "artist": "Sonny Rollins",
+      "album": "Saxophone Colossus",
+      "recordedYear": 1956,
+      "videoId": "UA2XIWZxMKM",
+      "reason": "Rollins’s classic recording provides the familiar melody, calypso feel and phrasing used to learn the tune.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/SonnyRollinsInterview.pdf",
+          "title": "Library of Congress: Sonny Rollins interview on Saxophone Colossus"
+        },
+        {
+          "url": "https://www.wrti.org/wrti-spotlight/2025-09-02/hailing-the-saxophone-colossus-wrti-toasts-sonny-rollins-at-95",
+          "title": "WRTI: Sonny Rollins and Saxophone Colossus"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=UA2XIWZxMKM",
+          "title": "St. Thomas — verified YouTube upload"
+        }
+      ],
+      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "SONNY ROLLINS.St. Thomas",
+        "channel": "limbojazzvideo",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "stellabystarlight",
+      "title": "Stella By Starlight",
+      "artist": "Miles Davis Sextet",
+      "album": "Jazz Track / '58 Sessions",
+      "recordedYear": 1958,
+      "videoId": "XGx1HvLV_NQ",
+      "reason": "The Davis studio ballad offers an established melodic interpretation with Coltrane and Evans, suited to learning phrasing before faster live versions.",
+      "evidence": [
+        {
+          "url": "https://www.milesdavis.com/videos/",
+          "title": "Miles Davis official — linked Stella by Starlight audio"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=XGx1HvLV_NQ",
+          "title": "Stella by Starlight — Miles Davis official audio"
+        },
+        {
+          "url": "https://www.kuvo.org/news/stella-by-starlight-stories-of-standards",
+          "title": "KUVO Jazz — Stories of Standards, exact recording link"
+        },
+        {
+          "url": "https://www.siacomposingcommunity.com/306-01-jazz",
+          "title": "Music 306 jazz analysis resources — exact first-quintet reference"
+        }
+      ],
+      "headEvidence": "Jazz radio and university analysis resources select this exact upload. Detailed listening and exact head boundaries remain pending.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Miles Davis - Stella by Starlight (Official Audio)",
+        "channel": "MilesDavisVEVO",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "stolenmoments",
+      "title": "Stolen Moments",
+      "artist": "Oliver Nelson",
+      "album": "The Blues and the Abstract Truth",
+      "recordedYear": 1961,
+      "videoId": "7A9XsIjr-R4",
+      "reason": "Nelson's celebrated small-group arrangement is the primary jazz reference for the extended theme and minor-blues improvisation.",
+      "evidence": [
+        {
+          "url": "https://www.impulserecords.com/our-story/",
+          "title": "Impulse Records — The Blues and the Abstract Truth, 1961"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=7A9XsIjr-R4",
+          "title": "Oliver Nelson — Stolen Moments (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Stolen Moments",
+        "channel": "Oliver Nelson - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "sugar",
+      "title": "Sugar",
+      "artist": "Stanley Turrentine",
+      "album": "Sugar",
+      "recordedYear": 1970,
+      "videoId": "KA-15zWmIJo",
+      "reason": "Turrentine's original CTI studio performance offers the composer's established soul-jazz reading with Freddie Hubbard and George Benson.",
+      "evidence": [
+        {
+          "url": "https://www.jazzdisco.org/cti-records/discography-1969-1970/",
+          "title": "Jazz Discography — CTI Sugar sessions"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=KA-15zWmIJo",
+          "title": "Stanley Turrentine — Sugar (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Sugar",
+        "channel": "Stanley Turrentine - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "summertime",
+      "title": "Summertime",
+      "artist": "Ella Fitzgerald & Louis Armstrong",
+      "album": "Porgy and Bess (also issued on First Lady of Song)",
+      "recordedYear": 1957,
+      "videoId": "kVaISDdt5-o",
+      "reason": "Ella and Louis give a historic vocal-and-trumpet reading that keeps the song's melody and lyric central.",
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=kVaISDdt5-o",
+          "title": "Summertime — official Ella Fitzgerald upload, 1957 master"
+        },
+        {
+          "url": "https://jazzhistoryonline.com/the-many-sounds-of-summertime/",
+          "title": "Jazz History Online — Ella and Louis's Porgy and Bess interpretation"
+        },
+        {
+          "url": "https://www.riseupsinging.org/songs/summertime",
+          "title": "Rise Up Singing — Summertime reference versions"
+        }
+      ],
+      "headEvidence": "The song-learning resource includes the Ella/Louis version, and label metadata identifies the 1957 master. No exact head timing is claimed.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Summertime",
+        "channel": "Ella Fitzgerald - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
       "songId": "takefive",
       "title": "Take Five",
       "artist": "The Dave Brubeck Quartet",
@@ -294,15 +2622,15 @@
       "evidence": [
         {
           "url": "https://www.youtube.com/watch?v=-DHuW1h1wHw",
-          "title": "Take Five \u2014 Dave Brubeck official audio"
+          "title": "Take Five — Dave Brubeck official audio"
         },
         {
           "url": "https://www.davebrubeck.com/take-five-instrumental",
-          "title": "Dave Brubeck official \u2014 Take Five, composer credit"
+          "title": "Dave Brubeck official — Take Five, composer credit"
         },
         {
           "url": "https://www.jazz.com/music/dave-brubeck-take-five",
-          "title": "Ted Gioia \u2014 Dave Brubeck: Take Five"
+          "title": "Ted Gioia — Dave Brubeck: Take Five"
         }
       ],
       "headEvidence": "Artist and critical sources document this original landmark version. The exact head start has not been independently checked.",
@@ -330,11 +2658,11 @@
       "evidence": [
         {
           "url": "https://amhistory.si.edu/documentsgallery/exhibitions/ellington_strayhorn_7.html",
-          "title": "Smithsonian \u2014 Take the A Train original recording and chorus structure"
+          "title": "Smithsonian — Take the A Train original recording and chorus structure"
         },
         {
           "url": "https://www.youtube.com/watch?v=RhuzhkPpKz0",
-          "title": "Take the A Train \u2014 RCA Victor label-provided recording"
+          "title": "Take the A Train — RCA Victor label-provided recording"
         }
       ],
       "headEvidence": "Smithsonian explicitly describes the band playing the first chorus on the original 1941 RCA recording before Ray Nance's solo.",
@@ -352,802 +2680,25 @@
       }
     },
     {
-      "songId": "satindoll",
-      "title": "Satin Doll",
-      "artist": "Duke Ellington and His Orchestra",
-      "album": "Original Capitol single (Capitol 2458)",
-      "recordedYear": 1953,
-      "videoId": "Gj42JotNUko",
-      "reason": "Ellington's original orchestra recording is the natural reference for the tune's melody, phrasing and conventional swing setting.",
-      "evidence": [
-        {
-          "url": "https://www.americanhistory.si.edu/collections/object/nmah_1009378",
-          "title": "Smithsonian \u2014 Satin Doll / Without a Song, Capitol 2458"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=Gj42JotNUko",
-          "title": "Duke Ellington \u2014 Satin Doll, 1953 Capitol recording"
-        },
-        {
-          "url": "https://www.filmsgraded.com/boxset/year/alpha/s/satindoll.htm",
-          "title": "Ellington discography \u2014 April 6, 1953 session"
-        }
-      ],
-      "headEvidence": "Museum and discographic records establish the original instrumental; independent listening remains pending.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Duke Ellington - Satin Doll 1953",
-        "channel": "JazzBreakTV",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "inasentimentalmood",
-      "title": "In A Sentimental Mood",
-      "artist": "Duke Ellington & John Coltrane",
-      "album": "Duke Ellington & John Coltrane",
-      "recordedYear": 1962,
-      "videoId": "JiP7jKdAhD0",
-      "reason": "Ellington and Coltrane's familiar ballad performance is a strong phrasing reference. Its concert key differs from many lead sheets.",
-      "evidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=JiP7jKdAhD0",
-          "title": "In A Sentimental Mood \u2014 UMG label-provided recording"
-        },
-        {
-          "url": "https://www.jazzguitarcomprehensive.com/rep/in-a-sentimental-mood",
-          "title": "Jazz Guitar Comprehensive \u2014 top reference recording and key difference"
-        },
-        {
-          "url": "https://johncoltranediscography.org/release/duke-ellington-and-john-coltrane/",
-          "title": "John Coltrane discography \u2014 September 26, 1962 session"
-        }
-      ],
-      "headEvidence": "The guitar repertoire guide recommends this rendition and documents its different key. No exact head or tab synchronization is implied.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "In A Sentimental Mood",
-        "channel": "Duke Ellington - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "misty",
-      "title": "Misty",
-      "artist": "Erroll Garner Trio",
-      "album": "Contrasts",
-      "recordedYear": 1954,
-      "videoId": "8YeDvbGoJCI",
-      "reason": "Garner's original recording is both the composer's interpretation and a directly recommended source for learning the melody and form.",
-      "evidence": [
-        {
-          "url": "https://pianowithjonny.com/piano-lessons/3-steps-to-play-misty-on-piano/",
-          "title": "Piano With Jonny \u2014 Misty reference recordings"
-        },
-        {
-          "url": "https://americanmusic.library.pitt.edu/content/garner-erroll",
-          "title": "University of Pittsburgh \u2014 Erroll Garner and the original Misty"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=8YeDvbGoJCI",
-          "title": "Erroll Garner Trio \u2014 Misty, original Contrasts recording"
-        }
-      ],
-      "headEvidence": "The piano lesson embeds this exact upload to help students internalize the melody and form, and explicitly identifies it as the original Contrasts recording.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "documented",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Misty",
-        "channel": "Erroll Garner - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "ongreendolphinstreet",
-      "title": "On Green Dolphin Street",
-      "artist": "Miles Davis Sextet",
-      "album": "Jazz Track / '58 Sessions",
-      "recordedYear": 1958,
-      "videoId": "xGVdAlxlp18",
-      "reason": "The established Davis sextet rendition is a useful model for the tune's melody and its contrasting Latin and swing passages.",
-      "evidence": [
-        {
-          "url": "https://www.milesdavis.com/track/on-green-dolphin-street/",
-          "title": "Miles Davis official \u2014 May 26, 1958 recording"
-        },
-        {
-          "url": "https://www.milesdavis.com/videos/",
-          "title": "Miles Davis official \u2014 linked On Green Dolphin Street audio"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=xGVdAlxlp18",
-          "title": "On Green Dolphin Street \u2014 Miles Davis official audio"
-        },
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "OCSA \u2014 definitive recording from The '58 Sessions"
-        }
-      ],
-      "headEvidence": "The school guide selects this 1958 session; the artist website links the official upload. No measured head timing is claimed.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Miles Davis - On Green Dolphin Street (Official Audio)",
-        "channel": "MilesDavisVEVO",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "stellabystarlight",
-      "title": "Stella By Starlight",
-      "artist": "Miles Davis Sextet",
-      "album": "Jazz Track / '58 Sessions",
-      "recordedYear": 1958,
-      "videoId": "XGx1HvLV_NQ",
-      "reason": "The Davis studio ballad offers an established melodic interpretation with Coltrane and Evans, suited to learning phrasing before faster live versions.",
-      "evidence": [
-        {
-          "url": "https://www.milesdavis.com/videos/",
-          "title": "Miles Davis official \u2014 linked Stella by Starlight audio"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=XGx1HvLV_NQ",
-          "title": "Stella by Starlight \u2014 Miles Davis official audio"
-        },
-        {
-          "url": "https://www.kuvo.org/news/stella-by-starlight-stories-of-standards",
-          "title": "KUVO Jazz \u2014 Stories of Standards, exact recording link"
-        },
-        {
-          "url": "https://www.siacomposingcommunity.com/306-01-jazz",
-          "title": "Music 306 jazz analysis resources \u2014 exact first-quintet reference"
-        }
-      ],
-      "headEvidence": "Jazz radio and university analysis resources select this exact upload. Detailed listening and exact head boundaries remain pending.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Miles Davis - Stella by Starlight (Official Audio)",
-        "channel": "MilesDavisVEVO",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "therewillneverbeanotheryou",
-      "title": "There Will Never Be Another You",
-      "artist": "Chet Baker",
-      "album": "Chet Baker Sings",
-      "recordedYear": 1954,
-      "videoId": "ytHMBYLwgVU",
-      "reason": "Baker's familiar vocal version makes the tune and its phrasing easy to follow, with the words helping anchor the melody.",
-      "evidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=ytHMBYLwgVU",
-          "title": "There Will Never Be Another You (Vocal Version) \u2014 official Chet Baker upload"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Chet_Baker_Sings",
-          "title": "Chet Baker Sings \u2014 recording and track identification"
-        }
-      ],
-      "headEvidence": "The label identifies this as the vocal version from Chet Baker Sings; independent listening and exact head timing remain pending.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "There Will Never Be Another You (Vocal Version)",
-        "channel": "Chet Baker - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "allthethingsyouare",
-      "title": "All The Things You Are",
-      "artist": "Ella Fitzgerald with Nelson Riddle's orchestra",
-      "album": "Ella Fitzgerald Sings the Jerome Kern Song Book",
-      "recordedYear": 1963,
-      "videoId": "ASNSS_G62zw",
-      "reason": "Ella's songbook interpretation is a clear vocal reference for the complete song and its phrasing before exploring instrumental variations.",
-      "evidence": [
-        {
-          "url": "https://www.ellafitzgerald.com/releases-archive/ella-fitzgerald-sings-jerome-kern-songbook/",
-          "title": "Ella Fitzgerald official \u2014 Jerome Kern Songbook"
-        },
-        {
-          "url": "https://thesongbook.org/ellafitzgerald",
-          "title": "Great American Songbook Foundation \u2014 Ella's songbook recordings"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=ASNSS_G62zw",
-          "title": "All The Things You Are \u2014 UMG label-provided recording"
-        }
-      ],
-      "headEvidence": "Artist discography and the Songbook Foundation support this traditional songbook rendition. No independent listening or note alignment is claimed.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "All The Things You Are",
-        "channel": "Ella Fitzgerald - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "bodyandsoul",
-      "title": "Body And Soul",
-      "artist": "Benny Goodman Trio",
-      "album": "Victor 25115 / After You've Gone",
-      "recordedYear": 1935,
-      "videoId": "Ko2c5yJp8G8",
-      "reason": "Goodman's historic small-group version offers a melody-centered starting point. Hawkins's famous 1939 improvisation belongs among later listening comparisons.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "OCSA \u2014 Benny Goodman Trio definitive recording, exact video"
-        },
-        {
-          "url": "https://www.wtju.net/jazz-at-100-hour-20-small-groups-benny-goodman-django-reinhardt-john-kirby/",
-          "title": "WTJU \u2014 Goodman recording in Smithsonian Collection of Classic Jazz"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=Ko2c5yJp8G8",
-          "title": "Benny Goodman Trio \u2014 Body and Soul"
-        },
-        {
-          "url": "https://www.allaboutjazz.com/coleman-hawkins-fifty-years-gone-a-saxophone-across-time-coleman-hawkins",
-          "title": "All About Jazz \u2014 why Hawkins's classic does not state the tune's melody"
-        }
-      ],
-      "headEvidence": "The school guide recommends this exact Goodman upload and WTJU identifies the historic trio master; head clarity still needs an independent listening pass.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Benny Goodman Trio - Body and soul",
-        "channel": "Lennart L\u00e4nk aka helluvagun",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "summertime",
-      "title": "Summertime",
-      "artist": "Ella Fitzgerald & Louis Armstrong",
-      "album": "Porgy and Bess (also issued on First Lady of Song)",
-      "recordedYear": 1957,
-      "videoId": "kVaISDdt5-o",
-      "reason": "Ella and Louis give a historic vocal-and-trumpet reading that keeps the song's melody and lyric central.",
-      "evidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=kVaISDdt5-o",
-          "title": "Summertime \u2014 official Ella Fitzgerald upload, 1957 master"
-        },
-        {
-          "url": "https://jazzhistoryonline.com/the-many-sounds-of-summertime/",
-          "title": "Jazz History Online \u2014 Ella and Louis's Porgy and Bess interpretation"
-        },
-        {
-          "url": "https://www.riseupsinging.org/songs/summertime",
-          "title": "Rise Up Singing \u2014 Summertime reference versions"
-        }
-      ],
-      "headEvidence": "The song-learning resource includes the Ella/Louis version, and label metadata identifies the 1957 master. No exact head timing is claimed.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Summertime",
-        "channel": "Ella Fitzgerald - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "cjamblues",
-      "title": "C Jam Blues",
-      "artist": "Duke Ellington and His Famous Orchestra",
-      "album": "Original Victor single 27856",
-      "recordedYear": 1942,
-      "videoId": "sp8vig6GQW4",
-      "reason": "Ellington's original record is a compact reference for the two-note head and swing-blues form.",
-      "catalogIdentityNote": "Catalog title is 'C Jam Blues (Russian Version)', inherited from a MIDI arrangement. Its Melody (BB) track starts with three G4 repeated-note figures ending on C5, over C/F/G blues changes; this supports the underlying tune identity. The arrangement label is retained, and this recording is a listening reference rather than a matched performance.",
-      "evidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=sp8vig6GQW4",
-          "title": "The78Prof \u2014 original January 21, 1942 Victor recording"
-        },
-        {
-          "url": "https://ellingtonweb.ca/Hostedpages/DoojiCollection/DoojiCollection-1941-42.html",
-          "title": "Ellington label archive \u2014 matrix BS070683-1 / Victor 27856"
-        },
-        {
-          "url": "https://www.seattlejazzed.org/educator-store/foundations-unit-g-jam-blues",
-          "title": "Seattle JazzED \u2014 C Jam Blues as foundational repertoire"
-        }
-      ],
-      "headEvidence": "The transfer identifies the original 1942 record and its two-note head; the catalog arrangement begins with the characteristic G-to-C theme. No independent audio listening timestamp is claimed.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "1942 Duke Ellington - The \u201cC\u201d Jam Blues",
-        "channel": "The78Prof",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "confirmation",
-      "title": "Confirmation",
-      "artist": "Charlie Parker",
-      "album": "Now\u2019s the Time: The Genius of Charlie Parker #3",
-      "recordedYear": 1953,
-      "videoId": "qHFSoE-3t-o",
-      "reason": "Parker\u2019s studio statement is an established model for the tune\u2019s intricate bebop melody and phrasing.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://jazzizdiscovery.com/charlie-parker-confirmation/",
-          "title": "Charlie Parker \u2014 Confirmation: July 30, 1953 studio master"
-        },
-        {
-          "url": "https://www.fremeaux.com/en/2604-integrale-vol-13-i-remember-you-1953-1954-3561302134321-fa1343.html",
-          "title": "Fr\u00e9meaux: Charlie Parker integral, July 1953 session discography"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=qHFSoE-3t-o",
-          "title": "Confirmation \u2014 verified YouTube upload"
-        }
-      ],
-      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Confirmation",
-        "channel": "Charlie Parker - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "donnalee",
-      "title": "Donna Lee",
-      "artist": "Charlie Parker Quintet",
-      "album": "The Complete Savoy & Dial Master Takes",
-      "recordedYear": 1947,
-      "videoId": "Ny1bZE-SI_Q",
-      "reason": "The original Parker-led master provides the foundational phrasing and articulation of this demanding bebop head.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://www.jazzdisco.org/charlie-parker/discography/",
-          "title": "Charlie Parker session discography \u2014 May 8, 1947"
-        },
-        {
-          "url": "https://jcgairard.com/files/transcriptions/jcgairard-JA1-02_donna_lee.pdf",
-          "title": "Jean-Christophe Gairard: Donna Lee transcription, May 8, 1947"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=Ny1bZE-SI_Q",
-          "title": "Donna Lee \u2014 verified YouTube upload"
-        }
-      ],
-      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Donna Lee",
-        "channel": "Charlie Parker - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "billiesbounce",
-      "title": "Billie's Bounce",
-      "artist": "Charlie Parker",
-      "album": "The Savoy Recordings Master Takes",
-      "recordedYear": 1945,
-      "videoId": "S4mRaEzwTYo",
-      "reason": "Parker\u2019s foundational blues recording is a standard source for the melody\u2019s swing, accents and blues language.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://ci.nii.ac.jp/ncid/BB03143661",
-          "title": "The Charlie Parker Story \u2014 original takes and November 26, 1945 recording date"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=S4mRaEzwTYo",
-          "title": "Billie's Bounce \u2014 verified YouTube upload"
-        },
-        {
-          "url": "https://huggingface.co/datasets/xavriley/CharlieParkerAlignedOmnibook",
-          "title": "Charlie Parker Aligned Omnibook \u2014 source recording and aligned head transcription"
-        }
-      ],
-      "headEvidence": "The existing catalog connects this exact upload to the Charlie Parker Aligned Omnibook head-plus-solo source. This is source/transcription documentation, not a new independent listening review.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "documented",
-        "checkedAt": "2026-10-29"
-      },
-      "existingSourceId": "parker-Q6Ryc",
-      "uploadMetadata": {
-        "title": "Billie's Bounce / Charlie Parker\u3000The Savoy Recordings",
-        "channel": "MINICQQPER",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "nowsthetime",
-      "title": "Now's The Time",
-      "artist": "Charlie Parker",
-      "album": "The Charlie Parker Story",
-      "recordedYear": 1945,
-      "videoId": "9dslss6qCC0",
-      "reason": "The original Parker blues master is a direct model of the compact riff melody and its traditional swing treatment.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://ci.nii.ac.jp/ncid/BB03143661",
-          "title": "The Charlie Parker Story \u2014 original take 4 and 1945 session"
-        },
-        {
-          "url": "https://www.kuvo.org/news/charlie-parkers-nows-the-time-stories-of-standards",
-          "title": "KUVO: Charlie Parker\u2019s Now\u2019s the Time \u2014 Stories of Standards"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=9dslss6qCC0",
-          "title": "Now's The Time \u2014 verified YouTube upload"
-        }
-      ],
-      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Now's The Time (Original Take 4)",
-        "channel": "Charlie Parker - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "auprivave",
-      "title": "Au Privave",
-      "artist": "Charlie Parker Quintet",
-      "album": "R\u00e9trospective 1940\u20131953",
-      "recordedYear": 1951,
-      "videoId": "i68MPEkI5dU",
-      "reason": "The composer\u2019s 1951 small-group recording is a strong source for the melody\u2019s bebop rhythms and blues form.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://www.jazzdisco.org/charlie-parker/discography/",
-          "title": "Charlie Parker discography \u2014 January 17, 1951 session"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=i68MPEkI5dU",
-          "title": "Au Privave \u2014 verified YouTube upload"
-        }
-      ],
-      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Au Privave (Eng 17 Jan 1951 NYC)",
-        "channel": "Charlie Parker - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "ornithology",
-      "title": "Ornithology",
-      "artist": "Charlie Parker",
-      "album": "The Genius of Charlie Parker",
-      "recordedYear": 1946,
-      "videoId": "Z2tvlp7RnlM",
-      "reason": "Parker\u2019s original Dial-era performance establishes the head\u2019s bebop phrasing and melodic contours.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://miguelgorodi.com/a-jazz-sessionography-1942-1959/",
-          "title": "Miguel Gorodi: Parker\u2019s March 28, 1946 session"
-        },
-        {
-          "url": "https://pages.stolaf.edu/americanmusic/2017/10/",
-          "title": "St. Olaf American Music research \u2014 links this exact Parker recording"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=Z2tvlp7RnlM",
-          "title": "Ornithology \u2014 verified YouTube upload"
-        },
-        {
-          "url": "https://huggingface.co/datasets/xavriley/CharlieParkerAlignedOmnibook",
-          "title": "Charlie Parker Aligned Omnibook \u2014 source recording and aligned head transcription"
-        }
-      ],
-      "headEvidence": "This exact upload is paired with the catalog\u2019s Charlie Parker Aligned Omnibook head-plus-solo transcription. The head is source-documented; no new listening or timestamp claim is made.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "documented",
-        "checkedAt": "2026-10-29"
-      },
-      "existingSourceId": "parker-KRfYc",
-      "uploadMetadata": {
-        "title": "Charlie Parker - Ornithology",
-        "channel": "rgsmusicargentina",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "anthropology",
-      "title": "Anthropology",
-      "artist": "Dizzy Gillespie",
-      "album": "Bebop Masterpieces",
-      "recordedYear": 1946,
-      "videoId": "NyWfU29reYA",
-      "reason": "Gillespie\u2019s early recording is a foundational source for the fast rhythm-changes head and ensemble articulation.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://www.jazzdisco.org/dizzy-gillespie/discography/",
-          "title": "Dizzy Gillespie discography \u2014 February 22, 1946 RCA session"
-        },
-        {
-          "url": "https://jazz-hitz.musikene.eus/index.php/jazz-hitz/es/article/download/86/50/100",
-          "title": "Jazz-hitz research: Milt Jackson on Gillespie\u2019s 1946 Anthropology"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=NyWfU29reYA",
-          "title": "Anthropology \u2014 verified YouTube upload"
-        }
-      ],
-      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Anthropology (Remastered 2002)",
-        "channel": "Dizzy Gillespie - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "scrapplefromtheapple",
-      "title": "Scrapple From The Apple",
-      "artist": "Charlie Parker",
-      "album": "The Genius of Charlie Parker",
-      "recordedYear": 1947,
-      "videoId": "Mg4eOHc3Rpg",
-      "reason": "Parker\u2019s original studio head is an established source for the tune\u2019s accents and its transition into the rhythm-changes bridge.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://www.jazzdisco.org/charlie-parker/discography/",
-          "title": "Charlie Parker discography \u2014 November 4, 1947 Dial session"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=Mg4eOHc3Rpg",
-          "title": "Scrapple From The Apple \u2014 verified YouTube upload"
-        },
-        {
-          "url": "https://huggingface.co/datasets/xavriley/CharlieParkerAlignedOmnibook",
-          "title": "Charlie Parker Aligned Omnibook \u2014 source recording and aligned head transcription"
-        }
-      ],
-      "headEvidence": "The existing catalog matches this exact upload to the aligned Parker head-plus-solo source. This documents the head through the source transcription; independent listening remains separate.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "documented",
-        "checkedAt": "2026-10-29"
-      },
-      "existingSourceId": "parker-tRfYc",
-      "uploadMetadata": {
-        "title": "Charlie Parker - Scrapple from the apple",
-        "channel": "rgsmusicargentina",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "yardbirdsuite",
-      "title": "Yardbird Suite",
-      "artist": "Charlie Parker",
-      "album": "The Genius of Charlie Parker",
-      "recordedYear": 1946,
-      "videoId": "HmroWIcCNUI",
-      "reason": "Parker\u2019s original small-group performance offers a foundational reading of the head and its phrasing.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://miguelgorodi.com/a-jazz-sessionography-1942-1959/",
-          "title": "Miguel Gorodi: March 28, 1946 Charlie Parker session"
-        },
-        {
-          "url": "https://www.milesdavis.com/track/yardbird-suite/",
-          "title": "Miles Davis official discography \u2014 Yardbird Suite"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=HmroWIcCNUI",
-          "title": "Yardbird Suite \u2014 verified YouTube upload"
-        },
-        {
-          "url": "https://huggingface.co/datasets/xavriley/CharlieParkerAlignedOmnibook",
-          "title": "Charlie Parker Aligned Omnibook \u2014 source recording and aligned head transcription"
-        }
-      ],
-      "headEvidence": "The same upload already has a Parker Aligned Omnibook head-plus-solo source in the catalog. The source supports head coverage; no independently measured start time is asserted.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "documented",
-        "checkedAt": "2026-10-29"
-      },
-      "existingSourceId": "parker-D3fYc",
-      "uploadMetadata": {
-        "title": "Charlie \"Bird\" Parker - Yardbird Suite",
-        "channel": "ConvertToMetal",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "nightintunisia",
-      "title": "A Night In Tunisia",
-      "artist": "Dizzy Gillespie and His Orchestra",
-      "album": "The Complete RCA Victor Recordings",
-      "recordedYear": 1946,
-      "videoId": "vFli0-NsVFc",
-      "reason": "The composer\u2019s 1946 RCA recording is a foundational model of the head, contrasting rhythmic feels and interlude.",
-      "evidence": [
-        {
-          "url": "https://jazzchanges.app/a-night-in-tunisia/",
-          "title": "A Night in Tunisia \u2014 composer\u2019s 1946 recording with head, interlude and break discussion"
-        },
-        {
-          "url": "https://www.jazzdisco.org/dizzy-gillespie/discography/",
-          "title": "Dizzy Gillespie discography \u2014 February 22, 1946 RCA session"
-        },
-        {
-          "url": "https://www.northcountrypublicradio.org/news/npr/4543503/dizzy-gillespie-the-complete-rca-victor-recordings",
-          "title": "NPR: Dizzy Gillespie\u2019s Complete RCA Victor Recordings"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=vFli0-NsVFc",
-          "title": "A Night In Tunisia \u2014 verified YouTube upload"
-        }
-      ],
-      "headEvidence": "The tune study links this exact upload as Gillespie\u2019s February 22, 1946 recording and describes its 32-bar head, interlude and break. The complete upload still needs an independent listening review; no start time is inferred.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Night in Tunisia",
-        "channel": "Dizzy Gillespie - Topic",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
       "songId": "tenormadness",
       "title": "Tenor Madness",
       "artist": "Sonny Rollins with John Coltrane",
       "album": "Tenor Madness",
       "recordedYear": 1956,
       "videoId": "3MkUvZUTFUc",
-      "reason": "Rollins\u2019s original blues recording is the established tune reference and introduces the melody before the tenor solos.",
+      "reason": "Rollins’s original blues recording is the established tune reference and introduces the melody before the tenor solos.",
       "evidence": [
         {
           "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
         },
         {
           "url": "https://sonnyrollins.com/tenor-madness",
-          "title": "Sonny Rollins official discography \u2014 May 24, 1956 session"
+          "title": "Sonny Rollins official discography — May 24, 1956 session"
         },
         {
           "url": "https://www.youtube.com/watch?v=3MkUvZUTFUc",
-          "title": "Tenor Madness \u2014 verified YouTube upload"
+          "title": "Tenor Madness — verified YouTube upload"
         }
       ],
       "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
@@ -1165,220 +2716,28 @@
       }
     },
     {
-      "songId": "stthomas",
-      "title": "St. Thomas",
-      "artist": "Sonny Rollins",
-      "album": "Saxophone Colossus",
-      "recordedYear": 1956,
-      "videoId": "UA2XIWZxMKM",
-      "reason": "Rollins\u2019s classic recording provides the familiar melody, calypso feel and phrasing used to learn the tune.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/SonnyRollinsInterview.pdf",
-          "title": "Library of Congress: Sonny Rollins interview on Saxophone Colossus"
-        },
-        {
-          "url": "https://www.wrti.org/wrti-spotlight/2025-09-02/hailing-the-saxophone-colossus-wrti-toasts-sonny-rollins-at-95",
-          "title": "WRTI: Sonny Rollins and Saxophone Colossus"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=UA2XIWZxMKM",
-          "title": "St. Thomas \u2014 verified YouTube upload"
-        }
-      ],
-      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "SONNY ROLLINS.St. Thomas",
-        "channel": "limbojazzvideo",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "oleo",
-      "title": "Oleo",
-      "artist": "Miles Davis with Sonny Rollins",
-      "album": "Bags\u2019 Groove",
-      "recordedYear": 1954,
-      "videoId": "9IY29EZb1pI",
-      "reason": "The original Davis/Rollins recording establishes the rhythm-changes melody and its concise ensemble phrasing.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://sonnyrollins.com/bags-groove",
-          "title": "Sonny Rollins official discography \u2014 Bags\u2019 Groove, June 29, 1954"
-        },
-        {
-          "url": "https://www.milesdavis.com/albums/bags-groove/",
-          "title": "Miles Davis official discography \u2014 Bags\u2019 Groove"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=9IY29EZb1pI",
-          "title": "Oleo \u2014 verified YouTube upload"
-        }
-      ],
-      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Miles Davis Quintet - Oleo",
-        "channel": "60otaku4",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "airegin",
-      "title": "Airegin",
-      "artist": "Miles Davis with Sonny Rollins",
-      "album": "Bags\u2019 Groove",
-      "recordedYear": 1954,
-      "videoId": "fpBMne1sfNE",
-      "reason": "Davis and composer Sonny Rollins introduce the tune on this foundational studio recording, a source for the complete horn melody.",
-      "evidence": [
-        {
-          "url": "https://sonnyrollins.com/bags-groove",
-          "title": "Sonny Rollins official discography \u2014 Airegin, June 29, 1954"
-        },
-        {
-          "url": "https://www.milesdavis.com/albums/bags-groove/",
-          "title": "Miles Davis official discography \u2014 Bags\u2019 Groove"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=fpBMne1sfNE",
-          "title": "Airegin \u2014 verified YouTube upload"
-        }
-      ],
-      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Miles Davis - Airegin (Official Audio)",
-        "channel": "Miles Davis",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "solar",
-      "title": "Solar",
-      "artist": "Miles Davis Quintet",
-      "album": "Walkin\u2019",
-      "recordedYear": 1954,
-      "videoId": "X6pB2WtStbI",
-      "reason": "Davis\u2019s early studio recording supplies an established model of the 12-bar melody, phrasing and compact form.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://www.milesdavis.com/albums/walkin/",
-          "title": "Miles Davis official discography \u2014 Walkin\u2019, April 1954"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=X6pB2WtStbI",
-          "title": "Solar \u2014 verified YouTube upload"
-        }
-      ],
-      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "Miles Davis Quintet - Solar",
-        "channel": "The Pleasure of Jazz",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "four",
-      "title": "Four",
-      "artist": "Miles Davis Quartet",
-      "album": "Blue Haze",
-      "recordedYear": 1954,
-      "videoId": "L_tYbcPvX_o",
-      "reason": "Davis\u2019s early quartet recording is an established source for the tune\u2019s head and swing articulation.",
-      "evidence": [
-        {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
-        },
-        {
-          "url": "https://aspen.greenvillelibrary.org/Record/54621",
-          "title": "Greenville County Library: Blue Haze track listing and recording credits"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=L_tYbcPvX_o",
-          "title": "Four \u2014 verified YouTube upload"
-        }
-      ],
-      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
-      "headStart": null,
-      "verification": {
-        "recordingIdentity": "documented",
-        "head": "listening-pending",
-        "checkedAt": "2026-10-29"
-      },
-      "uploadMetadata": {
-        "title": "MiLes Davis - FouR",
-        "channel": "kristkrst",
-        "oembedChecked": true,
-        "checkedAt": "2026-10-29"
-      }
-    },
-    {
-      "songId": "recordame",
-      "title": "Recorda Me",
-      "artist": "Joe Henderson",
-      "album": "Page One",
+      "songId": "girlfromipanema",
+      "title": "The Girl From Ipanema (Garôta De Ipanema)",
+      "artist": "Stan Getz & João Gilberto, with Astrud Gilberto and Antônio Carlos Jobim",
+      "album": "Getz/Gilberto",
       "recordedYear": 1963,
-      "videoId": "3c9zSAVWKEs",
-      "reason": "The composer\u2019s debut-album recording sets out the bossa melody with Kenny Dorham and remains a central reference for the tune.",
+      "videoId": "v5DZ5clg-bg",
+      "reason": "The defining Getz/Gilberto recording combines the Portuguese and English song tradition with Jobim's accompaniment and Getz's tenor.",
       "evidence": [
         {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
+          "url": "https://www.jobim.org/jobim/handle/2010/14799",
+          "title": "Instituto Antônio Carlos Jobim — Getz/Gilberto recording archive"
         },
         {
-          "url": "https://www.bluenote.com/spotlight/joe-hendersons-auspicious-page-one/",
-          "title": "Blue Note: Joe Henderson\u2019s auspicious Page One"
+          "url": "https://store.ververecords.com/products/stan-getz-joao-gilberto-getz-gilberto-lp",
+          "title": "Verve — Getz/Gilberto and track list"
         },
         {
-          "url": "https://store.bluenote.com/products/joe-henderson-page-one-uhq-cd",
-          "title": "Blue Note: Page One release and track listing"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=3c9zSAVWKEs",
-          "title": "Recorda Me \u2014 verified YouTube upload"
+          "url": "https://www.youtube.com/watch?v=v5DZ5clg-bg",
+          "title": "Stan Getz & João Gilberto, with Astrud Gilberto and Antônio Carlos Jobim — The Girl From Ipanema (recording upload)"
         }
       ],
-      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
       "headStart": null,
       "verification": {
         "recordingIdentity": "documented",
@@ -1386,35 +2745,31 @@
         "checkedAt": "2026-10-29"
       },
       "uploadMetadata": {
-        "title": "Recorda Me",
-        "channel": "Joe Henderson Quintet - Topic",
+        "title": "The Girl From Ipanema",
+        "channel": "Stan Getz - Topic",
         "oembedChecked": true,
         "checkedAt": "2026-10-29"
       }
     },
     {
-      "songId": "songformyfather",
-      "title": "Song For My Father",
-      "artist": "Horace Silver Quintet",
-      "album": "Song for My Father",
-      "recordedYear": 1964,
-      "videoId": "mKf1x3CALAE",
-      "reason": "Silver\u2019s original quintet recording anchors the familiar bass figure and horn melody in the composer\u2019s own arrangement.",
+      "songId": "therewillneverbeanotheryou",
+      "title": "There Will Never Be Another You",
+      "artist": "Chet Baker",
+      "album": "Chet Baker Sings",
+      "recordedYear": 1954,
+      "videoId": "ytHMBYLwgVU",
+      "reason": "Baker's familiar vocal version makes the tune and its phrasing easy to follow, with the words helping anchor the melody.",
       "evidence": [
         {
-          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
+          "url": "https://www.youtube.com/watch?v=ytHMBYLwgVU",
+          "title": "There Will Never Be Another You (Vocal Version) — official Chet Baker upload"
         },
         {
-          "url": "https://www.bluenote.com/spotlight/horace-silver-song-for-my-father/",
-          "title": "Blue Note: Horace Silver\u2019s Song for My Father \u2014 October 26, 1964 title track"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=mKf1x3CALAE",
-          "title": "Song For My Father \u2014 verified YouTube upload"
+          "url": "https://en.wikipedia.org/wiki/Chet_Baker_Sings",
+          "title": "Chet Baker Sings — recording and track identification"
         }
       ],
-      "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
+      "headEvidence": "The label identifies this as the vocal version from Chet Baker Sings; independent listening and exact head timing remain pending.",
       "headStart": null,
       "verification": {
         "recordingIdentity": "documented",
@@ -1422,8 +2777,40 @@
         "checkedAt": "2026-10-29"
       },
       "uploadMetadata": {
-        "title": "Song For My Father",
-        "channel": "Horace Silver - Topic",
+        "title": "There Will Never Be Another You (Vocal Version)",
+        "channel": "Chet Baker - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "waltzfordebby",
+      "title": "Waltz For Debby",
+      "artist": "Bill Evans Trio",
+      "album": "Waltz for Debby",
+      "recordedYear": 1961,
+      "videoId": "Kv9Mt65Usys",
+      "reason": "Evans's own Village Vanguard performance is the composer-led reference for this jazz waltz and its transition into swing.",
+      "evidence": [
+        {
+          "url": "https://craftrecordings.com/blogs/news/original-jazz-classics-batch-2",
+          "title": "Craft Recordings — Waltz for Debby, June 25, 1961 session and track list"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Kv9Mt65Usys",
+          "title": "Bill Evans Trio — Waltz For Debby (Take 2 / Live At The Village Vanguard / 1961) (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Waltz For Debby (Take 2 / Live At The Village Vanguard / 1961)",
+        "channel": "Bill Evans Trio - Topic",
         "oembedChecked": true,
         "checkedAt": "2026-10-29"
       }
@@ -1432,22 +2819,22 @@
       "songId": "watermelonman",
       "title": "Watermelon Man",
       "artist": "Herbie Hancock",
-      "album": "Takin\u2019 Off",
+      "album": "Takin’ Off",
       "recordedYear": 1962,
       "videoId": "_QkGAaYtXA0",
-      "reason": "Hancock\u2019s original acoustic quintet recording is the foundational statement of the 16-bar tune and its blues-inflected melody.",
+      "reason": "Hancock’s original acoustic quintet recording is the foundational statement of the 16-bar tune and its blues-inflected melody.",
       "evidence": [
         {
           "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
-          "title": "Dyas / Spitzer: 104 Must-Know Tunes \u2014 Definitive Recordings"
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
         },
         {
           "url": "https://www.herbiehancock.com/music/discography/album/takin-off/01-watermelon-man/",
-          "title": "Herbie Hancock official discography \u2014 original Takin\u2019 Off recording"
+          "title": "Herbie Hancock official discography — original Takin’ Off recording"
         },
         {
           "url": "https://www.youtube.com/watch?v=_QkGAaYtXA0",
-          "title": "Watermelon Man \u2014 verified YouTube upload"
+          "title": "Watermelon Man — verified YouTube upload"
         }
       ],
       "headEvidence": "Historically established recording selected for melody study. The upload identity is documented; the complete head and its timing still need a listening review.",
@@ -1460,6 +2847,115 @@
       "uploadMetadata": {
         "title": "Watermelon Man (Remastered 2007)",
         "channel": "Herbie Hancock - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "wave",
+      "title": "Wave",
+      "artist": "Antônio Carlos Jobim",
+      "album": "Wave",
+      "recordedYear": 1967,
+      "videoId": "JGqzKmp_5Bg",
+      "reason": "Jobim's own 1967 instrumental recording is a source for the melody, orchestration and relaxed bossa pulse.",
+      "evidence": [
+        {
+          "url": "https://www.jobim.org/jobim/handle/2010/8362",
+          "title": "Instituto Antônio Carlos Jobim — Wave, 1967 album archive"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=JGqzKmp_5Bg",
+          "title": "Antônio Carlos Jobim — Wave (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Wave",
+        "channel": "Antonio Carlos Jobim - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "worksong",
+      "title": "Work Song",
+      "artist": "Nat Adderley",
+      "album": "Work Song",
+      "recordedYear": 1960,
+      "videoId": "tqUd7gXxqmc",
+      "reason": "Nat Adderley's own Riverside version, with Wes Montgomery, is an early source for this enduring soul-jazz theme.",
+      "evidence": [
+        {
+          "url": "https://concord.com/concord-albums/work-song/",
+          "title": "Concord — Nat Adderley's Work Song and original ensemble"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=tqUd7gXxqmc",
+          "title": "Nat Adderley — Work Song (recording upload)"
+        }
+      ],
+      "headEvidence": "The recording and historical release are documented. This research pass did not independently listen to or time the opening head.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "listening-pending",
+        "checkedAt": "2026-10-29"
+      },
+      "uploadMetadata": {
+        "title": "Work Song",
+        "channel": "Nat Adderley - Topic",
+        "oembedChecked": true,
+        "checkedAt": "2026-10-29"
+      }
+    },
+    {
+      "songId": "yardbirdsuite",
+      "title": "Yardbird Suite",
+      "artist": "Charlie Parker",
+      "album": "The Genius of Charlie Parker",
+      "recordedYear": 1946,
+      "videoId": "HmroWIcCNUI",
+      "reason": "Parker’s original small-group performance offers a foundational reading of the head and its phrasing.",
+      "evidence": [
+        {
+          "url": "https://www.ocsarts.net/Portals/0/PDFs/Admissions/2025-2026/Guidelines/IM%20Jazz%20Standard%20List%20-%20Link%20to%20IM%20Jazz.pdf?ver=2024-09-30-093333-987",
+          "title": "Dyas / Spitzer: 104 Must-Know Tunes — Definitive Recordings"
+        },
+        {
+          "url": "https://miguelgorodi.com/a-jazz-sessionography-1942-1959/",
+          "title": "Miguel Gorodi: March 28, 1946 Charlie Parker session"
+        },
+        {
+          "url": "https://www.milesdavis.com/track/yardbird-suite/",
+          "title": "Miles Davis official discography — Yardbird Suite"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=HmroWIcCNUI",
+          "title": "Yardbird Suite — verified YouTube upload"
+        },
+        {
+          "url": "https://huggingface.co/datasets/xavriley/CharlieParkerAlignedOmnibook",
+          "title": "Charlie Parker Aligned Omnibook — source recording and aligned head transcription"
+        }
+      ],
+      "headEvidence": "The same upload already has a Parker Aligned Omnibook head-plus-solo source in the catalog. The source supports head coverage; no independently measured start time is asserted.",
+      "headStart": null,
+      "verification": {
+        "recordingIdentity": "documented",
+        "head": "documented",
+        "checkedAt": "2026-10-29"
+      },
+      "existingSourceId": "parker-D3fYc",
+      "uploadMetadata": {
+        "title": "Charlie \"Bird\" Parker - Yardbird Suite",
+        "channel": "ConvertToMetal",
         "oembedChecked": true,
         "checkedAt": "2026-10-29"
       }

@@ -4,19 +4,21 @@ Dark guitar practice app with recording playback, scrolling tablature, chords an
 
 ## Reference recordings
 
-The initial curated list covers **39 tunes**; the remaining catalog still needs reference selection. The listening default now prioritizes a curated historical reference with a recognizable head. Artist, release, selection rationale and supporting links appear beside the player. Use **Reference recordings** to browse the reviewed selections; use **Synced studies** for the existing performance-aligned parts. Exact reference uploads play from their opening, with no inherited solo offset or invented tablature sync.
+The curated list covers **83 tunes**; the remaining catalog still needs reference selection. The listening default now prioritizes a curated historical reference with a recognizable head. Artist, release, selection rationale and supporting links appear beside the player. Use **Reference recordings** to browse the reviewed selections; use **Synced studies** for the existing performance-aligned parts. Exact reference uploads play from their opening, with no inherited solo offset or invented tablature sync.
 
 Some selections still need direct listening review, which is stated in their details. Tunes without a curated reference remain marked pending. See [the selection policy](RECORDING_POLICY.md) and `data/reference-recordings.json` for evidence and scope. Existing transcription-coverage numbers below do not count the new listening-only references as synchronized performances.
 
 ## Current coverage
 
-- 2,934 catalog entries; 4,966 unique playable MIDI parts and 1,381 unique performance timelines. Shared catalog aliases are not counted as new performances.
-- **868 tunes have a matched recording**, including 745 with a matched YouTube upload. 2,066 still need a match.
+- 2,936 catalog entries; 4,971 unique playable MIDI parts and 1,386 unique performance timelines. Shared catalog aliases are not counted as new performances.
+- **868 tunes have a matched recording**, including 745 with a matched YouTube upload. 2,068 still need a match.
 - 211 of the 399 Real Book index titles have a matched recording; 188 remain pending. 271 have a labeled head study, including 2 whose only head notes are automatic; 128 still lack a labeled head. A MIDI head does not imply a matching head recording.
 - 506 matched entries currently offer automatic transcriptions only. 11 are covered only by short aligned arrangement excerpts. Neither category is a claim of an exact artist transcription or full-song coverage.
-- 31 Joe Pass parts remain available, including nine published original-audio alignments, two estimated-audio renditions and 19 contributor tab studies. The requested additional synchronized Joe Pass/Django coverage is still incomplete.
+- 31 Joe Pass parts remain available, including nine published original-audio alignments, two estimated-audio renditions and 19 contributor tab studies. Related Joe Pass YouTube performances now cover 28 of these 31 parts (27 distinct videos), separately labeled as listening references. Three generic blues studies remain unresolved. All four Django-related arrangements have historical listening choices; Chez Jacquet correctly uses Matelo Ferret, because Django did not record it. None of these new listening links claims tab synchronization.
 
-The goal remains a matched recording for every tune. Search-only videos and guessed offsets do not count. The full readable Miditar/Keyer collection remains available, including material outside the Real Book. The repository audit covers 3,857 files; duplicates share parts and unusable files are explicitly recorded.
+The goal remains a matched recording for every tune. Search-only videos and guessed offsets do not count. The full readable Miditar/Keyer collection remains available, including material outside the Real Book. The current repository audit accounts for **all 4,390 MIDI paths**: 3,324 in Keyer and 533 distinct Miditar files plus 533 byte-identical offline copies. 4,389 paths map to playable parts; the remaining Stranger on the Shore file has no pitched notes. The damaged Chris Potter MIDI is recovered from 413 published notes with its original pitch sequence verified. Four other missing WJazzD solos were recovered from published note/beat annotations, bringing the collection to all 456 WJazzD studies. Use the Miditar, Keyer, Joe Pass and Django filters in the full catalog. [Complete library audit](https://santismo.github.io/real-player-jazz/data/library-audit.json) · [Listening coverage CSV](https://santismo.github.io/real-player-jazz/data/listening-coverage.csv).
+
+**887 tunes have at least one listening recording; 2,049 still need one.** This count includes independent references and supplied/estimated studies. It does not mean 887 historical head choices: only 83 have curated head references, and direct listening remains pending for 69 of those. A recheck of 36 previously unavailable published YouTube IDs recovered no embeddable videos; the exclusions remain documented.
 
 ## New recording sources
 
@@ -42,7 +44,7 @@ Most guitar fingering is suggested. Contributor string/fret positions are retain
 
 ## Run and deploy
 
-No dependency installation is needed. Run `npm test`, then `npm run build`, and serve `dist/` over HTTP. The ChatGPT Site uses `.openai/hosting.json` and its source repository. The included GitHub Actions Pages workflow builds, tests and deploys this relative-path static app on pushes to `main`. The repository is [santismo/real-player-jazz](https://github.com/santismo/real-player-jazz); the public Pages copy is [Real Player on GitHub Pages](https://santismo.github.io/real-player-jazz/). The existing [ChatGPT Site](https://real-player-jazz.ojertrejo.chatgpt.site/) keeps its own access settings and deployment. Neither host automatically publishes changes to the other.
+No dependency installation is needed. Run `npm test`, then `npm run build`, and serve `dist/` over HTTP. The included GitHub Actions Pages workflow builds, tests and deploys this relative-path static app on pushes to `main`. The repository is [santismo/real-player-jazz](https://github.com/santismo/real-player-jazz); the public Pages copy is [Real Player on GitHub Pages](https://santismo.github.io/real-player-jazz/). GitHub Pages is the maintained version for this update. The earlier ChatGPT Site has not been redeployed.
 
 Favorites, imported MIDI and custom timing are browser-local. They do not automatically transfer between the two website addresses. No account or API key is needed for the GitHub Pages copy. YouTube and streamed source audio still require an internet connection.
 
@@ -53,7 +55,9 @@ Favorites, imported MIDI and custom timing are browser-local. They do not automa
 - `data/catalog.json`: current source/recording index and coverage totals.
 - `data/performance/`: note events and available bar/chord/section timings.
 - `data/coverage.csv`, `data/head-coverage.csv`: current coverage audits.
-- `data/repository-import-audit.json`: pinned repository file inventory and import decisions.
+- `data/library-audit.json`, `data/repository-import-audit.json`: complete pinned file inventories and import decisions.
+- `data/reference-recordings.json`, `data/artist-recordings.json`: historical head choices and separate artist listening links, with evidence.
+- `data/listening-coverage.csv`, `data/recording-recheck.json`: listening coverage and unavailable published-video rechecks.
 - `data/{pijama,jazzsamba,piast,multtipop}/`: source MIDI, provenance audits and source terms.
 - `scripts/*-inputs/`: retained reviewed import manifests and metadata; `scripts/sync-research/`: excluded/unverified recording candidates and title corrections.
 
@@ -62,3 +66,5 @@ The original catalog builder is a baseline importer. Do not run it over expanded
 This update can be replayed with `node scripts/import-pijama.cjs`, `node scripts/import-jazzsamba.cjs scripts/jazzsamba-inputs/manifest.json`, `node scripts/import-piast.cjs`, and `node scripts/import-multtipop.cjs scripts/multtipop-inputs/manifest.json scripts/multtipop-inputs/youtube-availability.json`. Catalog alias mappings are retained in `data/catalog-match-audit.json`; run `node scripts/import-catalog-matches.cjs` with its retained reviewed input manifest. Finish with `node scripts/update-coverage.cjs` to regenerate totals and CSVs. PiJAMA and PIAST preserve their original polyphonic MIDI separately from the selected playable line.
 
 `about.html` contains source attribution and detailed scope. PiJAMA and PIAST specify CC BY-NC 4.0; MulTTiPop specifies CC BY 4.0. WJazzD uses ODbL 1.0 / Database Contents License. Other source terms are retained with their data. Third-party compositions, scores and recordings retain their respective rights. YouTube videos are embedded, not bundled; original dataset audio streams from its pinned source except two retained public Joe Pass sample recordings.
+
+The completeness update is reproducible with `python3 scripts/recover-published-solos.py`, then `node scripts/update-coverage.cjs`, `node scripts/audit-library.cjs`, `node scripts/correct-guitar-credits.cjs`, and `node scripts/audit-listening.cjs`. Source inventories, original damaged MIDI and published CSV archives are retained; no audio playback or guessed offsets are required.

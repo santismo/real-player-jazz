@@ -1,0 +1,1004 @@
+{
+  "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+  "method": "Silent YouTube oEmbed plus watch-page metadata only. Rechecked only prior unavailable IDs attached in original published CSV to catalog sources with no existing recording sourceId. No audio playback or alternate uploads.",
+  "counts": {
+    "catalogWJazzdSources": 452,
+    "unmatchedSourcesAtSnapshot": 155,
+    "csvRowsSelected": 42,
+    "uniqueVideoIdsChecked": 36,
+    "recoveredVideos": 0,
+    "recoveredRows": 0,
+    "recoveredSources": 0,
+    "failedVideos": 36,
+    "watchPageOnlyNonEmbeddableVideos": 1
+  },
+  "results": [
+    {
+      "videoId": "7sVa_wDvUKs",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "zbjMNKOSscs",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "oembed": {
+        "httpStatus": "403",
+        "error": "Forbidden"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "LOGIN_REQUIRED",
+        "reason": "Private video",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "3PUdEy5ZV5I",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "ZC9jsTTsRtY",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "7XHKkSPFH10",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "LpYkaYtjVoE",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "qf5xcSzc1BA",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "75slmQZfG1w",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "rJiD75rkUtI",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "9eWXjf_tPtE",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "Ev9YJuUFDgA",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "oembed": {
+        "httpStatus": "403",
+        "error": "Forbidden"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "LOGIN_REQUIRED",
+        "reason": "Private video",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "p0tEqbNHi64",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "uWqa2YSB7ik",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "oembed": {
+        "httpStatus": "403",
+        "error": "Forbidden"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "LOGIN_REQUIRED",
+        "reason": "Private video",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "BrqB7YsKXrs",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "0W39RO3BAP0",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "oembed": {
+        "httpStatus": "403",
+        "error": "Forbidden"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "LOGIN_REQUIRED",
+        "reason": "Private video",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "tkSrZTEvSkc",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "Up4NTq5tkhc",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "oembed": {
+        "httpStatus": "403",
+        "error": "Forbidden"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video has been removed for violating YouTube's Terms of Service",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "1MUNDMucbeM",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "oembed": {
+        "httpStatus": "403",
+        "error": "Forbidden"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video has been removed for violating YouTube's Terms of Service",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "DI1lW4EJXvY",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "9ZMIgEEHNbQ",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "jJwp1bdXwyo",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "Q9-120MxNEs",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "-81R-jB4eEA",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "1iJdXWY7JRo",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "DiNzXslovVk",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "FferX_P7SVs",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "zQBjD06a6l8",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "pYRTh7ivoGc",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "3PAhMagNp7o",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "58xQ0__sQf8",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "kunnntC2hg4",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 401: Unauthorized"
+      },
+      "oembed": {
+        "httpStatus": "401",
+        "error": "Unauthorized"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "OK",
+        "reason": null,
+        "playableInEmbed": false,
+        "title": "The Modern Jazz Quartet - All The Things You Are",
+        "author": "JazzBreakTV",
+        "lengthSeconds": "195",
+        "description": "The Modern Jazz Quartet All The Things You Are The Modern Jazz Quartet Plays For Lovers(1965)"
+      },
+      "available": false
+    },
+    {
+      "videoId": "lHR3rrAXZ5g",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "wAMYl6kJkjo",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video is unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "30g9eeKAN2k",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "oembed": {
+        "httpStatus": "403",
+        "error": "Forbidden"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "This video has been removed for violating YouTube's Terms of Service",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "jaVH2Y6qlbM",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      "oembed": {
+        "httpStatus": "404",
+        "error": "Not Found"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "ERROR",
+        "reason": "Video unavailable",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    },
+    {
+      "videoId": "xK0cA7gsV4o",
+      "checkedAt": "2026-10-29T13:21:59.465791+00:00",
+      "priorAvailability": {
+        "available": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "oembed": {
+        "httpStatus": "403",
+        "error": "Forbidden"
+      },
+      "watch": {
+        "httpStatus": "200",
+        "status": "LOGIN_REQUIRED",
+        "reason": "Private video",
+        "playableInEmbed": null,
+        "title": null,
+        "author": null,
+        "lengthSeconds": null,
+        "description": ""
+      },
+      "available": false
+    }
+  ],
+  "missingSourceAudit": {
+    "allFourHavePublishedNoteAndBeatCsv": true,
+    "items": [
+      {
+        "sourceId": "wjazzd-187",
+        "melid": 187,
+        "performer": "Herbie Hancock",
+        "title": "Hand Jive",
+        "instrument": "p",
+        "bpm": 262.1,
+        "signature": "4/4",
+        "album": "Nefertiti",
+        "albumReleaseYear": 1968,
+        "sourceUrl": "http://mir.audiolabs.uni-erlangen.de/jazztube/solos/solo/187",
+        "identityEvidence": "JazzTube solo page heading and note count match the retained CSV. Cross-Fade parts 1/2 identified by distinct counts 129/78, not assumed from title alone.",
+        "publishedNoteCsv": {
+          "archive": "scripts/jazztube-inputs/csv_solos.zip",
+          "path": "csv_melody/HerbieHancock_HandJive_Solo.csv",
+          "rowCount": 642,
+          "sha256": "b3123e33cec8f7e627b4841361a6e225e4feb2c87288253d2edf25c7ae000781",
+          "firstOnset": 5.461224489795918,
+          "lastNoteEnd": 144.36122448979592
+        },
+        "publishedBeatCsv": {
+          "archive": "scripts/jazztube-inputs/csv_beats.zip",
+          "path": "csv_beats/HerbieHancock_HandJive_Solo.csv",
+          "rowCount": 626,
+          "sha256": "13ce8e142301fed25123c58fb64e34ea901bf95e77b317f4cb8d60484963fc65",
+          "timeSignatures": [
+            "4/4"
+          ],
+          "bars": 157
+        },
+        "publishedYoutubeRows": [],
+        "recommendation": "Recover notes and expressive performance timing from these published annotations. No published exact video timing exists in the retained CSV; do not create guessed video mapping."
+      },
+      {
+        "sourceId": "wjazzd-403",
+        "melid": 403,
+        "performer": "Steve Coleman",
+        "title": "Cross-Fade",
+        "instrument": "as",
+        "bpm": 144.8,
+        "signature": "9/4",
+        "album": "Black Science",
+        "albumReleaseYear": 1991,
+        "sourceUrl": "http://mir.audiolabs.uni-erlangen.de/jazztube/solos/solo/403",
+        "identityEvidence": "JazzTube solo page heading and note count match the retained CSV. Cross-Fade parts 1/2 identified by distinct counts 129/78, not assumed from title alone.",
+        "publishedNoteCsv": {
+          "archive": "scripts/jazztube-inputs/csv_solos.zip",
+          "path": "csv_melody/SteveColeman_Cross-Fade-1_Solo.csv",
+          "rowCount": 129,
+          "sha256": "48991aaf8aa45de10f1979ea220a9ebfd2c4646a1f7712aaa92563559aa613f9",
+          "firstOnset": 0.6936961451247166,
+          "lastNoteEnd": 45.50240362811791
+        },
+        "publishedBeatCsv": {
+          "archive": "scripts/jazztube-inputs/csv_beats.zip",
+          "path": "csv_beats/SteveColeman_Cross-Fade-1_Solo.csv",
+          "rowCount": 113,
+          "sha256": "87ce580511b66157347a48154188bb92a6940d91afdbf0bda1feeb31c50b185c",
+          "timeSignatures": [
+            "9/4"
+          ],
+          "bars": 13
+        },
+        "publishedYoutubeRows": [],
+        "recommendation": "Recover notes and expressive performance timing from these published annotations. No published exact video timing exists in the retained CSV; do not create guessed video mapping."
+      },
+      {
+        "sourceId": "wjazzd-404",
+        "melid": 404,
+        "performer": "Steve Coleman",
+        "title": "Cross-Fade",
+        "instrument": "as",
+        "bpm": 145.9,
+        "signature": "9/4",
+        "album": "Black Science",
+        "albumReleaseYear": 1991,
+        "sourceUrl": "http://mir.audiolabs.uni-erlangen.de/jazztube/solos/solo/404",
+        "identityEvidence": "JazzTube solo page heading and note count match the retained CSV. Cross-Fade parts 1/2 identified by distinct counts 129/78, not assumed from title alone.",
+        "publishedNoteCsv": {
+          "archive": "scripts/jazztube-inputs/csv_solos.zip",
+          "path": "csv_melody/SteveColeman_Cross-Fade-2_Solo.csv",
+          "rowCount": 78,
+          "sha256": "8571810bbdff9b1183822dedcd5d849de73fc26804ce53e9c195bd3ddd64c239",
+          "firstOnset": 3.388662131519274,
+          "lastNoteEnd": 18.191836734693876
+        },
+        "publishedBeatCsv": {
+          "archive": "scripts/jazztube-inputs/csv_beats.zip",
+          "path": "csv_beats/SteveColeman_Cross-Fade-2_Solo.csv",
+          "rowCount": 39,
+          "sha256": "f0e7ba2fd6c66136234ac4d2d156d40b1fecde7cec868f472174f63b55e9851e",
+          "timeSignatures": [
+            "9/4"
+          ],
+          "bars": 5
+        },
+        "publishedYoutubeRows": [],
+        "recommendation": "Recover notes and expressive performance timing from these published annotations. No published exact video timing exists in the retained CSV; do not create guessed video mapping."
+      },
+      {
+        "sourceId": "wjazzd-405",
+        "melid": 405,
+        "performer": "Steve Coleman",
+        "title": "Double Vision",
+        "instrument": "ss",
+        "bpm": 242.2,
+        "signature": "4/4",
+        "album": "Seeds of Time",
+        "albumReleaseYear": 1985,
+        "sourceUrl": "http://mir.audiolabs.uni-erlangen.de/jazztube/solos/solo/405",
+        "identityEvidence": "JazzTube solo page heading and note count match the retained CSV. Cross-Fade parts 1/2 identified by distinct counts 129/78, not assumed from title alone.",
+        "publishedNoteCsv": {
+          "archive": "scripts/jazztube-inputs/csv_solos.zip",
+          "path": "csv_melody/SteveColeman_DoubleVision_Solo.csv",
+          "rowCount": 979,
+          "sha256": "147bd6dea729e4c79e2b12fbeaa76495e3445f454ba2277611d3da9eb505acf5",
+          "firstOnset": 4.588843537414966,
+          "lastNoteEnd": 189.0742857142857
+        },
+        "publishedBeatCsv": {
+          "archive": "scripts/jazztube-inputs/csv_beats.zip",
+          "path": "csv_beats/SteveColeman_DoubleVision_Solo.csv",
+          "rowCount": 749,
+          "sha256": "5dcc812cc65e9e504d5ef6045a299f2565fa5d428e1297f568b66b809997273f",
+          "timeSignatures": [
+            "4/4"
+          ],
+          "bars": 188
+        },
+        "publishedYoutubeRows": [],
+        "recommendation": "Recover notes and expressive performance timing from these published annotations. No published exact video timing exists in the retained CSV; do not create guessed video mapping."
+      }
+    ]
+  },
+  "failuresByReason": {
+    "Video unavailable": 14,
+    "Private video": 5,
+    "This video is unavailable": 13,
+    "This video has been removed for violating YouTube's Terms of Service": 3,
+    "Embedding disabled": 1
+  },
+  "watchOnlyPublishedRows": [
+    {
+      "": "3693",
+      "db": "MiltJackson_AllTheThingsYouAre_Solo_Q-SOLO_WJD-263-328_R-06_YT-kunnntC2hg4",
+      "melid": "328",
+      "mf_median": "0.5892147055618449",
+      "mf_min": "0.056370559094258275",
+      "query": "MiltJackson_AllTheThingsYouAre_Solo",
+      "solo_end_sec": "141.6",
+      "solo_start_sec": "79.2",
+      "wp_end_idx": "[312 708]",
+      "wp_start_idx": "[  0 396]",
+      "youtube_id": "kunnntC2hg4"
+    }
+  ]
+}
