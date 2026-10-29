@@ -1,0 +1,11 @@
+{
+  "songId": "redclay",
+  "title": "Red Clay",
+  "sourceUrl": "https://effendi.me/jazz/repo/II/Red%20Clay%20C.xml",
+  "provider": "The Modern Jazz Fake Book / effendi.me",
+  "noteCount": 304,
+  "chordCount": 114,
+  "timing": "Score study at 120 BPM; not recording-aligned",
+  "repeatExpansion": true,
+  "credit": "(('composer', 'Freddie Hubbard\\nArr. 6EQUJ5'), ('copyright', '©2016 Finmusic/effendi.me 4/13/2016'), ('fileFormat', 'musicxml'), ('filePath', '/workspace/scratch/8a36bbb966a6/head-expansion/Red_Clay_C.xml'), ('movementName', 'Red Clay'), ('software', 'Finale v25 for Windows'), ('software', 'music21 v.10.5.2'))"
+}

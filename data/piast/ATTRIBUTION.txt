@@ -1,0 +1,7 @@
+PIAST · Hayeon Bang and contributors
+https://github.com/Hayeonbang/PIAST
+https://aclanthology.org/2024.nlp4musa-1.2/
+Published source revision: f391794c63b24ec30f558274c075ae2890ba028c
+License: Creative Commons Attribution-NonCommercial 4.0, as specified in the official project README.
+https://creativecommons.org/licenses/by-nc/4.0/
+Automatic, beat-quantized piano melody and chord estimates. Exact video identity; approximate note timing. No artist guitar fingering or full-head annotation is claimed.

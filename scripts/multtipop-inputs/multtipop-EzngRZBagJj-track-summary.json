@@ -1,0 +1,24 @@
+[
+  {
+    "index": 0,
+    "name": "",
+    "programs": [],
+    "noteCount": 0
+  },
+  {
+    "index": 1,
+    "name": "A.PIANO 1",
+    "programs": [
+      0
+    ],
+    "noteCount": 4
+  },
+  {
+    "index": 2,
+    "name": "STEEL GTR",
+    "programs": [
+      25
+    ],
+    "noteCount": 54
+  }
+]

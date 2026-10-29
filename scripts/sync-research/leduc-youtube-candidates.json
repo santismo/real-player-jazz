@@ -1,0 +1,1519 @@
+{
+  "channelUrl": "https://www.youtube.com/@FrancoisLeduc/videos",
+  "channelCount": 777,
+  "verifiedNewMatches": 0,
+  "items": [
+    {
+      "sourceId": "leduc-9wp4c",
+      "artist": "Earl Klugh",
+      "title": "Michelle",
+      "sourceDuration": 104.56136363636364,
+      "candidates": [
+        {
+          "id": "yiyewj7uHNg",
+          "title": "Michelle - Earl Klugh (Transcription)",
+          "duration": 120,
+          "url": "https://www.youtube.com/watch?v=yiyewj7uHNg",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 15.439
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-scC4c",
+      "artist": "George Benson",
+      "title": "Tenderly",
+      "sourceDuration": 184.1431818181818,
+      "candidates": [
+        {
+          "id": "X7_3H4Yw6ZI",
+          "title": "George Benson - Tenderly (Transcription)",
+          "duration": 185,
+          "url": "https://www.youtube.com/watch?v=X7_3H4Yw6ZI",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.857
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-2DC4c",
+      "artist": "Johnny Smith",
+      "title": "Autumn Nocturne",
+      "sourceDuration": 130.72272727272727,
+      "candidates": [
+        {
+          "id": "hNLgGd6jZQw",
+          "title": "Autumn Nocturne - Johnny Smith (Transcription)",
+          "duration": 131,
+          "url": "https://www.youtube.com/watch?v=hNLgGd6jZQw",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.277
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-DMC4c",
+      "artist": "Kenny Burrell",
+      "title": "But Not For Me",
+      "sourceDuration": 226.66136363636363,
+      "candidates": [
+        {
+          "id": "S-_MqcbQnzg",
+          "title": "But Not For Me - Kenny Burrell (Transcription)",
+          "duration": 227,
+          "url": "https://www.youtube.com/watch?v=S-_MqcbQnzg",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.339
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-lyC4c",
+      "artist": "Paulinho Nogueira",
+      "title": "Traverssia",
+      "sourceDuration": 185.46136363636361,
+      "candidates": [
+        {
+          "id": "BFXCgBSxq-k",
+          "title": "Traverssia - Paulinho Nogueira (Transcription)",
+          "duration": 186,
+          "url": "https://www.youtube.com/watch?v=BFXCgBSxq-k",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.539
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-hTs4c",
+      "artist": "Pat Metheny",
+      "title": "Medley",
+      "sourceDuration": 385.86136363636365,
+      "candidates": [
+        {
+          "id": "4nu2GUm3o5g",
+          "title": "Pat Metheny - Medley Live at Lugano Jazz Festival (Transcription)",
+          "duration": 399,
+          "url": "https://www.youtube.com/watch?v=4nu2GUm3o5g",
+          "timingStatus": "unverified",
+          "offset": null,
+          "matchMethod": "Manual title variant; source rendition still needs checking",
+          "durationDifference": 13.139
+        },
+        {
+          "id": "AgcafIqycIY",
+          "title": "Medley 'Live at Lugano Jazz Festival' - Pat Metheny (Transcription)",
+          "duration": 386,
+          "url": "https://www.youtube.com/watch?v=AgcafIqycIY",
+          "timingStatus": "unverified",
+          "offset": null,
+          "matchMethod": "Manual title variant; source rendition still needs checking",
+          "durationDifference": 0.139
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-3fC4c",
+      "artist": "Joe Pass",
+      "title": "Bluesette",
+      "sourceDuration": 224.46136363636361,
+      "candidates": [
+        {
+          "id": "Tnl4VCLKaZM",
+          "title": "Bluesette - Joe Pass (Transcription)",
+          "duration": 225,
+          "url": "https://www.youtube.com/watch?v=Tnl4VCLKaZM",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.539
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-Fp24c",
+      "artist": "Earl Klugh",
+      "title": "Ding Dong The Witch Is Dead",
+      "sourceDuration": 148.90227272727273,
+      "candidates": [],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-SM54c",
+      "artist": "Harry Leahey",
+      "title": "Embraceable You",
+      "sourceDuration": 206.02272727272728,
+      "candidates": [
+        {
+          "id": "yvGRpzOvkyQ",
+          "title": "Embraceable You - Harry Leahey (Transcription)",
+          "duration": 220,
+          "url": "https://www.youtube.com/watch?v=yvGRpzOvkyQ",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 13.977
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-3p24c",
+      "artist": "Earl Klugh",
+      "title": "April Fools",
+      "sourceDuration": 226.74318181818182,
+      "candidates": [
+        {
+          "id": "7ZYfZrbRlKs",
+          "title": "The April Fools - Earl Klugh (Transcription)",
+          "duration": 227,
+          "url": "https://www.youtube.com/watch?v=7ZYfZrbRlKs",
+          "nameSimilarity": 0.87,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.257
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-WWh4c",
+      "artist": "Chet Atkins",
+      "title": "Bye Bye Blackbird",
+      "sourceDuration": 195.78181818181818,
+      "candidates": [
+        {
+          "id": "plx3yi2glpY",
+          "title": "Bye Bye Blackbird - Chet Atkins (Transcription)",
+          "duration": 196,
+          "url": "https://www.youtube.com/watch?v=plx3yi2glpY",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.218
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-VyC4c",
+      "artist": "Paulinho Nogueira",
+      "title": "Joa\u0303o e Maria",
+      "sourceDuration": 191.76136363636363,
+      "candidates": [
+        {
+          "id": "EJr5cQ9Sl-U",
+          "title": "Jo\u00e3o e Maria - Paulinho Nogueira (Transcription)",
+          "duration": 192,
+          "url": "https://www.youtube.com/watch?v=EJr5cQ9Sl-U",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.239
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-SXw4c",
+      "artist": "Joe Pass",
+      "title": "Stardust",
+      "sourceDuration": 207.34318181818182,
+      "candidates": [
+        {
+          "id": "d3SHWATEjbc",
+          "title": "Stardust - Joe Pass (Transcription)",
+          "duration": 215,
+          "url": "https://www.youtube.com/watch?v=d3SHWATEjbc",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 7.657
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-3yC4c",
+      "artist": "Ralph Towner",
+      "title": "Here There and Everywhere",
+      "sourceDuration": 357.7613636363636,
+      "candidates": [
+        {
+          "id": "G92fWIENG1U",
+          "title": "Here There and Everywhere - Ralph Towner (Transcription)",
+          "duration": 358,
+          "url": "https://www.youtube.com/watch?v=G92fWIENG1U",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.239
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-cKR4c",
+      "artist": "Charlie Byrd",
+      "title": "God Rest Ye Merry Gentlemen",
+      "sourceDuration": 171.88181818181818,
+      "candidates": [
+        {
+          "id": "qNBnjhPYa4w",
+          "title": "God Rest Ye Merry Gentlemen - Charlie Byrd (Transcription)",
+          "duration": 191,
+          "url": "https://www.youtube.com/watch?v=qNBnjhPYa4w",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 19.118
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-GMC4c",
+      "artist": "Laurindo Almeida",
+      "title": "Nocturne",
+      "sourceDuration": 304.5022727272727,
+      "candidates": [
+        {
+          "id": "JDfJrgAGqF8",
+          "title": "Nocturne - Laurindo Almeida (Transcription)",
+          "duration": 305,
+          "url": "https://www.youtube.com/watch?v=JDfJrgAGqF8",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.498
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-yfC4c",
+      "artist": "Joe Pass",
+      "title": "All The Things You Are",
+      "sourceDuration": 241.5431818181818,
+      "candidates": [
+        {
+          "id": "yQPaiJOIeqo",
+          "title": "All The Things You Are - Joe Pass (Transcription)",
+          "duration": 262,
+          "url": "https://www.youtube.com/watch?v=yQPaiJOIeqo",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 20.457
+        },
+        {
+          "id": "NV-GhJNsOG0",
+          "title": "All the things you are - Joe Pass (Transcription)",
+          "duration": 242,
+          "url": "https://www.youtube.com/watch?v=NV-GhJNsOG0",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.457
+        },
+        {
+          "id": "10yupbzEYZA",
+          "title": "All The Things You Are 'Live' - Joe Pass (Transcription)",
+          "duration": 420,
+          "url": "https://www.youtube.com/watch?v=10yupbzEYZA",
+          "nameSimilarity": 0.9,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 178.457
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-f964c",
+      "artist": "Cal Collins",
+      "title": "The Nearness Of You",
+      "sourceDuration": 200.06136363636364,
+      "candidates": [
+        {
+          "id": "hUMa1rra-XU",
+          "title": "The Nearness Of You - Cal Collins (Transcription)",
+          "duration": 210,
+          "url": "https://www.youtube.com/watch?v=hUMa1rra-XU",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 9.939
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-TcC4c",
+      "artist": "George Benson",
+      "title": "My One and Only Love",
+      "sourceDuration": 66.58181818181818,
+      "candidates": [
+        {
+          "id": "8DKplkq4jX0",
+          "title": "My one and Only Love - George Benson (Transcription)",
+          "duration": 67,
+          "url": "https://www.youtube.com/watch?v=8DKplkq4jX0",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.418
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-8km4c",
+      "artist": "Jimmy Raney",
+      "title": "The End Of A Love Affair",
+      "sourceDuration": 252.66136363636363,
+      "candidates": [
+        {
+          "id": "gmhHnx3R_bs",
+          "title": "The End Of A Love Affair - Jimmy Raney (Transcription)",
+          "duration": 270,
+          "url": "https://www.youtube.com/watch?v=gmhHnx3R_bs",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 17.339
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-sxh4c",
+      "artist": "Joe Pass",
+      "title": "Autumn Leaves",
+      "sourceDuration": 159.46136363636361,
+      "candidates": [
+        {
+          "id": "OV6nTsh1pF4",
+          "title": "Autumn Leaves - Joe Pass (Transcription)",
+          "duration": 160,
+          "url": "https://www.youtube.com/watch?v=OV6nTsh1pF4",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.539
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-tp24c",
+      "artist": "Earl Klugh",
+      "title": "Emily",
+      "sourceDuration": 167.10227272727272,
+      "candidates": [
+        {
+          "id": "VQfV7Du1vBI",
+          "title": "Emily - Earl Klugh (Transcription)",
+          "duration": 168,
+          "url": "https://www.youtube.com/watch?v=VQfV7Du1vBI",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.898
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-Yp24c",
+      "artist": "Earl Klugh",
+      "title": "Alice In Wonderland",
+      "sourceDuration": 150.44545454545454,
+      "candidates": [
+        {
+          "id": "J00nojHBApY",
+          "title": "Alice In Wonderland - Earl Klugh (Transcription)",
+          "duration": 174,
+          "url": "https://www.youtube.com/watch?v=J00nojHBApY",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 23.555
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-KNC4c",
+      "artist": "Earl Klugh",
+      "title": "Winter Wonderland",
+      "sourceDuration": 64.68409090909091,
+      "candidates": [
+        {
+          "id": "Ar0fCcfxdqo",
+          "title": "Winter Wonderland - Earl Klugh (Transcription)",
+          "duration": 65,
+          "url": "https://www.youtube.com/watch?v=Ar0fCcfxdqo",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.316
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-qwC4c",
+      "artist": "Ted Greene",
+      "title": "Someday my Prince Will Come (Baroque variation)",
+      "sourceDuration": 53.20227272727273,
+      "candidates": [],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-9NC4c",
+      "artist": "Earl Klugh",
+      "title": "Someday My Prince Will Come",
+      "sourceDuration": 123.28181818181818,
+      "candidates": [
+        {
+          "id": "zJXMq5-UWTk",
+          "title": "Someday my Prince Will Come - Earl Klugh (Transcription)",
+          "duration": 124,
+          "url": "https://www.youtube.com/watch?v=zJXMq5-UWTk",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.718
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-C4C4c",
+      "artist": "Lenny Breau",
+      "title": "It Could Happen to You",
+      "sourceDuration": 171.0818181818182,
+      "candidates": [
+        {
+          "id": "XAm_90BoFik",
+          "title": "It Could Happen to You - Lenny Breau (Transcription)",
+          "duration": 179,
+          "url": "https://www.youtube.com/watch?v=XAm_90BoFik",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 7.918
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-4NC4c",
+      "artist": "Earl Klugh",
+      "title": "Smoke Gets In Your Eyes",
+      "sourceDuration": 115.52272727272727,
+      "candidates": [
+        {
+          "id": "7-u69MVoQKw",
+          "title": "Smoke gets in your eyes - Earl Klugh (Transcription)",
+          "duration": 116,
+          "url": "https://www.youtube.com/watch?v=7-u69MVoQKw",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.477
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-KZh4c",
+      "artist": "Earl Klugh",
+      "title": "Moon River",
+      "sourceDuration": 237.84318181818182,
+      "candidates": [
+        {
+          "id": "vzQbUMucqkI",
+          "title": "Moon River - Earl Klugh (Transcription)",
+          "duration": 238,
+          "url": "https://www.youtube.com/watch?v=vzQbUMucqkI",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.157
+        },
+        {
+          "id": "xBUPKij6igk",
+          "title": "Moon River - Earl Klugh (Transcription)",
+          "duration": 231,
+          "url": "https://www.youtube.com/watch?v=xBUPKij6igk",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": -6.843
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-NyC4c",
+      "artist": "Paulinho Nogueira",
+      "title": "Carolina",
+      "sourceDuration": 195.8022727272727,
+      "candidates": [
+        {
+          "id": "h-CrzH_bwWA",
+          "title": "Carolina - Paulinho Nogueira (Transcription)",
+          "duration": 196,
+          "url": "https://www.youtube.com/watch?v=h-CrzH_bwWA",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.198
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-CyC4c",
+      "artist": "Ralph Towner",
+      "title": "Fall In Love Too Easily",
+      "sourceDuration": 309.20227272727277,
+      "candidates": [
+        {
+          "id": "BL3wNO95byw",
+          "title": "I Fall in Love Too Easily - Ralph Towner (Transcription)",
+          "duration": 310,
+          "url": "https://www.youtube.com/watch?v=BL3wNO95byw",
+          "nameSimilarity": 0.974,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.798
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-64C4c",
+      "artist": "Pasquale Grasso",
+      "title": "Have You Met Miss Jones",
+      "sourceDuration": 86.26136363636364,
+      "candidates": [
+        {
+          "id": "WUHRkfYx-dk",
+          "title": "Have You Met Miss Jones - Pasquale Grasso (Transcription)",
+          "duration": 87,
+          "url": "https://www.youtube.com/watch?v=WUHRkfYx-dk",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.739
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-JGDyc",
+      "artist": "Pasquale Grasso",
+      "title": "Over The Rainbow",
+      "sourceDuration": 162.1818181818182,
+      "candidates": [
+        {
+          "id": "w1wu6qUFDfU",
+          "title": "Over The Rainbow - Pasquale Grasso (Transcription)",
+          "duration": 177,
+          "url": "https://www.youtube.com/watch?v=w1wu6qUFDfU",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 14.818
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-zzfyc",
+      "artist": "Wes Montgomery",
+      "title": "While We're Young",
+      "sourceDuration": 135.8227272727273,
+      "candidates": [
+        {
+          "id": "VtJ6w_YKRUU",
+          "title": "While We're Young - Wes Montgomery (Transcription)",
+          "duration": 136,
+          "url": "https://www.youtube.com/watch?v=VtJ6w_YKRUU",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.177
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-5X94c",
+      "artist": "Luiz Bonfa",
+      "title": "Tenderly",
+      "sourceDuration": 139.72272727272727,
+      "candidates": [
+        {
+          "id": "TX6-4gc8HB0",
+          "title": "Tenderly - Luiz Bonfa (Transcription)",
+          "duration": 140,
+          "url": "https://www.youtube.com/watch?v=TX6-4gc8HB0",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.277
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-hp24c",
+      "artist": "Earl Klugh",
+      "title": "Lullaby of Birdland",
+      "sourceDuration": 147.46136363636361,
+      "candidates": [
+        {
+          "id": "3dVNFaQ7hV4",
+          "title": "Lullaby of Birdland - Earl Klugh (Transcription)",
+          "duration": 148,
+          "url": "https://www.youtube.com/watch?v=3dVNFaQ7hV4",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.539
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-YNC4c",
+      "artist": "Earl Klugh",
+      "title": "The Night Has A Thousand Eyes",
+      "sourceDuration": 240.8227272727273,
+      "candidates": [
+        {
+          "id": "Id5mTdKk-YA",
+          "title": "The Night Has a Thousand Eyes - Earl Klugh (Transcription)",
+          "duration": 241,
+          "url": "https://www.youtube.com/watch?v=Id5mTdKk-YA",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.177
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-rDC4c",
+      "artist": "Jonathan Kreisberg",
+      "title": "I Thought About You",
+      "sourceDuration": 272.4613636363636,
+      "candidates": [],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-74C4c",
+      "artist": "Lenny Breau",
+      "title": "Warm up and Improvisation on Autumn Leaves",
+      "sourceDuration": 413.8431818181818,
+      "candidates": [
+        {
+          "id": "1S4oO4sZRoY",
+          "title": "Warm up and Improvisation Autumn Leaves - Lenny Breau (Transcription)",
+          "duration": 414,
+          "url": "https://www.youtube.com/watch?v=1S4oO4sZRoY",
+          "nameSimilarity": 0.971,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.157
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-3H74c",
+      "artist": "Stochelo Rosenberg",
+      "title": "Improvisation from Neune Campsite Holland",
+      "sourceDuration": 78.08181818181819,
+      "candidates": [],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-2Y4yc",
+      "artist": "Earl Klugh",
+      "title": "Our Love Is Here To Stay",
+      "sourceDuration": 162.9431818181818,
+      "candidates": [
+        {
+          "id": "1BEpdPADpWo",
+          "title": "Our Love is Here to Stay - Earl Klugh (Transcription)",
+          "duration": 163,
+          "url": "https://www.youtube.com/watch?v=1BEpdPADpWo",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.057
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-8DC4c",
+      "artist": "Johnny Smith",
+      "title": "The Maid With Flaxen Hair",
+      "sourceDuration": 124.42272727272727,
+      "candidates": [
+        {
+          "id": "Z6QcAkMyeRs",
+          "title": "The Maid with the Flaxen Hair - Johnny Smith (Transcription)",
+          "duration": 125,
+          "url": "https://www.youtube.com/watch?v=Z6QcAkMyeRs",
+          "nameSimilarity": 0.933,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.577
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-WcC4c",
+      "artist": "George Van Eps",
+      "title": "Scott's Lullabye",
+      "sourceDuration": 114.80227272727274,
+      "candidates": [
+        {
+          "id": "k3lV0AktId4",
+          "title": "Scott's Lullaby - George Van Eps (Arr. for 6 Strings)",
+          "duration": 115,
+          "url": "https://www.youtube.com/watch?v=k3lV0AktId4",
+          "timingStatus": "unverified",
+          "offset": null,
+          "matchMethod": "Manual title variant; source rendition still needs checking",
+          "durationDifference": 0.198
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-mwC4c",
+      "artist": "Tuck Andress",
+      "title": "Winter Wonderland",
+      "sourceDuration": 269.6818181818182,
+      "candidates": [
+        {
+          "id": "KiKG6agQt3c",
+          "title": "Winter Wonderland - Tuck Andress (Transcription)",
+          "duration": 270,
+          "url": "https://www.youtube.com/watch?v=KiKG6agQt3c",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.318
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-6DC4c",
+      "artist": "Jonathan Kreisberg",
+      "title": "Have You Met Mrs' Jones",
+      "sourceDuration": 95.36136363636363,
+      "candidates": [],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-bcs4c",
+      "artist": "Al Viola",
+      "title": "Cheek to Cheek",
+      "sourceDuration": 153.24318181818182,
+      "candidates": [
+        {
+          "id": "k-o6-xVKK8o",
+          "title": "Cheek to Cheek - Al Viola (Transcription)",
+          "duration": 176,
+          "url": "https://www.youtube.com/watch?v=k-o6-xVKK8o",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 22.757
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-JkC4c",
+      "artist": "Lenny Breau",
+      "title": "Autumn Leaves",
+      "sourceDuration": 119.60227272727273,
+      "candidates": [
+        {
+          "id": "Kzd4NsUCfdY",
+          "title": "Autumn Leaves - Lenny Breau (Transcription)",
+          "duration": 120,
+          "url": "https://www.youtube.com/watch?v=Kzd4NsUCfdY",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.398
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-n4C4c",
+      "artist": "Luiz Bonfa",
+      "title": "Night and Day",
+      "sourceDuration": 128.1818181818182,
+      "candidates": [],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-hwC4c",
+      "artist": "Tuck Andress",
+      "title": "Silent Night",
+      "sourceDuration": 185.9818181818182,
+      "candidates": [
+        {
+          "id": "OMtxHM-r9DA",
+          "title": "Silent Night - Tuck Andress (Transcription)",
+          "duration": 186,
+          "url": "https://www.youtube.com/watch?v=OMtxHM-r9DA",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.018
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-gfC4c",
+      "artist": "Joe Pass",
+      "title": "Someone To Watch Over Me",
+      "sourceDuration": 185.0431818181818,
+      "candidates": [
+        {
+          "id": "bHNmsU1EeB4",
+          "title": "Someone to Watch Over Me - Joe Pass (Transcription)",
+          "duration": 185,
+          "url": "https://www.youtube.com/watch?v=bHNmsU1EeB4",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": -0.043
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-MtY4c",
+      "artist": "Charlie Byrd",
+      "title": "It Came Upon the Midnight Clear",
+      "sourceDuration": 100.54318181818181,
+      "candidates": [
+        {
+          "id": "pLD-oG_XQnM",
+          "title": "It Came Upon the Midnight Clear - Charlie Byrd (Transcription)",
+          "duration": 120,
+          "url": "https://www.youtube.com/watch?v=pLD-oG_XQnM",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 19.457
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-LNC4c",
+      "artist": "Earl Klugh",
+      "title": "You Make Me Feel So Young",
+      "sourceDuration": 185.24318181818182,
+      "candidates": [
+        {
+          "id": "iXwdBA_bJ8E",
+          "title": "You Make Me Feel So Young - Earl Klugh (Transcription)",
+          "duration": 186,
+          "url": "https://www.youtube.com/watch?v=iXwdBA_bJ8E",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.757
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-g4C4c",
+      "artist": "Oscar Peterson",
+      "title": "Little Girl Blue",
+      "sourceDuration": 114.66136363636365,
+      "candidates": [],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-f4W4c",
+      "artist": "Lenny Breau",
+      "title": "Emily",
+      "sourceDuration": 224.02272727272728,
+      "candidates": [
+        {
+          "id": "bf6N6-urFwY",
+          "title": "Emily - Lenny Breau (Transcription)",
+          "duration": 224,
+          "url": "https://www.youtube.com/watch?v=bf6N6-urFwY",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": -0.023
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-9kC4c",
+      "artist": "Lenny Breau",
+      "title": "But Beautiful",
+      "sourceDuration": 302.56136363636364,
+      "candidates": [
+        {
+          "id": "jBPg0TLmIeQ",
+          "title": "But Beautiful - Lenny Breau (Transcription)",
+          "duration": 303,
+          "url": "https://www.youtube.com/watch?v=jBPg0TLmIeQ",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.439
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-6p24c",
+      "artist": "Earl Klugh",
+      "title": "If I Fell",
+      "sourceDuration": 116.36136363636363,
+      "candidates": [
+        {
+          "id": "XmlWDq51q1M",
+          "title": "If I Fell - Earl Klugh (Transcription)",
+          "duration": 117,
+          "url": "https://www.youtube.com/watch?v=XmlWDq51q1M",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.639
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-QDC4c",
+      "artist": "Jonathan Kreisberg",
+      "title": "Canto De Ossanha",
+      "sourceDuration": 311.1227272727273,
+      "candidates": [],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-xbR4c",
+      "artist": "Chet Atkins",
+      "title": "Struttin",
+      "sourceDuration": 151.3227272727273,
+      "candidates": [
+        {
+          "id": "RajxCXa1tpo",
+          "title": "Struttin - Chet Atkins (Transcription)",
+          "duration": 152,
+          "url": "https://www.youtube.com/watch?v=RajxCXa1tpo",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.677
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-ByC4c",
+      "artist": "Russel Malone",
+      "title": "Softly and Tenderly",
+      "sourceDuration": 56.08181818181818,
+      "candidates": [
+        {
+          "id": "VVrC72u6rU0",
+          "title": "Softly and Tenderly - Russel Malone (Transcription)",
+          "duration": 57,
+          "url": "https://www.youtube.com/watch?v=VVrC72u6rU0",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.918
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-cMC4c",
+      "artist": "Julian Lage",
+      "title": "Autumn Leaves",
+      "sourceDuration": 185.84318181818182,
+      "candidates": [
+        {
+          "id": "hwQqqtdZ66o",
+          "title": "Autumn Leaves - Julian Lage (Transcription)",
+          "duration": 186,
+          "url": "https://www.youtube.com/watch?v=hwQqqtdZ66o",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.157
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-dfC4c",
+      "artist": "Joe Pass",
+      "title": "Li'l Darlin 'live'",
+      "sourceDuration": 197.74318181818182,
+      "candidates": [
+        {
+          "id": "D9Oro2r3Quw",
+          "title": "Li'l Darlin' (Live) - Joe Pass (Transcription)",
+          "duration": 198,
+          "url": "https://www.youtube.com/watch?v=D9Oro2r3Quw",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.257
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-GVC4c",
+      "artist": "Jimmy Ponder",
+      "title": "A Tribute To Rose",
+      "sourceDuration": 136.6431818181818,
+      "candidates": [
+        {
+          "id": "4Pl7D_Y5k9U",
+          "title": "A Tribute To Rose - Jimmy Ponder (Transcription)",
+          "duration": 137,
+          "url": "https://www.youtube.com/watch?v=4Pl7D_Y5k9U",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.357
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-cDC4c",
+      "artist": "Joe Pass",
+      "title": "They Can't Take That Away From Me",
+      "sourceDuration": 287.32272727272726,
+      "candidates": [
+        {
+          "id": "EA7eyF9BuAQ",
+          "title": "They Can't Take That Away From Me - Joe Pass (Transcription)",
+          "duration": 288,
+          "url": "https://www.youtube.com/watch?v=EA7eyF9BuAQ",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.677
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-LDC4c",
+      "artist": "Johnny Smith",
+      "title": "The Boy Next Door",
+      "sourceDuration": 159.1431818181818,
+      "candidates": [
+        {
+          "id": "rFl_bieYUEQ",
+          "title": "The Boy Next Door - Johnny Smith (Transcription)",
+          "duration": 160,
+          "url": "https://www.youtube.com/watch?v=rFl_bieYUEQ",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.857
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-8MC4c",
+      "artist": "Kenny Burrell",
+      "title": "People",
+      "sourceDuration": 170.4818181818182,
+      "candidates": [
+        {
+          "id": "H0DwMCq8jWk",
+          "title": "People - Kenny Burrell (Transcription)",
+          "duration": 171,
+          "url": "https://www.youtube.com/watch?v=H0DwMCq8jWk",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.518
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-qNC4c",
+      "artist": "Earl Klugh",
+      "title": "The Summer Know",
+      "sourceDuration": 261.54318181818184,
+      "candidates": [
+        {
+          "id": "4QzzUtAtG2k",
+          "title": "The Summer Knows - Earl Klugh (Transcription)",
+          "duration": 262,
+          "url": "https://www.youtube.com/watch?v=4QzzUtAtG2k",
+          "nameSimilarity": 0.963,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.457
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-wNC4c",
+      "artist": "Earl Klugh",
+      "title": "Tenderly",
+      "sourceDuration": 113.68181818181819,
+      "candidates": [],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-PQh4c",
+      "artist": "Luiz Bonfa\u0301",
+      "title": "Quebra Mar (The Seawall)",
+      "sourceDuration": 161.3227272727273,
+      "candidates": [
+        {
+          "id": "Ogx3O-oVxiU",
+          "title": "Quebra Mar - Luiz Bonf\u00e1 (Transcription)",
+          "duration": 162,
+          "url": "https://www.youtube.com/watch?v=Ogx3O-oVxiU",
+          "timingStatus": "unverified",
+          "offset": null,
+          "matchMethod": "Manual title variant; source rendition still needs checking",
+          "durationDifference": 0.677
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-5xh4c",
+      "artist": "Joe Pass",
+      "title": "Night and Day",
+      "sourceDuration": 218.40227272727273,
+      "candidates": [
+        {
+          "id": "hA0b9SPZjyM",
+          "title": "Night & Day - Joe Pass (Transcription)",
+          "duration": 219,
+          "url": "https://www.youtube.com/watch?v=hA0b9SPZjyM",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.598
+        },
+        {
+          "id": "snaKq4WcsxU",
+          "title": "Night and Day - Joe Pass (Transcription)",
+          "duration": 212,
+          "url": "https://www.youtube.com/watch?v=snaKq4WcsxU",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": -6.402
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-LwC4c",
+      "artist": "Toninho Horta",
+      "title": "Moon River",
+      "sourceDuration": 211.9227272727273,
+      "candidates": [
+        {
+          "id": "-GvpgajuivQ",
+          "title": "Moon River - Toninho Horta (Transcription)",
+          "duration": 212,
+          "url": "https://www.youtube.com/watch?v=-GvpgajuivQ",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.077
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-p4C4c",
+      "artist": "Paulinho Nogueira",
+      "title": "Bachianinha no1",
+      "sourceDuration": 171.06136363636364,
+      "candidates": [
+        {
+          "id": "wBEDHcFHBP4",
+          "title": "Bachianinha no1 - Paulinho Nogueira (Transcription)",
+          "duration": 172,
+          "url": "https://www.youtube.com/watch?v=wBEDHcFHBP4",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.939
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-MDC4c",
+      "artist": "Joe Pass",
+      "title": "White Christmas",
+      "sourceDuration": 199.0431818181818,
+      "candidates": [
+        {
+          "id": "8uIhS1ywof0",
+          "title": "White Christmas - Joe Pass (Transcription)",
+          "duration": 199,
+          "url": "https://www.youtube.com/watch?v=8uIhS1ywof0",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": -0.043
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-5C74c",
+      "artist": "Martin Taylor",
+      "title": "Danny Boy",
+      "sourceDuration": 223.0431818181818,
+      "candidates": [],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-2p24c",
+      "artist": "Earl Klugh",
+      "title": "Angelina",
+      "sourceDuration": 182.3227272727273,
+      "candidates": [
+        {
+          "id": "9tQaJW42P4c",
+          "title": "Angelina - Earl Klugh (Transcription)",
+          "duration": 183,
+          "url": "https://www.youtube.com/watch?v=9tQaJW42P4c",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.677
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc--Qh4c",
+      "artist": "Martin Taylor",
+      "title": "I Remember Clifford",
+      "sourceDuration": 287.9818181818182,
+      "candidates": [
+        {
+          "id": "02yOhUS0lro",
+          "title": "I Remember Clifford - Martin Taylor (Transcription)",
+          "duration": 288,
+          "url": "https://www.youtube.com/watch?v=02yOhUS0lro",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.018
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-gwC4c",
+      "artist": "Tony Mottola",
+      "title": "Yesterday Yesterdays",
+      "sourceDuration": 184.90227272727273,
+      "candidates": [
+        {
+          "id": "mdAmgEdjL8I",
+          "title": "Yesterdays/Yesterday - Tony Mottola (Transcription)",
+          "duration": 185,
+          "url": "https://www.youtube.com/watch?v=mdAmgEdjL8I",
+          "timingStatus": "unverified",
+          "offset": null,
+          "matchMethod": "Manual title variant; source rendition still needs checking",
+          "durationDifference": 0.098
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-rwC4c",
+      "artist": "Tuck Andress",
+      "title": "Coventry  Carol, What child is this",
+      "sourceDuration": 182.6431818181818,
+      "candidates": [],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-QyC4c",
+      "artist": "Stephen D. Anderson",
+      "title": "Disney Medley",
+      "sourceDuration": 199.86363636363637,
+      "candidates": [
+        {
+          "id": "0HZbC3teS0I",
+          "title": "Disney Medley - Stephen D. Anderson (Transcription)",
+          "duration": 200,
+          "url": "https://www.youtube.com/watch?v=0HZbC3teS0I",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 0.136
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    },
+    {
+      "sourceId": "leduc-R5d4c",
+      "artist": "Peter Leitch",
+      "title": "Quasimodo",
+      "sourceDuration": 219.84318181818182,
+      "candidates": [
+        {
+          "id": "IgpPWQ8bKyU",
+          "title": "Quasimodo - Peter Leitch (Transcription)",
+          "duration": 233,
+          "url": "https://www.youtube.com/watch?v=IgpPWQ8bKyU",
+          "nameSimilarity": 1.0,
+          "timingStatus": "unverified",
+          "offset": null,
+          "durationDifference": 13.157
+        }
+      ],
+      "sourceUrl": "https://huggingface.co/datasets/xavriley/FrancoisLeducGuitarDataset",
+      "verification": "Public transcriber channel title match only; requires rendition and timing validation"
+    }
+  ],
+  "coveredTitleCount": 68,
+  "candidateCount": 73,
+  "warning": "Candidate identities and times must not be used as synchronized recordings until validated. Similar durations do not establish offset."
+}

@@ -1,0 +1,167 @@
+{
+  "songId": "detourahead",
+  "title": "Detour Ahead",
+  "sourcePartIndex": 0,
+  "pdmxMetadata": {
+    "path": "./data/16/48/QmYvta5y2yqUT5jxfPmArAAuqmr2PRjrMTcqruiHtLSqMu.json",
+    "metadata": "./metadata/4/4886073.json",
+    "mxl": "./mxl/16/48/QmYvta5y2yqUT5jxfPmArAAuqmr2PRjrMTcqruiHtLSqMu.mxl",
+    "pdf": "./pdf/16/48/QmYvta5y2yqUT5jxfPmArAAuqmr2PRjrMTcqruiHtLSqMu.pdf",
+    "mid": "./mid/16/48/QmYvta5y2yqUT5jxfPmArAAuqmr2PRjrMTcqruiHtLSqMu.mid",
+    "version": "2.06",
+    "is_user_pro": "True",
+    "is_user_publisher": "False",
+    "is_user_staff": "False",
+    "has_paywall": "False",
+    "is_rated": "True",
+    "is_official": "False",
+    "is_original": "False",
+    "is_draft": "False",
+    "has_custom_audio": "False",
+    "has_custom_video": "False",
+    "n_comments": "2",
+    "n_favorites": "4",
+    "n_views": "363",
+    "n_ratings": "6",
+    "rating": "4.66",
+    "license": "cc-zero",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_conflict": "False",
+    "genres": "NA",
+    "groups": "NA",
+    "tags": "jazz-combo-hornarrangement",
+    "song_name": "NA",
+    "title": "Detour Ahead",
+    "subtitle": "NA",
+    "artist_name": "NA",
+    "composer_name": "Ellis Frigo Carter. Arr. Laurence Hobgood. Transcr. Henrik Clausen",
+    "publisher": "NA",
+    "complexity": "0",
+    "n_tracks": "8",
+    "tracks": "0-0-32-53-56-65-65-67",
+    "song_length": "192000",
+    "song_length.seconds": "373.27737423342217",
+    "song_length.bars": "106",
+    "song_length.beats": "358",
+    "n_notes": "3211",
+    "notes_per_bar": "30.29245283018868",
+    "n_annotations": "720",
+    "has_annotations": "True",
+    "n_lyrics": "303",
+    "has_lyrics": "True",
+    "n_tokens": "4234",
+    "pitch_class_entropy": "3.4442851233837906",
+    "scale_consistency": "0.7501557632398754",
+    "groove_consistency": "0.8279166666666666",
+    "best_path": "./data/16/48/QmYvta5y2yqUT5jxfPmArAAuqmr2PRjrMTcqruiHtLSqMu.json",
+    "is_best_path": "True",
+    "best_arrangement": "./data/16/48/QmYvta5y2yqUT5jxfPmArAAuqmr2PRjrMTcqruiHtLSqMu.json",
+    "is_best_arrangement": "True",
+    "best_unique_arrangement": "./data/16/48/QmYvta5y2yqUT5jxfPmArAAuqmr2PRjrMTcqruiHtLSqMu.json",
+    "is_best_unique_arrangement": "True",
+    "subset:all": "True",
+    "subset:rated": "True",
+    "subset:deduplicated": "True",
+    "subset:rated_deduplicated": "True",
+    "subset:no_license_conflict": "True",
+    "subset:all_valid": "True",
+    "localFile": "/workspace/scratch/8a36bbb966a6/head-expansion-2/pdmx/detourahead-0.mxl"
+  },
+  "metadataFile": "/workspace/scratch/8a36bbb966a6/head-expansion-2/pdmx/detourahead-metadata.json",
+  "noteCount": 271,
+  "chordCount": 0,
+  "timeSignatures": [
+    {
+      "beat": 0,
+      "numerator": 4,
+      "denominator": 4
+    },
+    {
+      "beat": 36,
+      "numerator": 2,
+      "denominator": 4
+    },
+    {
+      "beat": 38,
+      "numerator": 4,
+      "denominator": 4
+    },
+    {
+      "beat": 74,
+      "numerator": 2,
+      "denominator": 4
+    },
+    {
+      "beat": 76,
+      "numerator": 3,
+      "denominator": 4
+    },
+    {
+      "beat": 82,
+      "numerator": 4,
+      "denominator": 4
+    },
+    {
+      "beat": 150,
+      "numerator": 5,
+      "denominator": 4
+    },
+    {
+      "beat": 155,
+      "numerator": 4,
+      "denominator": 4
+    },
+    {
+      "beat": 195,
+      "numerator": 3,
+      "denominator": 4
+    },
+    {
+      "beat": 219,
+      "numerator": 4,
+      "denominator": 4
+    },
+    {
+      "beat": 303,
+      "numerator": 5,
+      "denominator": 4
+    },
+    {
+      "beat": 308,
+      "numerator": 4,
+      "denominator": 4
+    },
+    {
+      "beat": 348,
+      "numerator": 6,
+      "denominator": 4
+    },
+    {
+      "beat": 354,
+      "numerator": 3,
+      "denominator": 4
+    },
+    {
+      "beat": 384,
+      "numerator": 4,
+      "denominator": 4
+    }
+  ],
+  "sourceCredit": "(('composer', 'Ellis, Frigo, Carter. Arr. Laurence Hobgood'), ('fileFormat', 'musicxml'), ('filePath', '/workspace/scratch/8a36bbb966a6/head-expansion-2/pdmx/detourahead-0.mxl'), ('movementName', 'detourahead-0.mxl'), ('software', 'MuseScore 3.6.2'), ('software', 'music21 v.10.5.2'), ('title', 'Detour Ahead'))",
+  "measures": 106,
+  "pitchRange": [
+    56,
+    79
+  ],
+  "durationBeats": 404,
+  "sourceUrl": "https://musescore.com/user/4213646/scores/4886073",
+  "provider": "PDMX / HenrikClausen",
+  "timing": "Score-time melody part; recording alignment unverified",
+  "conversionNote": "Selected monophonic lead part; symbolic source repeats expanded and explicit transposing-instrument declarations applied.",
+  "datasetUrl": "https://zenodo.org/records/15571083",
+  "sourceContributor": "HenrikClausen",
+  "sourceDescription": "The brilliant song Detour Ahead as recorded by Kurt Elling with original arrangement by Laurence Hopgood.\r\nThis is an adaption of Hopgood's arrangement for three horns, so this now includes four horn (trumpet, alto, tenor and baritone saxes).\r\nFor intermediate to advanced players as the harmonies are expanded and time changes over the course of the song.\r\nOnly (so far) with rudimentary piano and drum parts.\r\n\r\nSuggestions for improvements are more than welcome!",
+  "sourceLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "contentType": "Melody/head score study",
+  "bundledSource": "data/heads/attribution/score-head-detourahead.mxl"
+}

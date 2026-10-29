@@ -1,0 +1,5442 @@
+[
+  {
+    "datasetSongId": 0,
+    "catalogSongId": "nightintunisia",
+    "title": "A Night in Tunisia",
+    "composer": "John \"Dizzy\" Gillespie/Frank Paparelli",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/00-a_night_in_tunisia/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/00-a_night_in_tunisia/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-0.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 385,
+    "headNoteCount": 191,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 12.343,
+        "end": 23.314,
+        "section": "head-in/A"
+      },
+      {
+        "start": 23.314,
+        "end": 34.286,
+        "section": "head-in/A"
+      },
+      {
+        "start": 34.286,
+        "end": 45.257,
+        "section": "head-in/B"
+      },
+      {
+        "start": 45.257,
+        "end": 56.229,
+        "section": "head-in/A"
+      },
+      {
+        "start": 56.229,
+        "end": 75.429,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "PWlK0cvtC1M",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 175.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-0.json"
+  },
+  {
+    "datasetSongId": 1,
+    "catalogSongId": "sundaykindoflove",
+    "title": "A Sunday Kind of Love",
+    "composer": "Barbara Belle/Louis Prima/Anita Leonard/Stan Rhodes",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/01-a_sunday_kind_of_love/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/01-a_sunday_kind_of_love/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-1.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 512,
+    "headNoteCount": 161,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 3.2,
+        "end": 28.8,
+        "section": "head-in/A"
+      },
+      {
+        "start": 28.8,
+        "end": 54.4,
+        "section": "head-in/A"
+      },
+      {
+        "start": 54.4,
+        "end": 80.0,
+        "section": "head-in/B"
+      },
+      {
+        "start": 80.0,
+        "end": 105.6,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "x69_AX-ltaQ",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 75.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-1.json"
+  },
+  {
+    "datasetSongId": 2,
+    "catalogSongId": "aliceinwonderland",
+    "title": "Alice in Wonderland",
+    "composer": "Sammy Fain/Bob Hilliard",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/02-alice_in_wonderland/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/02-alice_in_wonderland/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-2.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 400,
+    "headNoteCount": 112,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.125,
+        "end": 19.125,
+        "section": "head-in/A"
+      },
+      {
+        "start": 19.125,
+        "end": 37.125,
+        "section": "head-in/A"
+      },
+      {
+        "start": 37.125,
+        "end": 55.125,
+        "section": "head-in/B"
+      },
+      {
+        "start": 55.125,
+        "end": 73.125,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "O6d_0wKT2bA",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "3/4",
+    "bpm": 160.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-2.json"
+  },
+  {
+    "datasetSongId": 3,
+    "catalogSongId": "allofme",
+    "title": "All of Me",
+    "composer": "Seymour Simons/Gerald Marks",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/03-all_of_me/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/03-all_of_me/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-3.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 2796,
+    "headNoteCount": 81,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 12.706,
+        "end": 24.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 24.0,
+        "end": 35.294,
+        "section": "head-in/B"
+      },
+      {
+        "start": 35.294,
+        "end": 46.588,
+        "section": "head-in/A"
+      },
+      {
+        "start": 46.588,
+        "end": 57.882,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "WWNaX0BZMtU",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 170.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-3.json"
+  },
+  {
+    "datasetSongId": 4,
+    "catalogSongId": "allthethingsyouare",
+    "title": "All the Things You Are",
+    "composer": "Jerome Kern/Oscar Hammerstein II",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/04-all_the_things_you_are/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/04-all_the_things_you_are/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-4.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 419,
+    "headNoteCount": 112,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 14.4,
+        "end": 27.2,
+        "section": "head-in/A"
+      },
+      {
+        "start": 27.2,
+        "end": 40.0,
+        "section": "head-in/B"
+      },
+      {
+        "start": 40.0,
+        "end": 52.8,
+        "section": "head-in/C"
+      },
+      {
+        "start": 52.8,
+        "end": 62.4,
+        "section": "head-in/A"
+      },
+      {
+        "start": 62.4,
+        "end": 72.0,
+        "section": "head-in/D"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "nuUvw0IIb_Y",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 150.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-4.json"
+  },
+  {
+    "datasetSongId": 5,
+    "catalogSongId": "auprivave",
+    "title": "Au Privave",
+    "composer": "Charlie Parker",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/05-au_privave/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/05-au_privave/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-5.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 347,
+    "headNoteCount": 118,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.371,
+        "end": 17.829,
+        "section": "head-in/A"
+      },
+      {
+        "start": 17.829,
+        "end": 34.286,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "IDeiLMg9WEU",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 175.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-5.json"
+  },
+  {
+    "datasetSongId": 6,
+    "catalogSongId": "autumnleaves",
+    "title": "Autumn Leaves",
+    "composer": "Joseph Kosma/Johnny Mercer/Jacques Prevert",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/06-autumn_leaves/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/06-autumn_leaves/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-6.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 281,
+    "headNoteCount": 70,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.263,
+        "end": 11.368,
+        "section": "head-in/A"
+      },
+      {
+        "start": 11.368,
+        "end": 21.474,
+        "section": "head-in/A"
+      },
+      {
+        "start": 21.474,
+        "end": 31.579,
+        "section": "head-in/B"
+      },
+      {
+        "start": 31.579,
+        "end": 41.684,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "C1mMsz2I1c8",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 190.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-6.json"
+  },
+  {
+    "datasetSongId": 7,
+    "catalogSongId": "bluebossa",
+    "title": "Blue Bossa",
+    "composer": "Kenny Durham",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/07-blue_bossa/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/07-blue_bossa/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-7.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 325,
+    "headNoteCount": 86,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 13.5,
+        "end": 25.5,
+        "section": "head-in/A"
+      },
+      {
+        "start": 25.5,
+        "end": 37.5,
+        "section": "head-in/B"
+      },
+      {
+        "start": 37.5,
+        "end": 49.5,
+        "section": "head-in/A"
+      },
+      {
+        "start": 49.5,
+        "end": 61.5,
+        "section": "head-in/B"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "EUxv3AAaK_Y",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 160.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-7.json"
+  },
+  {
+    "datasetSongId": 8,
+    "catalogSongId": "blueskies",
+    "title": "Blue Skies",
+    "composer": "Irving Berlin",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/08-blue_skies/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/08-blue_skies/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-8.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 299,
+    "headNoteCount": 88,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 14.4,
+        "end": 27.2,
+        "section": "head-in/A"
+      },
+      {
+        "start": 27.2,
+        "end": 40.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 40.0,
+        "end": 52.8,
+        "section": "head-in/B"
+      },
+      {
+        "start": 52.8,
+        "end": 65.6,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "SAa4teWb0rU",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 150.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-8.json"
+  },
+  {
+    "datasetSongId": 9,
+    "catalogSongId": "caravan",
+    "title": "Caravan",
+    "composer": "Duke Ellington/Irving Mills/Juan Tizol",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/09-caravan/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/09-caravan/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-9.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 412,
+    "headNoteCount": 104,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 15.111,
+        "end": 43.556,
+        "section": "head-in/A"
+      },
+      {
+        "start": 43.556,
+        "end": 57.778,
+        "section": "head-in/B"
+      },
+      {
+        "start": 57.778,
+        "end": 72.0,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "38CRu1rCaKg",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 270.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-9.json"
+  },
+  {
+    "datasetSongId": 10,
+    "catalogSongId": "desafinado",
+    "title": "Desafinado",
+    "composer": "Antonio Carlos Jobim/Newton Mendonca",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/10-desafinado/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/10-desafinado/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-10.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 3271,
+    "headNoteCount": 208,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 4.966,
+        "end": 18.207,
+        "section": "head-in/A"
+      },
+      {
+        "start": 18.207,
+        "end": 31.448,
+        "section": "head-in/B"
+      },
+      {
+        "start": 31.448,
+        "end": 44.69,
+        "section": "head-in/A"
+      },
+      {
+        "start": 44.69,
+        "end": 57.931,
+        "section": "head-in/C"
+      },
+      {
+        "start": 57.931,
+        "end": 84.414,
+        "section": "head-in/D"
+      },
+      {
+        "start": 84.414,
+        "end": 104.276,
+        "section": "head-in/E"
+      },
+      {
+        "start": 104.276,
+        "end": 117.517,
+        "section": "head-in/F"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "oqHONL-LZ58",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 145.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-10.json"
+  },
+  {
+    "datasetSongId": 12,
+    "catalogSongId": "forsentimentalreasons",
+    "title": "(I Love You) For Sentimental Reasons",
+    "composer": "William Best/Deek Watson",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/12-for_sentimental_reasons/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/12-for_sentimental_reasons/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-12.mid",
+    "leadInstrument": "saxophone_tenor",
+    "noteCount": 389,
+    "headNoteCount": 96,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 3.0,
+        "end": 27.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 27.0,
+        "end": 51.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 51.0,
+        "end": 75.0,
+        "section": "head-in/B"
+      },
+      {
+        "start": 75.0,
+        "end": 99.0,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "QMcZRGwDnRQ",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 80.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-12.json"
+  },
+  {
+    "datasetSongId": 13,
+    "catalogSongId": "four",
+    "title": "Four",
+    "composer": "Miles Davis",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/13-four/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/13-four/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-13.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 366,
+    "headNoteCount": 116,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 3.892,
+        "end": 14.27,
+        "section": "head-in/A"
+      },
+      {
+        "start": 14.27,
+        "end": 24.649,
+        "section": "head-in/B"
+      },
+      {
+        "start": 24.649,
+        "end": 35.027,
+        "section": "head-in/A"
+      },
+      {
+        "start": 35.027,
+        "end": 45.405,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "d_dSxV1bm4Q",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 185.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-13.json"
+  },
+  {
+    "datasetSongId": 14,
+    "catalogSongId": "freddiefreeloader",
+    "title": "Freddie Freeloader",
+    "composer": "Miles Davis",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/14-freddie_freeloader/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/14-freddie_freeloader/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-14.mid",
+    "leadInstrument": "saxophone_tenor",
+    "noteCount": 158,
+    "headNoteCount": 31,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.778,
+        "end": 16.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 16.0,
+        "end": 23.111,
+        "section": "head-in/B"
+      },
+      {
+        "start": 23.111,
+        "end": 37.333,
+        "section": "head-in/A"
+      },
+      {
+        "start": 37.333,
+        "end": 44.444,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "ZZcuSBouhVA",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 135.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-14.json"
+  },
+  {
+    "datasetSongId": 15,
+    "catalogSongId": "frenesi",
+    "title": "Frenes\u00ed",
+    "composer": "Alberto Dominguez",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/15-frenesi/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/15-frenesi/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-15.mid",
+    "leadInstrument": "saxophone_tenor",
+    "noteCount": 419,
+    "headNoteCount": 142,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 8.276,
+        "end": 21.517,
+        "section": "head-in/A"
+      },
+      {
+        "start": 21.517,
+        "end": 34.759,
+        "section": "head-in/A"
+      },
+      {
+        "start": 34.759,
+        "end": 48.0,
+        "section": "head-in/B"
+      },
+      {
+        "start": 48.0,
+        "end": 61.241,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "0jAuyh2Q6kw",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 145.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-15.json"
+  },
+  {
+    "datasetSongId": 16,
+    "catalogSongId": "howhighthemoon",
+    "title": "How High the Moon",
+    "composer": "Morgan Lewis/Nancy Hamilton",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/16-how_high_the_moon/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/16-how_high_the_moon/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-16.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 286,
+    "headNoteCount": 85,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 6.0,
+        "end": 15.6,
+        "section": "head-in/A"
+      },
+      {
+        "start": 15.6,
+        "end": 25.2,
+        "section": "head-in/B"
+      },
+      {
+        "start": 25.2,
+        "end": 34.8,
+        "section": "head-in/A"
+      },
+      {
+        "start": 34.8,
+        "end": 44.4,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "7uGx47QyvL0",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 200.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-16.json"
+  },
+  {
+    "datasetSongId": 17,
+    "catalogSongId": "icouldwriteabook",
+    "title": "I Could Write a Book",
+    "composer": "Richard Rodgers/Lorenz Hart",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/17-i_could_write_a_book/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/17-i_could_write_a_book/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-17.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 2636,
+    "headNoteCount": 70,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 17.28,
+        "end": 32.64,
+        "section": "head-in/A"
+      },
+      {
+        "start": 32.64,
+        "end": 48.0,
+        "section": "head-in/B"
+      },
+      {
+        "start": 48.0,
+        "end": 63.36,
+        "section": "head-in/A"
+      },
+      {
+        "start": 63.36,
+        "end": 78.72,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "TqDhtaM83iI",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 125.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-17.json"
+  },
+  {
+    "datasetSongId": 18,
+    "catalogSongId": "iwishyoulove",
+    "title": "I Wish You Love",
+    "composer": "Charles Trenet/Albert Beach",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/18-i_wish_you_love/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/18-i_wish_you_love/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-18.mid",
+    "leadInstrument": "saxophone_tenor",
+    "noteCount": 417,
+    "headNoteCount": 119,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 10.909,
+        "end": 28.364,
+        "section": "head-in/A"
+      },
+      {
+        "start": 28.364,
+        "end": 45.818,
+        "section": "head-in/A"
+      },
+      {
+        "start": 45.818,
+        "end": 63.273,
+        "section": "head-in/B"
+      },
+      {
+        "start": 63.273,
+        "end": 80.727,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "YYn4KqaeAac",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 110.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-18.json"
+  },
+  {
+    "datasetSongId": 19,
+    "catalogSongId": "ifiwereabell",
+    "title": "If I Were a Bell",
+    "composer": "Frank Loesser",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/19-if_i_were_a_bell/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/19-if_i_were_a_bell/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-19.mid",
+    "leadInstrument": "saxophone_tenor",
+    "noteCount": 296,
+    "headNoteCount": 103,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 11.368,
+        "end": 21.474,
+        "section": "head-in/A"
+      },
+      {
+        "start": 21.474,
+        "end": 31.579,
+        "section": "head-in/B"
+      },
+      {
+        "start": 31.579,
+        "end": 41.684,
+        "section": "head-in/A"
+      },
+      {
+        "start": 41.684,
+        "end": 51.789,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "Oy7jS9vN6Kk",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 190.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-19.json"
+  },
+  {
+    "datasetSongId": 20,
+    "catalogSongId": "impressions",
+    "title": "Impressions",
+    "composer": "John Coltrane",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/20-impressions/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/20-impressions/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-20.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 210,
+    "headNoteCount": 57,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 0.96,
+        "end": 16.32,
+        "section": "head-in/A"
+      },
+      {
+        "start": 16.32,
+        "end": 24.0,
+        "section": "head-in/B"
+      },
+      {
+        "start": 24.0,
+        "end": 31.68,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "7RRxiUw6bkk",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 250.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-20.json"
+  },
+  {
+    "datasetSongId": 21,
+    "catalogSongId": "isntitromantic",
+    "title": "Isn't It Romantic?",
+    "composer": "Richard Rodgers/Lorenz Hart",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/21-isnt_it_romantic/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/21-isnt_it_romantic/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-21.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 1250,
+    "headNoteCount": 92,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 8.571,
+        "end": 22.286,
+        "section": "head-in/A"
+      },
+      {
+        "start": 22.286,
+        "end": 36.0,
+        "section": "head-in/B"
+      },
+      {
+        "start": 36.0,
+        "end": 49.714,
+        "section": "head-in/A"
+      },
+      {
+        "start": 49.714,
+        "end": 63.429,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "hzpyEXPRF4I",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 140.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-21.json"
+  },
+  {
+    "datasetSongId": 22,
+    "catalogSongId": "lazybird",
+    "title": "Lazy Bird",
+    "composer": "John Coltrane",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/22-lazy_bird/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/22-lazy_bird/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-22.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 272,
+    "headNoteCount": 64,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 9.0,
+        "end": 17.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 17.0,
+        "end": 25.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 25.0,
+        "end": 33.0,
+        "section": "head-in/B"
+      },
+      {
+        "start": 33.0,
+        "end": 41.0,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "JYV3ZEBE4R8",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 240.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-22.json"
+  },
+  {
+    "datasetSongId": 23,
+    "catalogSongId": "likesomeoneinlove",
+    "title": "Like Someone in Love",
+    "composer": "Jimmy Van Heusen/Johnny Burke",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/23-like_someone_in_love/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/23-like_someone_in_love/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-23.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 325,
+    "headNoteCount": 75,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 18.783,
+        "end": 35.478,
+        "section": "head-in/A"
+      },
+      {
+        "start": 35.478,
+        "end": 52.174,
+        "section": "head-in/B"
+      },
+      {
+        "start": 52.174,
+        "end": 68.87,
+        "section": "head-in/A"
+      },
+      {
+        "start": 68.87,
+        "end": 85.565,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "6unIPgt_fCw",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 115.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-23.json"
+  },
+  {
+    "datasetSongId": 24,
+    "catalogSongId": "longagoandfaraway",
+    "title": "Long Ago (and Far Away)",
+    "composer": "Jerome Kern/Ira Gershwin",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/24-long_ago/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/24-long_ago/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-24.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 326,
+    "headNoteCount": 86,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 12.706,
+        "end": 24.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 24.0,
+        "end": 35.294,
+        "section": "head-in/B"
+      },
+      {
+        "start": 35.294,
+        "end": 46.588,
+        "section": "head-in/A"
+      },
+      {
+        "start": 46.588,
+        "end": 57.882,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "PABzN7U8OBY",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 170.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-24.json"
+  },
+  {
+    "datasetSongId": 25,
+    "catalogSongId": "lullabyofbirdland",
+    "title": "Lullaby of Birdland",
+    "composer": "George Shearing/George Davis Weiss",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/25-lullaby_of_birdland/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/25-lullaby_of_birdland/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-25.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 379,
+    "headNoteCount": 129,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 7.273,
+        "end": 18.909,
+        "section": "head-in/A"
+      },
+      {
+        "start": 18.909,
+        "end": 30.545,
+        "section": "head-in/A"
+      },
+      {
+        "start": 30.545,
+        "end": 42.182,
+        "section": "head-in/B"
+      },
+      {
+        "start": 42.182,
+        "end": 53.818,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "JbtXU9MHshc",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 165.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-25.json"
+  },
+  {
+    "datasetSongId": 26,
+    "catalogSongId": null,
+    "title": "Mas Que Nada",
+    "composer": "Jorge Ben",
+    "realBook": false,
+    "currentlyHasHead": false,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/26-mas_que_nada/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/26-mas_que_nada/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-26.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 407,
+    "headNoteCount": 113,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 6.667,
+        "end": 28.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 28.0,
+        "end": 38.667,
+        "section": "head-in/B"
+      },
+      {
+        "start": 38.667,
+        "end": 49.333,
+        "section": "head-in/C"
+      },
+      {
+        "start": 49.333,
+        "end": 60.0,
+        "section": "head-in/B"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "pRLd2V3m3kI",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 180.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-26.json"
+  },
+  {
+    "datasetSongId": 27,
+    "catalogSongId": "meditation",
+    "title": "Meditation (Medita\u00e7\u00e3o)",
+    "composer": "Antonio Carlos Jobim/Newton Mendonca/Norman Gimbel",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/27-meditation/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/27-meditation/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-27.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 459,
+    "headNoteCount": 122,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 24.0,
+        "end": 83.077,
+        "section": "head-in/A"
+      },
+      {
+        "start": 83.077,
+        "end": 97.846,
+        "section": "head-in/B"
+      },
+      {
+        "start": 97.846,
+        "end": 127.385,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "ZSBzmjddZzw",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 130.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-27.json"
+  },
+  {
+    "datasetSongId": 28,
+    "catalogSongId": "moonglow",
+    "title": "Moonglow",
+    "composer": "Will Hudson/Eddie de Lange/Irving Mills",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/28-moonglow/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/28-moonglow/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-28.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 359,
+    "headNoteCount": 89,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 10.909,
+        "end": 45.818,
+        "section": "head-in/A"
+      },
+      {
+        "start": 45.818,
+        "end": 63.273,
+        "section": "head-in/B"
+      },
+      {
+        "start": 63.273,
+        "end": 80.727,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "lsWX3X3JOJA",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 110.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-28.json"
+  },
+  {
+    "datasetSongId": 29,
+    "catalogSongId": "myfavoritethings",
+    "title": "My Favorite Things",
+    "composer": "Richard Rodgers/Oscar Hammerstein II",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/29-my_favorite_things/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/29-my_favorite_things/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-29.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 533,
+    "headNoteCount": 159,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 18.545,
+        "end": 53.455,
+        "section": "head-in/A"
+      },
+      {
+        "start": 53.455,
+        "end": 70.909,
+        "section": "head-in/B"
+      },
+      {
+        "start": 70.909,
+        "end": 97.091,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "JQvc-Gkwhow",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "3/4",
+    "bpm": 165.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-29.json"
+  },
+  {
+    "datasetSongId": 30,
+    "catalogSongId": "nicasdream",
+    "title": "Nica's Dream",
+    "composer": "Horace Silver",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/30-nicas_dream/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/30-nicas_dream/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-30.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 528,
+    "headNoteCount": 159,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 8.0,
+        "end": 24.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 24.0,
+        "end": 40.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 40.0,
+        "end": 56.0,
+        "section": "head-in/B"
+      },
+      {
+        "start": 56.0,
+        "end": 72.0,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "r7OG-Oqb5qE",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 240.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-30.json"
+  },
+  {
+    "datasetSongId": 31,
+    "catalogSongId": null,
+    "title": "O Pato (The Duck)",
+    "composer": "Jayme Silva/Neuza Teixiera/Jon Hendricks",
+    "realBook": false,
+    "currentlyHasHead": false,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/31-o_pato/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/31-o_pato/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-31.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 530,
+    "headNoteCount": 188,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.371,
+        "end": 12.343,
+        "section": "head-in/A"
+      },
+      {
+        "start": 12.343,
+        "end": 23.314,
+        "section": "head-in/A"
+      },
+      {
+        "start": 23.314,
+        "end": 34.286,
+        "section": "head-in/B"
+      },
+      {
+        "start": 34.286,
+        "end": 45.257,
+        "section": "head-in/C"
+      },
+      {
+        "start": 45.257,
+        "end": 56.229,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "jkBk8U2ikf8",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 175.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-31.json"
+  },
+  {
+    "datasetSongId": 32,
+    "catalogSongId": "ornithology",
+    "title": "Ornithology",
+    "composer": "Charlie Parker/Bennie Harris",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/32-ornithology/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/32-ornithology/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-32.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 407,
+    "headNoteCount": 142,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 5.714,
+        "end": 14.857,
+        "section": "head-in/A"
+      },
+      {
+        "start": 14.857,
+        "end": 24.0,
+        "section": "head-in/B"
+      },
+      {
+        "start": 24.0,
+        "end": 33.143,
+        "section": "head-in/A"
+      },
+      {
+        "start": 33.143,
+        "end": 42.286,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "OKQcgu8dbuw",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 210.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-32.json"
+  },
+  {
+    "datasetSongId": 33,
+    "catalogSongId": "perisscope",
+    "title": "Peri's Scope",
+    "composer": "Bill Evans",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/33-peris_scope/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/33-peris_scope/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-33.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 253,
+    "headNoteCount": 86,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.333,
+        "end": 12.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 12.0,
+        "end": 22.667,
+        "section": "head-in/B"
+      },
+      {
+        "start": 22.667,
+        "end": 33.333,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "kp4MdnbgLHg",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 180.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-33.json"
+  },
+  {
+    "datasetSongId": 34,
+    "catalogSongId": "quietnightsofquietstars",
+    "title": "Quiet Nights of Quiet Stars (Corcovado)",
+    "composer": "Antonio Carlos Jobim/Gene Lees",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/34-quiet_nights_of_quiet_stars/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/34-quiet_nights_of_quiet_stars/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-34.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 381,
+    "headNoteCount": 118,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.92,
+        "end": 17.28,
+        "section": "head-in/A"
+      },
+      {
+        "start": 17.28,
+        "end": 32.64,
+        "section": "head-in/B"
+      },
+      {
+        "start": 32.64,
+        "end": 48.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 48.0,
+        "end": 71.04,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "QofIVxTtHYA",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 125.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-34.json"
+  },
+  {
+    "datasetSongId": 35,
+    "catalogSongId": "recordame",
+    "title": "Recorda-Me",
+    "composer": "Joe Henderson",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/35-recordame/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/35-recordame/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-35.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 381,
+    "headNoteCount": 123,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.371,
+        "end": 12.343,
+        "section": "head-in/A"
+      },
+      {
+        "start": 12.343,
+        "end": 23.314,
+        "section": "head-in/B"
+      },
+      {
+        "start": 23.314,
+        "end": 34.286,
+        "section": "head-in/A"
+      },
+      {
+        "start": 34.286,
+        "end": 45.257,
+        "section": "head-in/B"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "3c9zSAVWKEs",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 175.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-35.json"
+  },
+  {
+    "datasetSongId": 36,
+    "catalogSongId": "roadsong",
+    "title": "Road Song",
+    "composer": "John L. (Wes) Montgomery",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/36-road_song/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/36-road_song/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-36.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 397,
+    "headNoteCount": 102,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 8.276,
+        "end": 21.517,
+        "section": "head-in/A"
+      },
+      {
+        "start": 21.517,
+        "end": 34.759,
+        "section": "head-in/A"
+      },
+      {
+        "start": 34.759,
+        "end": 48.0,
+        "section": "head-in/B"
+      },
+      {
+        "start": 48.0,
+        "end": 61.241,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "ABFAz5orvWA",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 145.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-36.json"
+  },
+  {
+    "datasetSongId": 37,
+    "catalogSongId": "songformyfather",
+    "title": "Song for My Father",
+    "composer": "Horace Silver",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/37-song_for_my_father/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/37-song_for_my_father/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-37.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 300,
+    "headNoteCount": 73,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 9.6,
+        "end": 24.96,
+        "section": "head-in/A"
+      },
+      {
+        "start": 24.96,
+        "end": 40.32,
+        "section": "head-in/A"
+      },
+      {
+        "start": 40.32,
+        "end": 55.68,
+        "section": "head-in/B"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "mKf1x3CALAE",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 125.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-37.json"
+  },
+  {
+    "datasetSongId": 38,
+    "catalogSongId": "spainchickcorearodrigo",
+    "title": "Spain",
+    "composer": "Chick Corea",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/38-spain/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/38-spain/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-38.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 350,
+    "headNoteCount": 160,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 0.889,
+        "end": 6.222,
+        "section": "head-in/A"
+      },
+      {
+        "start": 6.222,
+        "end": 16.889,
+        "section": "head-in/B"
+      },
+      {
+        "start": 16.889,
+        "end": 28.444,
+        "section": "head-in/C"
+      },
+      {
+        "start": 28.444,
+        "end": 33.778,
+        "section": "head-in/A"
+      },
+      {
+        "start": 33.778,
+        "end": 44.444,
+        "section": "head-in/B"
+      },
+      {
+        "start": 44.444,
+        "end": 54.222,
+        "section": "head-in/C"
+      },
+      {
+        "start": 54.222,
+        "end": 75.556,
+        "section": "head-in/D"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "sEhQTjgoTdU",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 270.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-38.json"
+  },
+  {
+    "datasetSongId": 39,
+    "catalogSongId": "stthomas",
+    "title": "St. Thomas",
+    "composer": "Sonny Rollins",
+    "realBook": false,
+    "currentlyHasHead": false,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/39-st_thomas/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/39-st_thomas/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-39.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 273,
+    "headNoteCount": 87,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 19.902,
+        "end": 29.268,
+        "section": "head-in/A"
+      },
+      {
+        "start": 29.268,
+        "end": 38.634,
+        "section": "head-in/B"
+      },
+      {
+        "start": 38.634,
+        "end": 48.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 48.0,
+        "end": 57.366,
+        "section": "head-in/B"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "_YynSucmcQo",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 205.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-39.json"
+  },
+  {
+    "datasetSongId": 40,
+    "catalogSongId": "stompinatthesavoy",
+    "title": "Stompin' at the Savoy",
+    "composer": "Benny Goodman/Edgar Sampson/Chick Webb",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/40-stompin_at_the_savoy/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/40-stompin_at_the_savoy/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-40.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 373,
+    "headNoteCount": 115,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 7.742,
+        "end": 20.129,
+        "section": "head-in/A"
+      },
+      {
+        "start": 20.129,
+        "end": 32.516,
+        "section": "head-in/A"
+      },
+      {
+        "start": 32.516,
+        "end": 44.903,
+        "section": "head-in/B"
+      },
+      {
+        "start": 44.903,
+        "end": 57.29,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "C4bKdQA-KL0",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 155.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-40.json"
+  },
+  {
+    "datasetSongId": 41,
+    "catalogSongId": "takefive",
+    "title": "Take Five",
+    "composer": "Paul Desmond",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/41-take_five/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/41-take_five/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-41.mid",
+    "leadInstrument": "saxophone_tenor",
+    "noteCount": 398,
+    "headNoteCount": 137,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 15.882,
+        "end": 30.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 30.0,
+        "end": 44.118,
+        "section": "head-in/B"
+      },
+      {
+        "start": 44.118,
+        "end": 58.235,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "ryA6eHZNnXY",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "5/4",
+    "bpm": 170.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-41.json"
+  },
+  {
+    "datasetSongId": 42,
+    "catalogSongId": "taketheatrain",
+    "title": "Take the \"A\" Train",
+    "composer": "Billy Strayhorn",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/42-take_the_a_train/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/42-take_the_a_train/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-42.mid",
+    "leadInstrument": "saxophone_tenor",
+    "noteCount": 249,
+    "headNoteCount": 72,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 6.667,
+        "end": 17.333,
+        "section": "head-in/A"
+      },
+      {
+        "start": 17.333,
+        "end": 28.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 28.0,
+        "end": 38.667,
+        "section": "head-in/B"
+      },
+      {
+        "start": 38.667,
+        "end": 49.333,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "MQ_vOm-mAys",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 180.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-42.json"
+  },
+  {
+    "datasetSongId": 43,
+    "catalogSongId": "girlfromipanema",
+    "title": "The Girl From Ipanema (Garota de Ipanema)",
+    "composer": "Antonio Carlos Jobim/Norman Gimbel/Vinicius de Moraes",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/43-the_girl_from_ipanema/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/43-the_girl_from_ipanema/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-43.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 439,
+    "headNoteCount": 130,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 16.615,
+        "end": 31.385,
+        "section": "head-in/A"
+      },
+      {
+        "start": 31.385,
+        "end": 46.154,
+        "section": "head-in/A"
+      },
+      {
+        "start": 46.154,
+        "end": 75.692,
+        "section": "head-in/B"
+      },
+      {
+        "start": 75.692,
+        "end": 90.462,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "v5DZ5clg-bg",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 130.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-43.json"
+  },
+  {
+    "datasetSongId": 44,
+    "catalogSongId": null,
+    "title": "The Great Pumpkin Waltz",
+    "composer": "Vince Guaraldi",
+    "realBook": false,
+    "currentlyHasHead": false,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/44-the_great_pumpkin_waltz/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/44-the_great_pumpkin_waltz/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-44.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 293,
+    "headNoteCount": 82,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.091,
+        "end": 14.182,
+        "section": "head-in/A"
+      },
+      {
+        "start": 14.182,
+        "end": 27.273,
+        "section": "head-in/A"
+      },
+      {
+        "start": 27.273,
+        "end": 44.727,
+        "section": "head-in/B"
+      },
+      {
+        "start": 44.727,
+        "end": 57.818,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "uINn4mkqL0M",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "3/4",
+    "bpm": 165.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-44.json"
+  },
+  {
+    "datasetSongId": 45,
+    "catalogSongId": "tourdeforce",
+    "title": "Tour De Force",
+    "composer": "John \"Dizzy\" Gillespie",
+    "realBook": true,
+    "currentlyHasHead": false,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/45-tour_de_force/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/45-tour_de_force/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-45.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 411,
+    "headNoteCount": 132,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 6.4,
+        "end": 19.2,
+        "section": "head-in/A"
+      },
+      {
+        "start": 19.2,
+        "end": 32.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 32.0,
+        "end": 44.8,
+        "section": "head-in/B"
+      },
+      {
+        "start": 44.8,
+        "end": 57.6,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "HzjF0AvLSXk",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 150.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-45.json"
+  },
+  {
+    "datasetSongId": 46,
+    "catalogSongId": "waittillyouseeher",
+    "title": "Wait Till You See Her",
+    "composer": "Richard Rodgers/Lorenz Hart",
+    "realBook": true,
+    "currentlyHasHead": false,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/46-wait_till_you_see_her/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/46-wait_till_you_see_her/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-46.mid",
+    "leadInstrument": "saxophone_tenor",
+    "noteCount": 239,
+    "headNoteCount": 74,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 11.172,
+        "end": 21.103,
+        "section": "head-in/A"
+      },
+      {
+        "start": 21.103,
+        "end": 31.034,
+        "section": "head-in/A"
+      },
+      {
+        "start": 31.034,
+        "end": 40.966,
+        "section": "head-in/B"
+      },
+      {
+        "start": 40.966,
+        "end": 60.828,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "BdjbBxmmRCg",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "3/4",
+    "bpm": 145.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-46.json"
+  },
+  {
+    "datasetSongId": 47,
+    "catalogSongId": "wave",
+    "title": "Wave",
+    "composer": "Antonio Carlos Jobim",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/47-wave/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/47-wave/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-47.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 457,
+    "headNoteCount": 154,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 8.276,
+        "end": 28.138,
+        "section": "head-in/A"
+      },
+      {
+        "start": 28.138,
+        "end": 48.0,
+        "section": "head-in/A"
+      },
+      {
+        "start": 48.0,
+        "end": 61.241,
+        "section": "head-in/B"
+      },
+      {
+        "start": 61.241,
+        "end": 81.103,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "JGqzKmp_5Bg",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 145.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 5,
+        "name": "Fares Nofal",
+        "instrument": "saxophone_tenor"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-47.json"
+  },
+  {
+    "datasetSongId": 48,
+    "catalogSongId": "whenyouwishuponastar",
+    "title": "When You Wish Upon a Star",
+    "composer": "Leigh Harline/Ned Washington",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/48-when_you_wish_upon_a_star/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/48-when_you_wish_upon_a_star/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-48.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 324,
+    "headNoteCount": 99,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.846,
+        "end": 16.615,
+        "section": "head-in/A"
+      },
+      {
+        "start": 16.615,
+        "end": 31.385,
+        "section": "head-in/A"
+      },
+      {
+        "start": 31.385,
+        "end": 46.154,
+        "section": "head-in/B"
+      },
+      {
+        "start": 46.154,
+        "end": 60.923,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "W1B6LqNulPY",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 130.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-48.json"
+  },
+  {
+    "datasetSongId": 49,
+    "catalogSongId": "woodchoppersball",
+    "title": "Woodchopper's Ball",
+    "composer": "Joe Bishop/Woody Herman",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "async",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/async/49-woodchoppers_ball/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/async/49-woodchoppers_ball/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-49.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 224,
+    "headNoteCount": 51,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.412,
+        "end": 18.353,
+        "section": "head-in/A"
+      },
+      {
+        "start": 18.353,
+        "end": 35.294,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "0WKYIroIFwc",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 170.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 1,
+        "name": "Jett Takazawa",
+        "instrument": "bass"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-49.json"
+  },
+  {
+    "datasetSongId": 50,
+    "catalogSongId": "almostlikebeinginlove",
+    "title": "Almost Like Being in Love (from Brigadoon)",
+    "composer": "Alan Jay Lerner/Frederick Loewe",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/50-almost_like_being_in_love/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/50-almost_like_being_in_love/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-50.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 314,
+    "headNoteCount": 111,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.217,
+        "end": 10.895,
+        "section": "head-in/A"
+      },
+      {
+        "start": 10.895,
+        "end": 20.22,
+        "section": "head-in/A"
+      },
+      {
+        "start": 20.22,
+        "end": 29.458,
+        "section": "head-in/B"
+      },
+      {
+        "start": 29.458,
+        "end": 43.221,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "EpUnbzqrQEs",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 175.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 7,
+        "name": "Sebastian Stade",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-50.json"
+  },
+  {
+    "datasetSongId": 51,
+    "catalogSongId": "amazinggrace",
+    "title": "Amazing Grace",
+    "composer": "Traditional",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/51-amazing_grace/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/51-amazing_grace/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-51.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 142,
+    "headNoteCount": 40,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 5.381,
+        "end": 14.042,
+        "section": "head-in/A"
+      },
+      {
+        "start": 14.042,
+        "end": 22.707,
+        "section": "head-in/B"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "DwHN2jtpQvU",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 155.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 7,
+        "name": "Sebastian Stade",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-51.json"
+  },
+  {
+    "datasetSongId": 52,
+    "catalogSongId": null,
+    "title": "Bernie's Tune",
+    "composer": "Bernie Miller/Jerry Leiber/Mike Stoller",
+    "realBook": false,
+    "currentlyHasHead": false,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/52-bernies_tune/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/52-bernies_tune/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-52.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 2447,
+    "headNoteCount": 99,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.193,
+        "end": 10.67,
+        "section": "head-in/A"
+      },
+      {
+        "start": 10.67,
+        "end": 19.994,
+        "section": "head-in/A"
+      },
+      {
+        "start": 19.994,
+        "end": 29.191,
+        "section": "head-in/B"
+      },
+      {
+        "start": 29.191,
+        "end": 38.421,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "WNvSssjkclU",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 200.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 7,
+        "name": "Sebastian Stade",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-52.json"
+  },
+  {
+    "datasetSongId": 53,
+    "catalogSongId": "blackorpheus",
+    "title": "Black Orpheus (Manh\u00e3 de Carnaval)",
+    "composer": "Luis Bonfa",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/53-black_orpheus/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/53-black_orpheus/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-53.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 563,
+    "headNoteCount": 85,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 7.877,
+        "end": 31.106,
+        "section": "head-in/A"
+      },
+      {
+        "start": 31.106,
+        "end": 53.847,
+        "section": "head-in/B"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "NRZwYPkwldo",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 170.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-53.json"
+  },
+  {
+    "datasetSongId": 54,
+    "catalogSongId": "boplicity",
+    "title": "Boplicity (Be Bop Lives)",
+    "composer": "Miles Davis/Gil Evans",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/54-boplicity/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/54-boplicity/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-54.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 486,
+    "headNoteCount": 173,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.794,
+        "end": 16.217,
+        "section": "head-in/A"
+      },
+      {
+        "start": 16.217,
+        "end": 30.477,
+        "section": "head-in/A"
+      },
+      {
+        "start": 30.477,
+        "end": 44.977,
+        "section": "head-in/B"
+      },
+      {
+        "start": 44.977,
+        "end": 59.514,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "lwW2uqK0p6s",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 135.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-54.json"
+  },
+  {
+    "datasetSongId": 55,
+    "catalogSongId": "byebyeblackbird",
+    "title": "Bye Bye Blackbird",
+    "composer": "Ray Henderson/Mort Dixon",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/55-bye_bye_blackbird/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/55-bye_bye_blackbird/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-55.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 302,
+    "headNoteCount": 80,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 17.498,
+        "end": 32.802,
+        "section": "head-in/A"
+      },
+      {
+        "start": 32.802,
+        "end": 47.986,
+        "section": "head-in/B"
+      },
+      {
+        "start": 47.986,
+        "end": 62.997,
+        "section": "head-in/C"
+      },
+      {
+        "start": 62.997,
+        "end": 78.076,
+        "section": "head-in/D"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "CieM9gurwZ4",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 120.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 7,
+        "name": "Sebastian Stade",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-55.json"
+  },
+  {
+    "datasetSongId": 56,
+    "catalogSongId": "ceora",
+    "title": "Ceora",
+    "composer": "Lee Morgan",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/56-ceora/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/56-ceora/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-56.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 719,
+    "headNoteCount": 180,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.789,
+        "end": 15.943,
+        "section": "head-in/A"
+      },
+      {
+        "start": 15.943,
+        "end": 30.051,
+        "section": "head-in/B"
+      },
+      {
+        "start": 30.051,
+        "end": 44.352,
+        "section": "head-in/A"
+      },
+      {
+        "start": 44.352,
+        "end": 58.575,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "uRjshy_n_yE",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 130.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-56.json"
+  },
+  {
+    "datasetSongId": 57,
+    "catalogSongId": "chegadesaudade",
+    "title": "Chega de Saudade (No More Blues)",
+    "composer": "Antonio Carlos Jobim/Vinicius de Moraes",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/57-chega_de_saudade/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/57-chega_de_saudade/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-57.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 7957,
+    "headNoteCount": 190,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 11.629,
+        "end": 31.983,
+        "section": "head-in/A"
+      },
+      {
+        "start": 31.983,
+        "end": 52.655,
+        "section": "head-in/B"
+      },
+      {
+        "start": 52.655,
+        "end": 73.342,
+        "section": "head-in/C"
+      },
+      {
+        "start": 73.342,
+        "end": 99.059,
+        "section": "head-in/D"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "hOrK_pKQzIw",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 145.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-57.json"
+  },
+  {
+    "datasetSongId": 58,
+    "catalogSongId": null,
+    "title": "Don't Fence Me In",
+    "composer": "Cole Porter",
+    "realBook": false,
+    "currentlyHasHead": false,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/58-dont_fence_me_in/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/58-dont_fence_me_in/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-58.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 457,
+    "headNoteCount": 143,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 12.446,
+        "end": 23.37,
+        "section": "head-in/A"
+      },
+      {
+        "start": 23.37,
+        "end": 34.225,
+        "section": "head-in/B"
+      },
+      {
+        "start": 34.225,
+        "end": 44.897,
+        "section": "head-in/C"
+      },
+      {
+        "start": 44.897,
+        "end": 55.626,
+        "section": "head-in/B"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "wEOdcR6CJZ4",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 130.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-58.json"
+  },
+  {
+    "datasetSongId": 59,
+    "catalogSongId": "groovinhigh",
+    "title": "Groovin' High",
+    "composer": "John \"Dizzy\" Gillespie",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/59-groovin_high/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/59-groovin_high/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-59.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 360,
+    "headNoteCount": 121,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.183833,
+        "end": 10.6045,
+        "section": "head-in/A"
+      },
+      {
+        "start": 10.6045,
+        "end": 19.975167,
+        "section": "head-in/B"
+      },
+      {
+        "start": 19.975167,
+        "end": 29.478417,
+        "section": "head-in/A"
+      },
+      {
+        "start": 29.478417,
+        "end": 38.898333,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "K5yTYt-XqBA",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 185.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-59.json"
+  },
+  {
+    "datasetSongId": 60,
+    "catalogSongId": "inasentimentalmood",
+    "title": "In a Sentimental Mood",
+    "composer": "Duke Ellington",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/60-in_a_sentimental_mood/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/60-in_a_sentimental_mood/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-60.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 424,
+    "headNoteCount": 99,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 17.882,
+        "end": 46.47,
+        "section": "head-in/A"
+      },
+      {
+        "start": 46.47,
+        "end": 74.552,
+        "section": "head-in/A"
+      },
+      {
+        "start": 74.552,
+        "end": 102.506,
+        "section": "head-in/B"
+      },
+      {
+        "start": 102.506,
+        "end": 130.176,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "5AhdgAcV0KM",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 75.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-60.json"
+  },
+  {
+    "datasetSongId": 61,
+    "catalogSongId": "invitation",
+    "title": "Invitation",
+    "composer": "Bronislau Kaper/Paul Francis Webster",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/61-invitation/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/61-invitation/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-61.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 417,
+    "headNoteCount": 127,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 0.907,
+        "end": 7.689,
+        "section": "head-in/A"
+      },
+      {
+        "start": 7.689,
+        "end": 14.419,
+        "section": "head-in/B"
+      },
+      {
+        "start": 14.419,
+        "end": 28.031,
+        "section": "head-in/C"
+      },
+      {
+        "start": 28.031,
+        "end": 34.842,
+        "section": "head-in/A"
+      },
+      {
+        "start": 34.842,
+        "end": 41.55,
+        "section": "head-in/D"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "R_EE_WYalZE",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 250.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-61.json"
+  },
+  {
+    "datasetSongId": 62,
+    "catalogSongId": "itdontmeanathing",
+    "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+    "composer": "Duke Ellington/Irving Mills",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/62-it_dont_mean_a_thing/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/62-it_dont_mean_a_thing/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-62.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 346,
+    "headNoteCount": 97,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 3.436,
+        "end": 12.398,
+        "section": "head-in/A"
+      },
+      {
+        "start": 12.398,
+        "end": 21.258,
+        "section": "head-in/A"
+      },
+      {
+        "start": 21.258,
+        "end": 30.259,
+        "section": "head-in/B"
+      },
+      {
+        "start": 30.259,
+        "end": 39.337,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "l58NamqRZDo",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 210.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-62.json"
+  },
+  {
+    "datasetSongId": 63,
+    "catalogSongId": null,
+    "title": "La Vie En Rose (Take Me To Your Heart Again)",
+    "composer": "Luis Guglielmi/Edith Piaf/Mack David",
+    "realBook": false,
+    "currentlyHasHead": false,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/63-la_vie_en_rose/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/63-la_vie_en_rose/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-63.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 311,
+    "headNoteCount": 100,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 12.005,
+        "end": 31.075,
+        "section": "head-in/A"
+      },
+      {
+        "start": 31.075,
+        "end": 49.888,
+        "section": "head-in/B"
+      },
+      {
+        "start": 49.888,
+        "end": 59.3,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "YvhdpkHuCI8",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 110.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-63.json"
+  },
+  {
+    "datasetSongId": 64,
+    "catalogSongId": "love",
+    "title": "L-O-V-E",
+    "composer": "Bert Kaempfert/Milt Gabler",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/64-love/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/64-love/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-64.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 528,
+    "headNoteCount": 80,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 7.203,
+        "end": 18.725,
+        "section": "head-in/A"
+      },
+      {
+        "start": 18.725,
+        "end": 30.127,
+        "section": "head-in/B"
+      },
+      {
+        "start": 30.127,
+        "end": 41.601,
+        "section": "head-in/A"
+      },
+      {
+        "start": 41.601,
+        "end": 53.212,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "UZWmtxLiiFE",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 155.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-64.json"
+  },
+  {
+    "datasetSongId": 65,
+    "catalogSongId": "misty",
+    "title": "Misty",
+    "composer": "Erroll Garner",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/65-misty/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/65-misty/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-65.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 414,
+    "headNoteCount": 95,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 17.297,
+        "end": 47.14,
+        "section": "head-in/A"
+      },
+      {
+        "start": 47.14,
+        "end": 76.878,
+        "section": "head-in/A"
+      },
+      {
+        "start": 76.878,
+        "end": 106.361,
+        "section": "head-in/B"
+      },
+      {
+        "start": 106.361,
+        "end": 135.364,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "UOLEEkYO4MA",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 75.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-65.json"
+  },
+  {
+    "datasetSongId": 66,
+    "catalogSongId": "nardis",
+    "title": "Nardis",
+    "composer": "Miles Davis",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/66-nardis/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/66-nardis/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-66.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 2636,
+    "headNoteCount": 70,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.758,
+        "end": 14.916,
+        "section": "head-in/A"
+      },
+      {
+        "start": 14.916,
+        "end": 28.252,
+        "section": "head-in/A"
+      },
+      {
+        "start": 28.252,
+        "end": 41.881,
+        "section": "head-in/B"
+      },
+      {
+        "start": 41.881,
+        "end": 55.492,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "AF4jzt4p_ug",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 150.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 7,
+        "name": "Sebastian Stade",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-66.json"
+  },
+  {
+    "datasetSongId": 67,
+    "catalogSongId": "ongreendolphinstreet",
+    "title": "On Green Dolphin Street",
+    "composer": "Bronislau Kaper/Ned Washington",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/67-on_green_dolphin_street/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/67-on_green_dolphin_street/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-67.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 215,
+    "headNoteCount": 56,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 1.397,
+        "end": 12.371,
+        "section": "head-in/A"
+      },
+      {
+        "start": 12.371,
+        "end": 22.745,
+        "section": "head-in/B"
+      },
+      {
+        "start": 22.745,
+        "end": 33.302,
+        "section": "head-in/A"
+      },
+      {
+        "start": 33.302,
+        "end": 43.905,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "xGVdAlxlp18",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 165.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-67.json"
+  },
+  {
+    "datasetSongId": 68,
+    "catalogSongId": "onthesunnysideofthestreet",
+    "title": "On the Sunny Side of the Street",
+    "composer": "Jimmy McHugh/Dorothy Fields",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/68-on_the_sunny_side_of_the_street/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/68-on_the_sunny_side_of_the_street/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-68.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 552,
+    "headNoteCount": 127,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 2.266,
+        "end": 19.703,
+        "section": "head-in/A"
+      },
+      {
+        "start": 19.703,
+        "end": 37.006,
+        "section": "head-in/A"
+      },
+      {
+        "start": 37.006,
+        "end": 53.865,
+        "section": "head-in/B"
+      },
+      {
+        "start": 53.865,
+        "end": 70.689,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "SGOdy3CAyCY",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 105.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-68.json"
+  },
+  {
+    "datasetSongId": 69,
+    "catalogSongId": "onenotesamba",
+    "title": "One Note Samba (Samba de Uma Nota S\u00f3)",
+    "composer": "Antonio Carlos Jobim/Newton Mendonca",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/69-one_note_samba/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/69-one_note_samba/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-69.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 479,
+    "headNoteCount": 119,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 5.931,
+        "end": 24.22,
+        "section": "head-in/A"
+      },
+      {
+        "start": 24.22,
+        "end": 33.553,
+        "section": "head-in/B"
+      },
+      {
+        "start": 33.553,
+        "end": 51.919,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "YacrKDzDJo4",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 165.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-69.json"
+  },
+  {
+    "datasetSongId": 70,
+    "catalogSongId": null,
+    "title": "Samba de Orfeu",
+    "composer": "Luis Bonfa/Antonio Mario",
+    "realBook": false,
+    "currentlyHasHead": false,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/70-samba_de_orfeu/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/70-samba_de_orfeu/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-70.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 473,
+    "headNoteCount": 141,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 19.386625,
+        "end": 38.267292,
+        "section": "head-in/A"
+      },
+      {
+        "start": 38.267292,
+        "end": 57.183292,
+        "section": "head-in/A"
+      },
+      {
+        "start": 57.183292,
+        "end": 66.774125,
+        "section": "head-in/B"
+      },
+      {
+        "start": 66.774125,
+        "end": 85.791458,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "lr5BEMWvmi8",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 200.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 7,
+        "name": "Sebastian Stade",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-70.json"
+  },
+  {
+    "datasetSongId": 71,
+    "catalogSongId": "somedaymyprincewillcome",
+    "title": "Some Day My Prince Will Come",
+    "composer": "Frank Churchill/Larry Morey",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/71-some_day_my_prince_will_come/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/71-some_day_my_prince_will_come/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-71.mid",
+    "leadInstrument": "saxophone_alto",
+    "noteCount": 286,
+    "headNoteCount": 61,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 8.161938,
+        "end": 15.482771,
+        "section": "head-in/A"
+      },
+      {
+        "start": 15.482771,
+        "end": 22.691104,
+        "section": "head-in/B"
+      },
+      {
+        "start": 22.691104,
+        "end": 30.045437,
+        "section": "head-in/A"
+      },
+      {
+        "start": 30.045437,
+        "end": 37.263104,
+        "section": "head-in/C"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "fWN9UfUV9eE",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "3/4",
+    "bpm": 155.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 4,
+        "name": "Gage Hosto",
+        "instrument": "saxophone_alto"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-71.json"
+  },
+  {
+    "datasetSongId": 72,
+    "catalogSongId": null,
+    "title": "Sway (Quien Sera)",
+    "composer": "Pablo Beltran Ruiz/Norman Gimbel",
+    "realBook": false,
+    "currentlyHasHead": false,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/72-sway/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/72-sway/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-72.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 426,
+    "headNoteCount": 125,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 16.456,
+        "end": 30.632667,
+        "section": "head-in/A"
+      },
+      {
+        "start": 30.632667,
+        "end": 44.654667,
+        "section": "head-in/A"
+      },
+      {
+        "start": 44.654667,
+        "end": 58.722667,
+        "section": "head-in/B"
+      },
+      {
+        "start": 58.722667,
+        "end": 72.754167,
+        "section": "head-in/A"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "Q8JomIgCxOo",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 125.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-72.json"
+  },
+  {
+    "datasetSongId": 73,
+    "catalogSongId": "triste",
+    "title": "Triste",
+    "composer": "Antonio Carlos Jobim",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/73-triste/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/73-triste/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-73.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 323,
+    "headNoteCount": 86,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 9.10825,
+        "end": 38.29475,
+        "section": "head-in/A"
+      },
+      {
+        "start": 38.29475,
+        "end": 70.738917,
+        "section": "head-in/B"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "vhTH-Fv-c-g",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 160.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-73.json"
+  },
+  {
+    "datasetSongId": 74,
+    "catalogSongId": "waltzfordebby",
+    "title": "Waltz for Debby",
+    "composer": "Bill Evans/Gene Lees",
+    "realBook": true,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/74-waltz_for_debby/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/74-waltz_for_debby/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-74.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 2991,
+    "headNoteCount": 118,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 0.917,
+        "end": 15.242,
+        "section": "head-in/A"
+      },
+      {
+        "start": 15.242,
+        "end": 29.317,
+        "section": "head-in/B"
+      },
+      {
+        "start": 29.317,
+        "end": 43.267,
+        "section": "head-in/C"
+      },
+      {
+        "start": 43.267,
+        "end": 55.448,
+        "section": "head-in/D"
+      },
+      {
+        "start": 55.448,
+        "end": 71.206,
+        "section": "head-in/E"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "Az4SnX521pI",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "3/4",
+    "bpm": 205.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 6,
+        "name": "Jungyeon Bac",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-74.json"
+  },
+  {
+    "datasetSongId": 75,
+    "catalogSongId": "whenthesaintsgomarchingin",
+    "title": "When the Saints Go Marching In",
+    "composer": "Traditional",
+    "realBook": false,
+    "currentlyHasHead": true,
+    "protocol": "sync",
+    "audioUrl": "https://pnlong.github.io/jazzsamba-demo/audio/sync/75-when_the_saints_go_marching_in/better/mixture.mp3",
+    "pinnedAudioUrl": "https://raw.githubusercontent.com/pnlong/jazzsamba-demo/3715097238b33593d865d05b772e094642843612/audio/sync/75-when_the_saints_go_marching_in/better/mixture.mp3",
+    "midiFile": "data/jazzsamba/jazzsamba-75.mid",
+    "leadInstrument": "trumpet",
+    "noteCount": 249,
+    "headNoteCount": 65,
+    "quality": "automatic-transcription",
+    "timing": "Dataset performance time, seconds from start of preferred mixture; no time warping applied",
+    "headRanges": [
+      {
+        "start": 5.122292,
+        "end": 13.218792,
+        "section": "head-in/A"
+      },
+      {
+        "start": 13.218792,
+        "end": 21.128292,
+        "section": "head-in/B"
+      },
+      {
+        "start": 21.128292,
+        "end": 29.165125,
+        "section": "head-in/A"
+      },
+      {
+        "start": 29.165125,
+        "end": 37.147125,
+        "section": "head-in/B"
+      }
+    ],
+    "sourceUrl": "https://zenodo.org/records/22943963",
+    "licenseFile": "data/jazzsamba/LICENSE.txt",
+    "sourceCredit": "Phillip Long and JazzSAMBA contributors (2026)",
+    "referenceYoutubeId": "USpYJB6rdRs",
+    "referenceYoutubeIsMatchingMedia": false,
+    "timeSignature": "4/4",
+    "bpm": 210.0,
+    "musicians": [
+      {
+        "musician_id": 0,
+        "name": "Jace Hosto",
+        "instrument": "drums"
+      },
+      {
+        "musician_id": 2,
+        "name": "Jacob Nguyen",
+        "instrument": "piano"
+      },
+      {
+        "musician_id": 3,
+        "name": "Phillip Long",
+        "instrument": "trumpet"
+      },
+      {
+        "musician_id": 7,
+        "name": "Sebastian Stade",
+        "instrument": "bass"
+      }
+    ],
+    "performanceFile": "scripts/jazzsamba-inputs/jazzsamba-75.json"
+  }
+]

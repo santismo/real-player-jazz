@@ -1,0 +1,72 @@
+[
+  {
+    "index": 0,
+    "name": "",
+    "programs": [],
+    "noteCount": 0
+  },
+  {
+    "index": 1,
+    "name": "Melody",
+    "programs": [
+      73
+    ],
+    "noteCount": 23
+  },
+  {
+    "index": 2,
+    "name": "Vocals 1",
+    "programs": [
+      52
+    ],
+    "noteCount": 22
+  },
+  {
+    "index": 3,
+    "name": "Drums",
+    "programs": [
+      40
+    ],
+    "noteCount": 78
+  },
+  {
+    "index": 4,
+    "name": "Bass",
+    "programs": [
+      32
+    ],
+    "noteCount": 35
+  },
+  {
+    "index": 5,
+    "name": "Keyboard 1",
+    "programs": [
+      5
+    ],
+    "noteCount": 77
+  },
+  {
+    "index": 6,
+    "name": "Keyboard 2",
+    "programs": [
+      16
+    ],
+    "noteCount": 11
+  },
+  {
+    "index": 7,
+    "name": "Guitar 1",
+    "programs": [
+      27
+    ],
+    "noteCount": 46
+  },
+  {
+    "index": 8,
+    "name": "Guitar 3",
+    "programs": [
+      25
+    ],
+    "noteCount": 16
+  }
+]

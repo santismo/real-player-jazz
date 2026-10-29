@@ -1,0 +1,18 @@
+{
+  "songId": "howmyheartsings",
+  "title": "How My Heart Sings",
+  "sourceUrl": "https://github.com/florento/PSjazzEval/blob/b6a559e8bd2719c3279ed0e81554b5cdbab0da03/RealBook/20250327-1237_PSE_165_AtbME_Gridx_AdplexToE/How%20my%20heart%20sings/How%20my%20heart%20sings.musicxml",
+  "provider": "PSjazzEval / Florent (RealBook pitch-spelling evaluation corpus)",
+  "noteCount": 152,
+  "chordCount": 64,
+  "timing": "Score study at 120 BPM; not recording-aligned",
+  "repeatExpansion": true,
+  "credit": "(('composer', 'Music21'), ('copyright', 'cc-by 4.0'), ('fileFormat', 'musicxml'), ('filePath', '/workspace/scratch/8a36bbb966a6/head-expansion/ps-jazz/How my heart sings.musicxml'), ('movementName', 'How my heart sings.musicxml'), ('software', 'MuseScore 4.4.4'), ('software', 'music21 v.10.5.2'), ('software', 'music21 v.9.5.0'), ('title', 'How my heart sings'))",
+  "timeSignatures": [
+    "3/4",
+    "4/4",
+    "4/4",
+    "3/4"
+  ],
+  "conversionNote": "Source is pitch-spelling evaluation output; source pitches preserved, ties joined. XML metadata cc-by 4.0; repository MIT license. Freedom Jazz Dance contains one two-note simultaneity retained."
+}

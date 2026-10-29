@@ -1,0 +1,11 @@
+const fs=require('fs'),c=require('../data/catalog.json');
+const head=s=>s.sources.some(x=>x.hasHead),book=c.songs.filter(s=>s.realBook);
+c.headCoverage={realBookWithHead:book.filter(head).length,realBookMissingHead:book.filter(s=>!head(s)).length,realBookAutomaticHeadOnly:book.filter(s=>head(s)&&!s.sources.some(x=>x.hasHead&&!x.automaticNotes)).length};
+const ready=s=>(s.recordings||[]).filter(r=>r.status==='source-aligned'&&s.sources.some(x=>x.id===r.sourceId&&x.performanceUrl));
+c.matchCoverage={tunes:c.songs.length,matchedTunes:c.songs.filter(s=>ready(s).length).length,pendingTunes:c.songs.filter(s=>!ready(s).length).length,youtubeTunes:c.songs.filter(s=>ready(s).some(r=>r.mediaType!=='audio')).length,realBookMatched:book.filter(s=>ready(s).length).length,realBookPending:book.filter(s=>!ready(s).length).length,excerptOnly:c.songs.filter(s=>ready(s).length&&ready(s).every(r=>r.excerpt)).length,automaticOnly:c.songs.filter(s=>ready(s).length&&ready(s).every(r=>r.automaticNotes)).length};
+c.songs.sort((a,b)=>a.title.localeCompare(b.title));for(const s of c.songs)s.sources.sort((a,b)=>Number(!!b.hasHead)-Number(!!a.hasHead));
+fs.writeFileSync('data/catalog.json',JSON.stringify(c));
+const csv=v=>'"'+String(v).replaceAll('"','""')+'"';
+fs.writeFileSync('data/head-coverage.csv','Title,Real Book,Head status,Head sources\n'+c.songs.map(s=>[s.title,s.realBook?'yes':'no',s.sources.some(x=>x.hasHead&&x.performanceUrl)?'Recording-aligned head':head(s)?'MIDI head; recording pending':'Head missing',s.sources.filter(x=>x.hasHead).map(x=>x.id).join(';')].map(csv).join(',')).join('\n')+'\n');
+fs.writeFileSync('data/coverage.csv','Tune,Real Book I,MIDI parts,Published matched videos,Aligned audio renditions,Automatic note renditions,Short excerpts,Independent audio verification,Status\n'+c.songs.map(s=>{const r=(s.recordings||[]).filter(r=>r.status==='source-aligned'),audio=r.filter(r=>r.mediaType==='audio').length;return[s.title,s.realBook,s.sources.length,r.length-audio,audio,r.filter(x=>x.automaticNotes).length,r.filter(x=>x.excerpt).length,'Pending',!r.length?'Recording matching pending':r.every(x=>x.excerpt)?'Short arrangement excerpt only':r.every(x=>x.automaticNotes)?'Matched recording with automatic notes':'Source-aligned recordings available'].map(csv).join(',')}).join('\n')+'\n');
+console.log(c.headCoverage,c.matchCoverage);

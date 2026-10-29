@@ -1,0 +1,10 @@
+{
+  "songId": "uppermanhattanmedicalgroup",
+  "title": "Upper Manhattan Medical Group (UMMG)",
+  "sourceUrl": "https://github.com/veltzer/book-openbook/blob/e87c232793312d9f6ce404397fb528aa38c829b6/staging/openbook/anon/UMMG.ly",
+  "provider": "OpenBook / contributors",
+  "noteCount": 86,
+  "timing": "Score-time head study; recording alignment unverified",
+  "conversionNote": "Concert Db as source CFr/CTo instructions. Includes written ending vamp.",
+  "bundledSource": "data/heads/attribution/score-head-uppermanhattanmedicalgroup.ly"
+}

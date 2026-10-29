@@ -1,0 +1,10 @@
+{
+  "songId": "littleboat",
+  "title": "Little Boat (O Barquinho)",
+  "sourceUrl": "https://github.com/veltzer/book-openbook/blob/e87c232793312d9f6ce404397fb528aa38c829b6/staging/openbook/laurent/barquino.ly",
+  "provider": "OpenBook / Laurent Martelli",
+  "noteCount": 75,
+  "timing": "Score-time head study; recording alignment unverified",
+  "conversionNote": "Little Boat sixteen-bar head, empty optional ending removed.",
+  "bundledSource": "data/heads/attribution/score-head-littleboat.ly"
+}

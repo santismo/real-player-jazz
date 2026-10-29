@@ -1,0 +1,80 @@
+[
+  {
+    "index": 0,
+    "name": "",
+    "programs": [],
+    "noteCount": 0
+  },
+  {
+    "index": 1,
+    "name": "ACOU BASS",
+    "programs": [
+      32
+    ],
+    "noteCount": 90
+  },
+  {
+    "index": 2,
+    "name": "E.PIANO 2",
+    "programs": [
+      5
+    ],
+    "noteCount": 200
+  },
+  {
+    "index": 3,
+    "name": "BRASS 1",
+    "programs": [
+      61
+    ],
+    "noteCount": 76
+  },
+  {
+    "index": 4,
+    "name": "ORGAN 3",
+    "programs": [
+      18
+    ],
+    "noteCount": 50
+  },
+  {
+    "index": 5,
+    "name": "BASS DRUM",
+    "programs": [
+      127
+    ],
+    "noteCount": 69
+  },
+  {
+    "index": 6,
+    "name": "SNARE DRUM",
+    "programs": [
+      0
+    ],
+    "noteCount": 42
+  },
+  {
+    "index": 7,
+    "name": "CLOSED H.H",
+    "programs": [
+      0
+    ],
+    "noteCount": 66
+  },
+  {
+    "index": 8,
+    "name": "OPEN HIHAT",
+    "programs": [
+      0
+    ],
+    "noteCount": 65
+  },
+  {
+    "index": 9,
+    "name": "CRASH CYMB",
+    "programs": [
+      0
+    ],
+    "noteCount": 1
+  }
+]

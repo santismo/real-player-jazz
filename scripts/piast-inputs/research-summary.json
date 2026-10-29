@@ -1,0 +1,18 @@
+{
+  "checkedFullVideoIds": 2737,
+  "validPublicTitles": 2691,
+  "lookupErrors": {
+    "HTTP Error 403: Forbidden": 19,
+    "HTTP Error 404: Not Found": 21,
+    "HTTP Error 401: Unauthorized": 6
+  },
+  "jazzFullIdSearchExhausted": 1807,
+  "otherCheckedIds": 930,
+  "additionalCompilationIds": 5,
+  "readyParts": 83,
+  "readyExistingCatalogTargets": 83,
+  "readyNotes": 26172,
+  "newAfterJazzFreeze": 12,
+  "allFullVideoOffset": 0,
+  "allEmbeddableAtCheck": true
+}

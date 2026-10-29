@@ -1,0 +1,17 @@
+{
+  "songId": "iloveyou",
+  "title": "I Love You",
+  "sourceUrl": "https://github.com/veltzer/book-openbook/blob/e87c232793312d9f6ce404397fb528aa38c829b6/src/openbook/i_love_you.ly.tera",
+  "provider": "OpenBook / Mark Veltzer and contributors",
+  "noteCount": 70,
+  "tempos": [
+    160
+  ],
+  "timeSignatures": [
+    "4/4"
+  ],
+  "timing": "Score-timed head study; not recording-aligned",
+  "repeatExpansion": true,
+  "chordCount": 0,
+  "conversionNote": " Melody MIDI only; use catalog score chords separately."
+}

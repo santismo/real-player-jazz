@@ -1,0 +1,56 @@
+[
+  {
+    "index": 0,
+    "name": "",
+    "programs": [],
+    "noteCount": 0
+  },
+  {
+    "index": 1,
+    "name": "Melody",
+    "programs": [
+      26
+    ],
+    "noteCount": 40
+  },
+  {
+    "index": 2,
+    "name": "Drum",
+    "programs": [
+      40
+    ],
+    "noteCount": 110
+  },
+  {
+    "index": 3,
+    "name": "Bass",
+    "programs": [
+      32
+    ],
+    "noteCount": 16
+  },
+  {
+    "index": 4,
+    "name": "Keyboard 1",
+    "programs": [
+      0
+    ],
+    "noteCount": 54
+  },
+  {
+    "index": 5,
+    "name": "Keyboard 2",
+    "programs": [
+      18
+    ],
+    "noteCount": 44
+  },
+  {
+    "index": 6,
+    "name": "Brass 1",
+    "programs": [
+      61
+    ],
+    "noteCount": 38
+  }
+]

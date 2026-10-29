@@ -1,0 +1,713 @@
+[
+  {
+    "split": "train",
+    "midi_filename": "midi/9wp4c.mid",
+    "audio_filename": "audio/9wp4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "9wp4c",
+    "artist": "Earl Klugh",
+    "name": "Michelle.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/scC4c.mid",
+    "audio_filename": "audio/scC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "scC4c",
+    "artist": "George Benson",
+    "name": "Tenderly.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/2DC4c.mid",
+    "audio_filename": "audio/2DC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "2DC4c",
+    "artist": "Johnny Smith",
+    "name": "Autumn Nocturne.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/DMC4c.mid",
+    "audio_filename": "audio/DMC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "DMC4c",
+    "artist": "Kenny Burrell",
+    "name": "But Not For Me.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/lyC4c.mid",
+    "audio_filename": "audio/lyC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "lyC4c",
+    "artist": "Paulinho Nogueira",
+    "name": "Traverssia.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/hTs4c.mid",
+    "audio_filename": "audio/hTs4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "hTs4c",
+    "artist": "Pat Metheny",
+    "name": "Medley.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/3fC4c.mid",
+    "audio_filename": "audio/3fC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "3fC4c",
+    "artist": "Joe Pass",
+    "name": "Bluesette.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/Fp24c.mid",
+    "audio_filename": "audio/Fp24c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "Fp24c",
+    "artist": "Earl Klugh",
+    "name": "Ding Dong The Witch Is Dead.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/SM54c.mid",
+    "audio_filename": "audio/SM54c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "SM54c",
+    "artist": "Harry Leahey",
+    "name": "Embraceable You.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/3p24c.mid",
+    "audio_filename": "audio/3p24c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "3p24c",
+    "artist": "Earl Klugh",
+    "name": "April Fools.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/WWh4c.mid",
+    "audio_filename": "audio/WWh4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "WWh4c",
+    "artist": "Chet Atkins",
+    "name": "Bye Bye Blackbird.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/VyC4c.mid",
+    "audio_filename": "audio/VyC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "VyC4c",
+    "artist": "Paulinho Nogueira",
+    "name": "Joa\u0303o e Maria.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/SXw4c.mid",
+    "audio_filename": "audio/SXw4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "SXw4c",
+    "artist": "Joe Pass",
+    "name": "Stardust.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/3yC4c.mid",
+    "audio_filename": "audio/3yC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "3yC4c",
+    "artist": "Ralph Towner",
+    "name": "Here There and Everywhere.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/cKR4c.mid",
+    "audio_filename": "audio/cKR4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "cKR4c",
+    "artist": "Charlie Byrd",
+    "name": "God Rest Ye Merry Gentlemen.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/GMC4c.mid",
+    "audio_filename": "audio/GMC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "GMC4c",
+    "artist": "Laurindo Almeida",
+    "name": "Nocturne.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/yfC4c.mid",
+    "audio_filename": "audio/yfC4c.mp3",
+    "guitar_type": "acoustic",
+    "slice_id": "yfC4c",
+    "artist": "Joe Pass",
+    "name": "All The Things You Are.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/f964c.mid",
+    "audio_filename": "audio/f964c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "f964c",
+    "artist": "Cal Collins",
+    "name": "The Nearness Of You.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/TcC4c.mid",
+    "audio_filename": "audio/TcC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "TcC4c",
+    "artist": "George Benson",
+    "name": "My One and Only Love.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/8km4c.mid",
+    "audio_filename": "audio/8km4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "8km4c",
+    "artist": "Jimmy Raney",
+    "name": "The End Of A Love Affair.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/sxh4c.mid",
+    "audio_filename": "audio/sxh4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "sxh4c",
+    "artist": "Joe Pass",
+    "name": "Autumn Leaves.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/tp24c.mid",
+    "audio_filename": "audio/tp24c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "tp24c",
+    "artist": "Earl Klugh",
+    "name": "Emily.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/Yp24c.mid",
+    "audio_filename": "audio/Yp24c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "Yp24c",
+    "artist": "Earl Klugh",
+    "name": "Alice In Wonderland.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/KNC4c.mid",
+    "audio_filename": "audio/KNC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "KNC4c",
+    "artist": "Earl Klugh",
+    "name": "Winter Wonderland.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/qwC4c.mid",
+    "audio_filename": "audio/qwC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "qwC4c",
+    "artist": "Ted Greene",
+    "name": "Someday my Prince Will Come (Baroque variation).mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/9NC4c.mid",
+    "audio_filename": "audio/9NC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "9NC4c",
+    "artist": "Earl Klugh",
+    "name": "Someday My Prince Will Come.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/C4C4c.mid",
+    "audio_filename": "audio/C4C4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "C4C4c",
+    "artist": "Lenny Breau",
+    "name": "It Could Happen to You.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/4NC4c.mid",
+    "audio_filename": "audio/4NC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "4NC4c",
+    "artist": "Earl Klugh",
+    "name": "Smoke Gets In Your Eyes.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/KZh4c.mid",
+    "audio_filename": "audio/KZh4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "KZh4c",
+    "artist": "Earl Klugh",
+    "name": "Moon River.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/NyC4c.mid",
+    "audio_filename": "audio/NyC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "NyC4c",
+    "artist": "Paulinho Nogueira",
+    "name": "Carolina.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/CyC4c.mid",
+    "audio_filename": "audio/CyC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "CyC4c",
+    "artist": "Ralph Towner",
+    "name": "Fall In Love Too Easily.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/64C4c.mid",
+    "audio_filename": "audio/64C4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "64C4c",
+    "artist": "Pasquale Grasso",
+    "name": "Have You Met Miss Jones.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/JGDyc.mid",
+    "audio_filename": "audio/JGDyc.mp3",
+    "guitar_type": "electric",
+    "slice_id": "JGDyc",
+    "artist": "Pasquale Grasso",
+    "name": "Over The Rainbow.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/zzfyc.mid",
+    "audio_filename": "audio/zzfyc.mp3",
+    "guitar_type": "electric",
+    "slice_id": "zzfyc",
+    "artist": "Wes Montgomery",
+    "name": "While We're Young.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/5X94c.mid",
+    "audio_filename": "audio/5X94c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "5X94c",
+    "artist": "Luiz Bonfa",
+    "name": "Tenderly.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/hp24c.mid",
+    "audio_filename": "audio/hp24c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "hp24c",
+    "artist": "Earl Klugh",
+    "name": "Lullaby of Birdland.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/YNC4c.mid",
+    "audio_filename": "audio/YNC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "YNC4c",
+    "artist": "Earl Klugh",
+    "name": "The Night Has A Thousand Eyes.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/rDC4c.mid",
+    "audio_filename": "audio/rDC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "rDC4c",
+    "artist": "Jonathan Kreisberg",
+    "name": "I Thought About You.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/74C4c.mid",
+    "audio_filename": "audio/74C4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "74C4c",
+    "artist": "Lenny Breau",
+    "name": "Warm up and Improvisation on Autumn Leaves.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/3H74c.mid",
+    "audio_filename": "audio/3H74c.mp3",
+    "guitar_type": "acoustic",
+    "slice_id": "3H74c",
+    "artist": "Stochelo Rosenberg",
+    "name": "Improvisation from Neune Campsite Holland.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/2Y4yc.mid",
+    "audio_filename": "audio/2Y4yc.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "2Y4yc",
+    "artist": "Earl Klugh",
+    "name": "Our Love Is Here To Stay.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/8DC4c.mid",
+    "audio_filename": "audio/8DC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "8DC4c",
+    "artist": "Johnny Smith",
+    "name": "The Maid With Flaxen Hair.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/WcC4c.mid",
+    "audio_filename": "audio/WcC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "WcC4c",
+    "artist": "George Van Eps",
+    "name": "Scott's Lullabye.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/mwC4c.mid",
+    "audio_filename": "audio/mwC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "mwC4c",
+    "artist": "Tuck Andress",
+    "name": "Winter Wonderland.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/6DC4c.mid",
+    "audio_filename": "audio/6DC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "6DC4c",
+    "artist": "Jonathan Kreisberg",
+    "name": "Have You Met Mrs' Jones.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/bcs4c.mid",
+    "audio_filename": "audio/bcs4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "bcs4c",
+    "artist": "Al Viola",
+    "name": "Cheek to Cheek.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/JkC4c.mid",
+    "audio_filename": "audio/JkC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "JkC4c",
+    "artist": "Lenny Breau",
+    "name": "Autumn Leaves.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/n4C4c.mid",
+    "audio_filename": "audio/n4C4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "n4C4c",
+    "artist": "Luiz Bonfa",
+    "name": "Night and Day.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/hwC4c.mid",
+    "audio_filename": "audio/hwC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "hwC4c",
+    "artist": "Tuck Andress",
+    "name": "Silent Night.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/gfC4c.mid",
+    "audio_filename": "audio/gfC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "gfC4c",
+    "artist": "Joe Pass",
+    "name": "Someone To Watch Over Me.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/MtY4c.mid",
+    "audio_filename": "audio/MtY4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "MtY4c",
+    "artist": "Charlie Byrd",
+    "name": "It Came Upon the Midnight Clear.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/LNC4c.mid",
+    "audio_filename": "audio/LNC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "LNC4c",
+    "artist": "Earl Klugh",
+    "name": "You Make Me Feel So Young.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/g4C4c.mid",
+    "audio_filename": "audio/g4C4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "g4C4c",
+    "artist": "Oscar Peterson",
+    "name": "Little Girl Blue.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/f4W4c.mid",
+    "audio_filename": "audio/f4W4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "f4W4c",
+    "artist": "Lenny Breau",
+    "name": "Emily.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/9kC4c.mid",
+    "audio_filename": "audio/9kC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "9kC4c",
+    "artist": "Lenny Breau",
+    "name": "But Beautiful.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/6p24c.mid",
+    "audio_filename": "audio/6p24c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "6p24c",
+    "artist": "Earl Klugh",
+    "name": "If I Fell.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/QDC4c.mid",
+    "audio_filename": "audio/QDC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "QDC4c",
+    "artist": "Jonathan Kreisberg",
+    "name": "Canto De Ossanha.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/xbR4c.mid",
+    "audio_filename": "audio/xbR4c.mp3",
+    "guitar_type": "electric-band",
+    "slice_id": "xbR4c",
+    "artist": "Chet Atkins",
+    "name": "Struttin.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/ByC4c.mid",
+    "audio_filename": "audio/ByC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "ByC4c",
+    "artist": "Russel Malone",
+    "name": "Softly and Tenderly.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/cMC4c.mid",
+    "audio_filename": "audio/cMC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "cMC4c",
+    "artist": "Julian Lage",
+    "name": "Autumn Leaves.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/dfC4c.mid",
+    "audio_filename": "audio/dfC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "dfC4c",
+    "artist": "Joe Pass",
+    "name": "Li'l Darlin 'live'.mp3"
+  },
+  {
+    "split": "train",
+    "midi_filename": "midi/GVC4c.mid",
+    "audio_filename": "audio/GVC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "GVC4c",
+    "artist": "Jimmy Ponder",
+    "name": "A Tribute To Rose.mp3"
+  },
+  {
+    "split": "validate",
+    "midi_filename": "midi/cDC4c.mid",
+    "audio_filename": "audio/cDC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "cDC4c",
+    "artist": "Joe Pass",
+    "name": "They Can't Take That Away From Me.mp3"
+  },
+  {
+    "split": "validate",
+    "midi_filename": "midi/LDC4c.mid",
+    "audio_filename": "audio/LDC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "LDC4c",
+    "artist": "Johnny Smith",
+    "name": "The Boy Next Door.mp3"
+  },
+  {
+    "split": "validate",
+    "midi_filename": "midi/8MC4c.mid",
+    "audio_filename": "audio/8MC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "8MC4c",
+    "artist": "Kenny Burrell",
+    "name": "People.mp3"
+  },
+  {
+    "split": "validate",
+    "midi_filename": "midi/qNC4c.mid",
+    "audio_filename": "audio/qNC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "qNC4c",
+    "artist": "Earl Klugh",
+    "name": "The Summer Know.mp3"
+  },
+  {
+    "split": "validate",
+    "midi_filename": "midi/wNC4c.mid",
+    "audio_filename": "audio/wNC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "wNC4c",
+    "artist": "Earl Klugh",
+    "name": "Tenderly.mp3"
+  },
+  {
+    "split": "validate",
+    "midi_filename": "midi/PQh4c.mid",
+    "audio_filename": "audio/PQh4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "PQh4c",
+    "artist": "Luiz Bonfa\u0301",
+    "name": "Quebra Mar (The Seawall).mp3"
+  },
+  {
+    "split": "validate",
+    "midi_filename": "midi/5xh4c.mid",
+    "audio_filename": "audio/5xh4c.mp3",
+    "guitar_type": "acoustic",
+    "slice_id": "5xh4c",
+    "artist": "Joe Pass",
+    "name": "Night and Day.mp3"
+  },
+  {
+    "split": "validate",
+    "midi_filename": "midi/LwC4c.mid",
+    "audio_filename": "audio/LwC4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "LwC4c",
+    "artist": "Toninho Horta",
+    "name": "Moon River.mp3"
+  },
+  {
+    "split": "test",
+    "midi_filename": "midi/p4C4c.mid",
+    "audio_filename": "audio/p4C4c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "p4C4c",
+    "artist": "Paulinho Nogueira",
+    "name": "Bachianinha no1.mp3"
+  },
+  {
+    "split": "test",
+    "midi_filename": "midi/MDC4c.mid",
+    "audio_filename": "audio/MDC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "MDC4c",
+    "artist": "Joe Pass",
+    "name": "White Christmas.mp3"
+  },
+  {
+    "split": "test",
+    "midi_filename": "midi/5C74c.mid",
+    "audio_filename": "audio/5C74c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "5C74c",
+    "artist": "Martin Taylor",
+    "name": "Danny Boy.mp3"
+  },
+  {
+    "split": "test",
+    "midi_filename": "midi/2p24c.mid",
+    "audio_filename": "audio/2p24c.mp3",
+    "guitar_type": "nylon",
+    "slice_id": "2p24c",
+    "artist": "Earl Klugh",
+    "name": "Angelina.mp3"
+  },
+  {
+    "split": "test",
+    "midi_filename": "midi/-Qh4c.mid",
+    "audio_filename": "audio/-Qh4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "-Qh4c",
+    "artist": "Martin Taylor",
+    "name": "I Remember Clifford.mp3"
+  },
+  {
+    "split": "test",
+    "midi_filename": "midi/gwC4c.mid",
+    "audio_filename": "audio/gwC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "gwC4c",
+    "artist": "Tony Mottola",
+    "name": "Yesterday Yesterdays.mp3"
+  },
+  {
+    "split": "test",
+    "midi_filename": "midi/rwC4c.mid",
+    "audio_filename": "audio/rwC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "rwC4c",
+    "artist": "Tuck Andress",
+    "name": "Coventry  Carol, What child is this.mp3"
+  },
+  {
+    "split": "test",
+    "midi_filename": "midi/QyC4c.mid",
+    "audio_filename": "audio/QyC4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "QyC4c",
+    "artist": "Stephen D. Anderson",
+    "name": "Disney Medley.mp3"
+  },
+  {
+    "split": "test",
+    "midi_filename": "midi/R5d4c.mid",
+    "audio_filename": "audio/R5d4c.mp3",
+    "guitar_type": "electric",
+    "slice_id": "R5d4c",
+    "artist": "Peter Leitch",
+    "name": "Quasimodo.mp3"
+  }
+]

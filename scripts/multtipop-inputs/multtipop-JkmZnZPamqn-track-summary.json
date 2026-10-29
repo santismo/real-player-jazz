@@ -1,0 +1,72 @@
+[
+  {
+    "index": 0,
+    "name": "",
+    "programs": [],
+    "noteCount": 0
+  },
+  {
+    "index": 1,
+    "name": "Piano",
+    "programs": [
+      3
+    ],
+    "noteCount": 60
+  },
+  {
+    "index": 2,
+    "name": "Melody",
+    "programs": [
+      94
+    ],
+    "noteCount": 66
+  },
+  {
+    "index": 3,
+    "name": "Sax",
+    "programs": [
+      65
+    ],
+    "noteCount": 66
+  },
+  {
+    "index": 4,
+    "name": "Guitar",
+    "programs": [
+      24
+    ],
+    "noteCount": 177
+  },
+  {
+    "index": 5,
+    "name": "Fret Noise",
+    "programs": [
+      120
+    ],
+    "noteCount": 4
+  },
+  {
+    "index": 6,
+    "name": "Bass",
+    "programs": [
+      32
+    ],
+    "noteCount": 35
+  },
+  {
+    "index": 7,
+    "name": "Drums",
+    "programs": [
+      0
+    ],
+    "noteCount": 50
+  },
+  {
+    "index": 8,
+    "name": "Pad 2",
+    "programs": [
+      89
+    ],
+    "noteCount": 33
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "songId": "freedomjazzdance",
+  "title": "Freedom Jazz Dance",
+  "sourceUrl": "https://github.com/florento/PSjazzEval/blob/b6a559e8bd2719c3279ed0e81554b5cdbab0da03/RealBook/20250327-1237_PSE_165_AtbME_Gridx_AdplexToE/Freedom%20jazz%20dance/Freedom%20jazz%20dance.musicxml",
+  "provider": "PSjazzEval / Florent (RealBook pitch-spelling evaluation corpus)",
+  "noteCount": 164,
+  "chordCount": 12,
+  "timing": "Score study at 120 BPM; not recording-aligned",
+  "repeatExpansion": true,
+  "credit": "(('composer', 'Music21'), ('copyright', 'cc-by 4.0'), ('fileFormat', 'musicxml'), ('filePath', '/workspace/scratch/8a36bbb966a6/head-expansion/ps-jazz/Freedom jazz dance.musicxml'), ('movementName', 'Freedom jazz dance.musicxml'), ('software', 'MuseScore 4.2.1'), ('software', 'music21 v.10.5.2'), ('software', 'music21 v.9.5.0'), ('title', 'Freedom jazz dance'))",
+  "timeSignatures": [
+    "4/4"
+  ],
+  "conversionNote": "Source is pitch-spelling evaluation output; source pitches preserved, ties joined. XML metadata cc-by 4.0; repository MIT license. Freedom Jazz Dance contains one two-note simultaneity retained."
+}

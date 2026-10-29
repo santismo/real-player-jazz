@@ -1,0 +1,17 @@
+{
+  "songId": "canthelplovindatman",
+  "title": "Can't Help Lovin' Dat Man",
+  "sourceUrl": "https://github.com/veltzer/book-openbook/blob/e87c232793312d9f6ce404397fb528aa38c829b6/src/openbook/cant_help_lovin_dat_man.ly.tera",
+  "provider": "OpenBook / Mark Veltzer and contributors",
+  "noteCount": 101,
+  "tempos": [
+    88
+  ],
+  "timeSignatures": [
+    "4/4"
+  ],
+  "timing": "Score-timed head study; not recording-aligned",
+  "repeatExpansion": true,
+  "chordCount": 0,
+  "conversionNote": " Melody MIDI only; use catalog score chords separately."
+}

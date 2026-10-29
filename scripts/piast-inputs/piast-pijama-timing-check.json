@@ -1,0 +1,9 @@
+{
+  "videoId": "BMhCkB78ZBs",
+  "piastNotes": 2361,
+  "pijamaNotes": 1056,
+  "nearestSamePitchWithinHalfSecond": 1216,
+  "medianDeltaPijamaMinusPiast": 0.09489999999934184,
+  "medianAbsoluteDeviation": 0.009731250000406533,
+  "warning": "Single shared-video consistency check; do not transfer this delta to other tracks without source evidence."
+}

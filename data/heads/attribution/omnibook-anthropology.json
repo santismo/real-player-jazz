@@ -1,0 +1,28 @@
+{
+  "id": "omnibook-anthropology",
+  "title": "Anthropology",
+  "sourceUrl": "https://homepages.loria.fr/evincent/omnibook/",
+  "provider": "INRIA/STMS Omnibook MusicXML (Deguernel, Vincent, Assayag)",
+  "timing": "Full score transcription; recording alignment unverified",
+  "noteCount": 763,
+  "chordCount": 181,
+  "timeSignatures": [
+    {
+      "beat": 0,
+      "numerator": 4,
+      "denominator": 4
+    }
+  ],
+  "sourceCredit": "(('fileFormat', 'musicxml'), ('filePath', '/workspace/scratch/8a36bbb966a6/head-expansion-2/omnibook/Omnibook xml/Anthropology.xml'), ('movementName', 'Anthropology.xml'), ('software', 'MuseScore 2.0.1'), ('software', 'music21 v.10.5.2'), ('title', 'Anthropology'))",
+  "measures": 131,
+  "pitchRange": [
+    50,
+    79
+  ],
+  "durationBeats": 524,
+  "songId": "anthropology",
+  "performer": "Charlie Parker",
+  "hasHead": true,
+  "label": "Head + full score · Charlie Parker · MIDI study",
+  "bundledSource": "data/heads/attribution/omnibook-anthropology.xml"
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "index": 0,
+    "name": "",
+    "programs": [],
+    "noteCount": 0
+  },
+  {
+    "index": 1,
+    "name": "FRETLESS",
+    "programs": [
+      35
+    ],
+    "noteCount": 32
+  },
+  {
+    "index": 2,
+    "name": "STEEL GTR",
+    "programs": [
+      25
+    ],
+    "noteCount": 561
+  },
+  {
+    "index": 3,
+    "name": "MELODY",
+    "programs": [
+      56
+    ],
+    "noteCount": 51
+  },
+  {
+    "index": 4,
+    "name": "STRINGS",
+    "programs": [
+      48
+    ],
+    "noteCount": 18
+  },
+  {
+    "index": 5,
+    "name": "DRUMS",
+    "programs": [
+      0
+    ],
+    "noteCount": 185
+  }
+]

@@ -1,0 +1,4 @@
+MulTTiPop: MulTTiPop by Nathan Pruyne, Benjamin Stoler, William Chen, Chien-yu Huang, Shinji Watanabe and Chris Donahue (2026). Aligned MIDI adapted from the Lakh MIDI Dataset by Colin Raffel.
+License: Creative Commons Attribution 4.0 (https://creativecommons.org/licenses/by/4.0/).
+https://gclef-cmu.org/multtipop/
+Short aligned Lakh arrangements; not complete or exact performer transcriptions.

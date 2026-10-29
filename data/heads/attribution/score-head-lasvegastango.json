@@ -1,0 +1,10 @@
+{
+  "songId": "lasvegastango",
+  "title": "Las Vegas Tango",
+  "sourceUrl": "https://github.com/veltzer/book-openbook/blob/e87c232793312d9f6ce404397fb528aa38c829b6/staging/openbook/laurent/las_vegas_tango.ly",
+  "provider": "OpenBook staging / Laurent Martelli",
+  "noteCount": 90,
+  "chordCount": 0,
+  "timing": "Score-timed head study; not recording-aligned",
+  "conversionNote": "Legacy LilyPond notation modernized preserving pitches and rhythmic values; printed coda labels retained as written sequence. Melody-only MIDI."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "omnibook-segment",
+  "title": "Segment",
+  "sourceUrl": "https://homepages.loria.fr/evincent/omnibook/",
+  "provider": "INRIA/STMS Omnibook MusicXML (Deguernel, Vincent, Assayag)",
+  "timing": "Full score transcription; recording alignment unverified",
+  "noteCount": 556,
+  "chordCount": 116,
+  "timeSignatures": [
+    {
+      "beat": 0,
+      "numerator": 4,
+      "denominator": 4
+    }
+  ],
+  "sourceCredit": "(('fileFormat', 'musicxml'), ('filePath', '/workspace/scratch/8a36bbb966a6/head-expansion-2/omnibook/Omnibook xml/Segment.xml'), ('movementName', 'Segment.xml'), ('software', 'MuseScore 2.0.1'), ('software', 'music21 v.10.5.2'), ('title', 'Segment'))",
+  "measures": 97,
+  "pitchRange": [
+    53,
+    80
+  ],
+  "durationBeats": 388,
+  "songId": "segment",
+  "performer": "Charlie Parker",
+  "hasHead": true,
+  "label": "Head + full score · Charlie Parker · MIDI study",
+  "bundledSource": "data/heads/attribution/omnibook-segment.xml"
+}

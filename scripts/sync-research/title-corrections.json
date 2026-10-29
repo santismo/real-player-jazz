@@ -1,0 +1,25 @@
+[
+  {
+    "fromSongId": "peace",
+    "fromTitle": "Peace",
+    "fromComposer": "Horace Silver",
+    "sourceIds": [
+      "wjazzd-339"
+    ],
+    "recordingIds": [
+      "wkPXGCtIkz4",
+      "x8SY_l5TTTk"
+    ],
+    "suggestedTargetSongId": "peace-ornette-coleman",
+    "suggestedTargetTitle": "Peace \u2014 Ornette Coleman",
+    "targetComposer": "Ornette Coleman",
+    "realBook": false,
+    "reason": "Horace Silver and Ornette Coleman wrote different compositions named Peace. Canonical catalog chart and head are Horace Silver; wjazzd-339 is explicitly Ornette Coleman performance. Move this source and its two record mappings together; do not move existing MIDI heads/chart.",
+    "sourceUrl": "http://mir.audiolabs.uni-erlangen.de/jazztube/solos/solo/339",
+    "evidenceUrls": [
+      "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/ShapeOfJazzToCome.pdf?loclr=blogloc",
+      "https://www.bluenote.com/spotlight/horace-silver-blowin-the-blues-away/",
+      "https://www.qobuz.com/us-en/album/the-shape-of-jazz-to-come-ornette-coleman/0603497897100"
+    ]
+  }
+]

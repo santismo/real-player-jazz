@@ -1,0 +1,17 @@
+{
+  "songId": "waltzfordebby",
+  "title": "Waltz For Debby",
+  "sourceUrl": "https://github.com/veltzer/book-openbook/blob/e87c232793312d9f6ce404397fb528aa38c829b6/src/openbook/waltz_for_debby.ly.tera",
+  "provider": "OpenBook / Mark Veltzer and contributors",
+  "noteCount": 90,
+  "tempos": [
+    200
+  ],
+  "timeSignatures": [
+    "3/4"
+  ],
+  "timing": "Score-timed head study; not recording-aligned",
+  "repeatExpansion": true,
+  "conversionNote": "Performed first 64-bar AAAB head using source visible volta 1/3 and 2 endings; omitted post-head D.C. and coda. Melody MIDI only; use catalog score chords separately.",
+  "chordCount": 0
+}

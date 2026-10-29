@@ -1,0 +1,72 @@
+[
+  {
+    "index": 0,
+    "name": "",
+    "programs": [],
+    "noteCount": 0
+  },
+  {
+    "index": 1,
+    "name": "A.PIANO 1",
+    "programs": [
+      0
+    ],
+    "noteCount": 108
+  },
+  {
+    "index": 2,
+    "name": "ACOU BASS",
+    "programs": [
+      32
+    ],
+    "noteCount": 33
+  },
+  {
+    "index": 3,
+    "name": "NYLON GTR",
+    "programs": [
+      24
+    ],
+    "noteCount": 49
+  },
+  {
+    "index": 4,
+    "name": "MELODY",
+    "programs": [
+      82
+    ],
+    "noteCount": 35
+  },
+  {
+    "index": 5,
+    "name": "PAN FLUTE",
+    "programs": [
+      75
+    ],
+    "noteCount": 92
+  },
+  {
+    "index": 6,
+    "name": "VOICE OOHS",
+    "programs": [
+      53
+    ],
+    "noteCount": 39
+  },
+  {
+    "index": 7,
+    "name": "CLEAN GTR",
+    "programs": [
+      27
+    ],
+    "noteCount": 71
+  },
+  {
+    "index": 8,
+    "name": "DRUMS",
+    "programs": [
+      0
+    ],
+    "noteCount": 143
+  }
+]

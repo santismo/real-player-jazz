@@ -1,0 +1,64 @@
+[
+  {
+    "index": 0,
+    "name": "",
+    "programs": [],
+    "noteCount": 0
+  },
+  {
+    "index": 1,
+    "name": "FRETLESS",
+    "programs": [
+      35
+    ],
+    "noteCount": 37
+  },
+  {
+    "index": 2,
+    "name": "STEEL GTR",
+    "programs": [
+      25
+    ],
+    "noteCount": 236
+  },
+  {
+    "index": 3,
+    "name": "MELODY",
+    "programs": [
+      56
+    ],
+    "noteCount": 16
+  },
+  {
+    "index": 4,
+    "name": "STRINGS",
+    "programs": [
+      48
+    ],
+    "noteCount": 20
+  },
+  {
+    "index": 5,
+    "name": "OVERDRIVE",
+    "programs": [
+      29
+    ],
+    "noteCount": 12
+  },
+  {
+    "index": 6,
+    "name": "SPACEVOICE",
+    "programs": [
+      91
+    ],
+    "noteCount": 24
+  },
+  {
+    "index": 7,
+    "name": "DRUMS",
+    "programs": [
+      0
+    ],
+    "noteCount": 100
+  }
+]

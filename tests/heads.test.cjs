@@ -1,0 +1,11 @@
+const test=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs'),C=require('../core.js'),M=require('../vendor/midi.js'),catalog=require('../data/catalog.json');
+test('Matched heads load first; otherwise available timed performances precede unmatched studies',()=>{
+ for(const song of catalog.songs){const chosen=C.preferredSource(song);if(song.sources.some(s=>s.hasHead&&(song.recordings||[]).some(r=>r.sourceId===s.id&&r.status==='source-aligned')))assert.ok(chosen.hasHead,song.title);if((song.recordings||[]).some(r=>r.status==='source-aligned'))assert.ok(song.recordings.some(r=>r.sourceId===chosen.id&&r.status==='source-aligned'),song.title);const head=C.preferredSource({...song,sources:song.sources.filter(s=>s.hasHead)});if(song.sources.some(s=>s.hasHead))assert.ok(head.hasHead,song.title);}
+ const confirmation=catalog.songs.find(s=>s.id==='confirmation');assert.equal(C.preferredSource(confirmation).id,'parker-yp3wc');assert.equal(C.preferredSource(confirmation,'wjazzd-300').id,'wjazzd-300');
+ const p=JSON.parse(fs.readFileSync(C.preferredSource(confirmation).performanceUrl));assert.deepEqual(p.notes.slice(0,12).map(n=>n.midi),[69,72,69,70,69,64,65,66,67,74,70,67]);assert.ok(p.notes[0].time>5&&p.notes[0].time<6);
+});
+test('head catalog distinguishes aligned recordings, MIDI melody studies, and gaps',()=>{
+ let withHead=0,missing=0;
+ for(const song of catalog.songs){if(song.realBook){if(song.sources.some(s=>s.hasHead))withHead++;else missing++;}for(const source of song.sources.filter(s=>s.hasHead)){if(source.kind==='arrangement'){const m=M.parseMidi(fs.readFileSync(source.url),source.id);assert.match(m.tracks.find(t=>t.index===source.headTrackIndex).name,/melody/i);}else if(source.kind==='head-study'){const m=M.parseMidi(fs.readFileSync(source.url));assert.ok(m.tracks.find(t=>t.index===source.headTrackIndex)?.notes.length>20);assert.equal(source.alignmentStatus,'recording-pending');}else{assert.ok(['head','guitar','ensemble'].includes(source.kind));assert.ok(source.performanceUrl);assert.ok(song.recordings.some(r=>r.sourceId===source.id&&r.status==='source-aligned'));}}}
+ assert.equal(withHead,catalog.headCoverage.realBookWithHead);assert.equal(missing,catalog.headCoverage.realBookMissingHead);assert.equal(withHead+missing,catalog.bookCount);
+});

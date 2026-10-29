@@ -1,0 +1,1518 @@
+[
+  {
+    "targetSongId": "nightintunisia2",
+    "targetTitle": "A Night In Tunisia  2",
+    "sourceSongId": "nightintunisia",
+    "sourceTitle": "A Night In Tunisia",
+    "realBook": false,
+    "reason": "Same full tune title; numeric variant suffix.",
+    "sourceIds": [
+      "wjazzd-87",
+      "wjazzd-354"
+    ],
+    "recordingCount": 4,
+    "youtubePairs": 4,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "aliceinwonderlandfainhilliard",
+    "targetTitle": "Alice in Wonderland, Fain, Hilliard",
+    "sourceSongId": "aliceinwonderland",
+    "sourceTitle": "Alice In Wonderland",
+    "realBook": false,
+    "reason": "Same tune title followed by composer/lyricist Fain and Hilliard.",
+    "sourceIds": [
+      "leduc-Yp24c"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "anthropologycharlieparkersolo",
+    "targetTitle": "Anthropology [Charlie Parker solo]",
+    "sourceSongId": "anthropology",
+    "sourceTitle": "Anthropology",
+    "realBook": false,
+    "reason": "Same tune title with explicit Charlie Parker solo descriptor.",
+    "sourceIds": [
+      "wjazzd-78",
+      "wjazzd-159"
+    ],
+    "recordingCount": 5,
+    "youtubePairs": 5,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "autummleaves",
+    "targetTitle": "Autumm Leaves",
+    "sourceSongId": "autumnleaves",
+    "sourceTitle": "Autumn Leaves",
+    "realBook": false,
+    "reason": "Single-letter title typo; MIDI track0 repeats Autumm Leaves in the jazz backing collection.",
+    "sourceIds": [
+      "leduc-cMC4c",
+      "leduc-JkC4c",
+      "leduc-sxh4c"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 0,
+    "audioPairs": 3,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "bluetrane",
+    "targetTitle": "BLUE TRANE",
+    "sourceSongId": "bluetrain",
+    "sourceTitle": "Blue Train (Blue Trane)",
+    "realBook": false,
+    "reason": "Alternate spelling Blue Trane is explicitly listed in canonical title Blue Train (Blue Trane).",
+    "sourceIds": [
+      "wjazzd-102",
+      "wjazzd-218",
+      "wjazzd-274"
+    ],
+    "recordingCount": 11,
+    "youtubePairs": 11,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "bluesette44jeantootsthielemans",
+    "targetTitle": "Bluesette [4-4] - Jean 'Toots' Thielemans",
+    "sourceSongId": "bluesette",
+    "sourceTitle": "Bluesette",
+    "realBook": false,
+    "reason": "Same distinctive title and explicit composer Toots Thielemans; arrangement is in4/4 but use existing timed rendition as a separate part.",
+    "sourceIds": [
+      "leduc-3fC4c"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "cheektocheeklr",
+    "targetTitle": "Cheek to Cheek  LR",
+    "sourceSongId": "cheektocheek",
+    "sourceTitle": "Cheek to Cheek",
+    "realBook": false,
+    "reason": "Same tune title with contributor initials LR.",
+    "sourceIds": [
+      "leduc-bcs4c"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "dannyboyquasar",
+    "targetTitle": "DANNYBOY [QUASAR]",
+    "sourceSongId": "dannyboy",
+    "sourceTitle": "Danny Boy",
+    "realBook": false,
+    "reason": "Same tune title with contributor tag QUASAR.",
+    "sourceIds": [
+      "leduc-5C74c"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "dannyboyreece",
+    "targetTitle": "DANNYBOY [REECE]",
+    "sourceSongId": "dannyboy",
+    "sourceTitle": "Danny Boy",
+    "realBook": false,
+    "reason": "Same tune title with contributor tag REECE.",
+    "sourceIds": [
+      "leduc-5C74c"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "dontgetaroundmuchanymorechordvar",
+    "targetTitle": "Don't Get Around Much Anymore   chord var.",
+    "sourceSongId": "dontgetaroundmuchanymore",
+    "sourceTitle": "Don't Get Around Much Anymore",
+    "realBook": false,
+    "reason": "Same full title with chord variation descriptor.",
+    "sourceIds": [
+      "wjazzd-331"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 3,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "dontgetaroundmuchanymore2",
+    "targetTitle": "Don't Get Around Much Anymore 2",
+    "sourceSongId": "dontgetaroundmuchanymore",
+    "sourceTitle": "Don't Get Around Much Anymore",
+    "realBook": false,
+    "reason": "Same full tune title; numeric variant suffix.",
+    "sourceIds": [
+      "wjazzd-331"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 3,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "hotterthanthatlouisarmstrongsolofirstchorus",
+    "targetTitle": "Hotter Than That [Louis Armstrong Solo First Chorus]",
+    "sourceSongId": "hotterthanthat",
+    "sourceTitle": "Hotter than That",
+    "realBook": false,
+    "reason": "Same full tune title with explicit Louis Armstrong solo/first chorus descriptor.",
+    "sourceIds": [
+      "wjazzd-237"
+    ],
+    "recordingCount": 2,
+    "youtubePairs": 2,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "imeanyoutheloniusmonkredb171",
+    "targetTitle": "I Mean You   ~Thelonius Monk~   RedB:171",
+    "sourceSongId": "imeanyou",
+    "sourceTitle": "I Mean You",
+    "realBook": false,
+    "reason": "Same tune title with explicit Thelonious Monk and Red Book page171 descriptors.",
+    "sourceIds": [
+      "wjazzd-302"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 3,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "irememberapril",
+    "targetTitle": "I Remember April",
+    "sourceSongId": "illrememberapril",
+    "sourceTitle": "I'll Remember April",
+    "realBook": false,
+    "reason": "Common abbreviated title; supplied melody begins B C D C B A G A G F# E A, the standard opening phrase.",
+    "sourceIds": [
+      "wjazzd-90",
+      "wjazzd-91",
+      "wjazzd-269",
+      "wjazzd-382"
+    ],
+    "recordingCount": 4,
+    "youtubePairs": 4,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "justoneofthosethingswintronicechordsarr",
+    "targetTitle": "Just One Of Those Things  w/intro nice chords/arr.",
+    "sourceSongId": "justoneofthosethings",
+    "sourceTitle": "Just One of Those Things",
+    "realBook": false,
+    "reason": "Same complete tune title with intro/arrangement descriptors.",
+    "sourceIds": [
+      "wjazzd-275",
+      "wjazzd-357"
+    ],
+    "recordingCount": 2,
+    "youtubePairs": 2,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "lildarlin",
+    "targetTitle": "L'il Darlin'",
+    "sourceSongId": "lildarlinlive",
+    "sourceTitle": "Li'l Darlin 'live'",
+    "realBook": false,
+    "reason": "Same title with apostrophe variant; canonical entry adds live-performance descriptor.",
+    "sourceIds": [
+      "leduc-dfC4c"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "longago",
+    "targetTitle": "Long Ago (And Far Away)",
+    "sourceSongId": "longagoandfaraway",
+    "sourceTitle": "Long Ago and Far Away",
+    "realBook": true,
+    "reason": "Parentheses enclose part of the same full title Long Ago (And Far Away).",
+    "sourceIds": [
+      "wjazzd-11",
+      "wjazzd-12",
+      "wjazzd-73"
+    ],
+    "recordingCount": 9,
+    "youtubePairs": 9,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "loveisheretostay",
+    "targetTitle": "Love is here To Stay",
+    "sourceSongId": "ourloveisheretostay",
+    "sourceTitle": "Our Love Is Here To Stay",
+    "realBook": false,
+    "reason": "Established short title of Our Love Is Here To Stay.",
+    "sourceIds": [
+      "leduc-2Y4yc"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "nightanddaywversenicearrchords",
+    "targetTitle": "Night And Day   w/verse  nice arr./chords",
+    "sourceSongId": "nightandday",
+    "sourceTitle": "Night and Day",
+    "realBook": false,
+    "reason": "Same full tune title with verse/arrangement descriptors.",
+    "sourceIds": [
+      "leduc-5xh4c",
+      "leduc-n4C4c",
+      "wjazzd-24",
+      "wjazzd-455",
+      "wjazzd-456"
+    ],
+    "recordingCount": 8,
+    "youtubePairs": 6,
+    "audioPairs": 2,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "nowsthetime",
+    "targetTitle": "Now's The Time",
+    "sourceSongId": "nowsthetimeno1",
+    "sourceTitle": "Now's The Time (No. 1)",
+    "realBook": false,
+    "reason": "Same tune title; canonical numbered entry is a distinct Parker performance. Keep original MIDI separately.",
+    "sourceIds": [
+      "parker-PRfYc"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "onceinawhilewverse",
+    "targetTitle": "Once In A While  w/verse",
+    "sourceSongId": "onceinawhile",
+    "sourceTitle": "Once in a While",
+    "realBook": false,
+    "reason": "Same full tune title with verse descriptor.",
+    "sourceIds": [
+      "wjazzd-240",
+      "wjazzd-297"
+    ],
+    "recordingCount": 2,
+    "youtubePairs": 2,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "onceinawhilekutay",
+    "targetTitle": "ONCE IN A WHILE [kutay]",
+    "sourceSongId": "onceinawhile",
+    "sourceTitle": "Once in a While",
+    "realBook": false,
+    "reason": "Same full tune title with contributor tag kutay.",
+    "sourceIds": [
+      "wjazzd-240",
+      "wjazzd-297"
+    ],
+    "recordingCount": 2,
+    "youtubePairs": 2,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "onceinawhilecj",
+    "targetTitle": "ONCE IN AWHILE  [CJ]",
+    "sourceSongId": "onceinawhile",
+    "sourceTitle": "Once in a While",
+    "realBook": false,
+    "reason": "Same full tune title with spacing difference and contributor initials CJ.",
+    "sourceIds": [
+      "wjazzd-240",
+      "wjazzd-297"
+    ],
+    "recordingCount": 2,
+    "youtubePairs": 2,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "silentnightbobo",
+    "targetTitle": "SILENT NIGHT  [BOB O]",
+    "sourceSongId": "silentnight",
+    "sourceTitle": "Silent Night",
+    "realBook": false,
+    "reason": "Same full tune title with contributor tag BOB O.",
+    "sourceIds": [
+      "leduc-hwC4c"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "silentnighteve",
+    "targetTitle": "SILENT NIGHT  [Eve]",
+    "sourceSongId": "silentnight",
+    "sourceTitle": "Silent Night",
+    "realBook": false,
+    "reason": "Same full tune title with contributor tag Eve.",
+    "sourceIds": [
+      "leduc-hwC4c"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "stardustjs",
+    "targetTitle": "STARDUST [J&S]",
+    "sourceSongId": "stardust",
+    "sourceTitle": "Stardust",
+    "realBook": false,
+    "reason": "Same full tune title with contributor initials J&S.",
+    "sourceIds": [
+      "leduc-SXw4c"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "stompnatthesavoy",
+    "targetTitle": "STOMP'N AT THE SAVOY",
+    "sourceSongId": "stompinatthesavoy",
+    "sourceTitle": "Stompin' at the Savoy",
+    "realBook": false,
+    "reason": "Apostrophe/contraction spelling of the same full title.",
+    "sourceIds": [
+      "wjazzd-95",
+      "wjazzd-101"
+    ],
+    "recordingCount": 4,
+    "youtubePairs": 4,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "stompnatthesavoy2",
+    "targetTitle": "STOMP'N AT THE SAVOY2",
+    "sourceSongId": "stompinatthesavoy",
+    "sourceTitle": "Stompin' at the Savoy",
+    "realBook": false,
+    "reason": "Apostrophe/contraction spelling plus numeric version suffix.",
+    "sourceIds": [
+      "wjazzd-95",
+      "wjazzd-101"
+    ],
+    "recordingCount": 4,
+    "youtubePairs": 4,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "howinsensitive",
+    "targetTitle": "How Insensitive (Insensatez)",
+    "sourceSongId": "insensatez",
+    "sourceTitle": "Insensatez",
+    "realBook": true,
+    "reason": "Canonical English tune title explicitly names the Portuguese alias in parentheses: How Insensitive (Insensatez).",
+    "sourceIds": [
+      "wjazzd-401"
+    ],
+    "recordingCount": 5,
+    "youtubePairs": 5,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "whisperingchris",
+    "targetTitle": "WHISPERING   [CHRIS]",
+    "sourceSongId": "whispering",
+    "sourceTitle": "Whispering",
+    "realBook": false,
+    "reason": "Same tune title with contributor tag CHRIS.",
+    "sourceIds": [
+      "wjazzd-20",
+      "wjazzd-290"
+    ],
+    "recordingCount": 8,
+    "youtubePairs": 8,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "whisperingbaron",
+    "targetTitle": "Whispering {Baron}",
+    "sourceSongId": "whispering",
+    "sourceTitle": "Whispering",
+    "realBook": false,
+    "reason": "Same tune title with contributor tag Baron.",
+    "sourceIds": [
+      "wjazzd-20",
+      "wjazzd-290"
+    ],
+    "recordingCount": 8,
+    "youtubePairs": 8,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "whitechristmaswintronicearrchords",
+    "targetTitle": "White Christmas   w/intro  nice arr./chords",
+    "sourceSongId": "whitechristmas",
+    "sourceTitle": "White Christmas",
+    "realBook": false,
+    "reason": "Same full tune title with intro/arrangement descriptors.",
+    "sourceIds": [
+      "leduc-MDC4c"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "yesterdayskern",
+    "targetTitle": "Yesterdays, Kern",
+    "sourceSongId": "yesterdays",
+    "sourceTitle": "Yesterdays",
+    "realBook": false,
+    "reason": "Same distinctive title with explicit composer Kern; not Beatles Yesterday.",
+    "sourceIds": [
+      "wjazzd-197"
+    ],
+    "recordingCount": 2,
+    "youtubePairs": 2,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "therwillneverbeanotheryou",
+    "targetTitle": "Ther Will Never Be Another You",
+    "sourceSongId": "therewillneverbeanotheryou",
+    "sourceTitle": "There Will Never Be Another You",
+    "realBook": false,
+    "reason": "Single-letter typo in full distinctive title; MIDI track0 confirms title.",
+    "sourceIds": [
+      "wjazzd-74",
+      "wjazzd-75"
+    ],
+    "recordingCount": 8,
+    "youtubePairs": 8,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "almostlikebeinginlovefloeweajlerner",
+    "targetTitle": "Almost Like Being In Love - F. Loewe & A.J.Lerner",
+    "sourceSongId": "almostlikebeinginlove",
+    "sourceTitle": "Almost Like Being In Love",
+    "realBook": false,
+    "reason": "Same full title with composer and lyricist names Frederick Loewe / Alan Jay Lerner.",
+    "sourceIds": [
+      "jazzsamba-50"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "aroundmidnight",
+    "targetTitle": "Around Midnight",
+    "sourceSongId": "roundmidnight",
+    "sourceTitle": "'Round Midnight",
+    "realBook": false,
+    "reason": "Expanded Round Midnight title, confirmed by matching complete546-note MIDI melody sequence.",
+    "sourceIds": [
+      "pijama-1501",
+      "pijama-2262",
+      "pijama-1921"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 3,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending.",
+    "compositionEvidence": {
+      "targetSourceId": "repository-9714324205627511",
+      "referenceHeadSourceId": "miditar-roundmidnight",
+      "matchingPitches": 546,
+      "targetNoteCount": 546,
+      "fractionMatched": 1,
+      "longestExactPitchRun": 546,
+      "method": "Ordered MIDI pitch-sequence matching for composition identity only; no timing or same-performance inference."
+    }
+  },
+  {
+    "targetSongId": "cherokeeii",
+    "targetTitle": "Cherokee II",
+    "sourceSongId": "cherokee",
+    "sourceTitle": "Cherokee (Indian Love Song)",
+    "realBook": false,
+    "reason": "Same title with Roman-numeral arrangement/version suffix II.",
+    "sourceIds": [
+      "pijama-1279",
+      "pijama-1210",
+      "pijama-2747"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 3,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "clearday",
+    "targetTitle": "CLEAR DAY (ON A)",
+    "sourceSongId": "onaclearday",
+    "sourceTitle": "ON A CLEAR DAY",
+    "realBook": false,
+    "reason": "Catalog writes CLEAR DAY (ON A); reordered title is On A Clear Day.",
+    "sourceIds": [
+      "pijama-1171"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "confessinthatiloveyou",
+    "targetTitle": "Confessin' That I Love You",
+    "sourceSongId": "imconfessinthatiloveyou",
+    "sourceTitle": "I'm Confessin' That I Love You",
+    "realBook": false,
+    "reason": "Same distinctive title Confessin That I Love You with initial Im omitted.",
+    "sourceIds": [
+      "pijama-2186",
+      "pijama-1928",
+      "pijama-2183"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 3,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "desafinadochrds",
+    "targetTitle": "Desafinado  chrds",
+    "sourceSongId": "desafinado",
+    "sourceTitle": "Desafinado",
+    "realBook": false,
+    "reason": "Same tune title with chord-study descriptor chrds.",
+    "sourceIds": [
+      "jazzsamba-10",
+      "pijama-2776",
+      "pijama-1444"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 2,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "donothintilyouhearfromme",
+    "targetTitle": "DO NOTHIN' 'TIL YOU HEAR FROM ME",
+    "sourceSongId": "donothintillyouhearfromme",
+    "sourceTitle": "Do Nothin' Till You Hear From Me",
+    "realBook": false,
+    "reason": "Same full title; apostrophe/till spelling variant.",
+    "sourceIds": [
+      "pijama-896"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "dontmeanathingit",
+    "targetTitle": "Don't Mean A Thing,  It",
+    "sourceSongId": "itdontmeanathing",
+    "sourceTitle": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+    "realBook": false,
+    "reason": "Catalog moves It to the end of the same title.",
+    "sourceIds": [
+      "jazzsamba-62"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "frenesi2",
+    "targetTitle": "Frenesi 2",
+    "sourceSongId": "frenesi",
+    "sourceTitle": "FRENESI",
+    "realBook": false,
+    "reason": "Same tune title with numeric version suffix2.",
+    "sourceIds": [
+      "jazzsamba-15"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "funnyvalentine",
+    "targetTitle": "Funny Valentine",
+    "sourceSongId": "myfunnyvalentine",
+    "sourceTitle": "My Funny Valentine",
+    "realBook": false,
+    "reason": "Short title Funny Valentine omits initial My; confirmed by long matching MIDI melody sequences; see compositionEvidence.",
+    "sourceIds": [
+      "pijama-298",
+      "pijama-2411",
+      "pijama-1348"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 3,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending.",
+    "compositionEvidence": {
+      "targetSourceId": "repository-f8d337031c121226",
+      "referenceHeadSourceId": "repo-head-myfunnyvalentine",
+      "matchingPitches": 105,
+      "targetNoteCount": 105,
+      "fractionMatched": 1,
+      "longestExactPitchRun": 105,
+      "method": "Ordered MIDI pitch-sequence matching for composition identity only; no timing or same-performance inference."
+    }
+  },
+  {
+    "targetSongId": "girlfromipanemathe",
+    "targetTitle": "Girl From Ipanema, The",
+    "sourceSongId": "girlfromipanema",
+    "sourceTitle": "The Girl From Ipanema (Garôta De Ipanema)",
+    "realBook": false,
+    "reason": "Same full English title with trailing article The.",
+    "sourceIds": [
+      "jazzsamba-43"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "hadtobeyou",
+    "targetTitle": "HAD TO BE YOU (IT)",
+    "sourceSongId": "ithadtobeyou",
+    "sourceTitle": "It Had To Be You",
+    "realBook": false,
+    "reason": "Catalog writes HAD TO BE YOU (IT); reordered title is It Had To Be You.",
+    "sourceIds": [
+      "pijama-1411",
+      "pijama-914",
+      "pijama-796"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 3,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "howlonghasthisbeengoinon",
+    "targetTitle": "HOW LONG HAS THIS BEEN GOIN' ON",
+    "sourceSongId": "howlonghasthisbeengoingon",
+    "sourceTitle": "How Long Has This Been Going On?",
+    "realBook": false,
+    "reason": "Same full title with goin contraction.",
+    "sourceIds": [
+      "pijama-2565",
+      "pijama-2246"
+    ],
+    "recordingCount": 2,
+    "youtubePairs": 2,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "indiana2",
+    "targetTitle": "Indiana2",
+    "sourceSongId": "indiana",
+    "sourceTitle": "INDIANA (BACK HOME AGAIN IN)",
+    "realBook": false,
+    "reason": "Same tune title with numeric version suffix2.",
+    "sourceIds": [
+      "pijama-675"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "lovewalkedinintrochrds",
+    "targetTitle": "Love Walked In   intro/chrds",
+    "sourceSongId": "lovewalkedin",
+    "sourceTitle": "Love Walked In",
+    "realBook": false,
+    "reason": "Same full tune title with intro/chord-study descriptors.",
+    "sourceIds": [
+      "pijama-2067"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "mactheknife",
+    "targetTitle": "Mac The Knife",
+    "sourceSongId": "macktheknife",
+    "sourceTitle": "Mack The Knife",
+    "realBook": false,
+    "reason": "Single-letter spelling variant Mac/Mack in otherwise identical distinctive title.",
+    "sourceIds": [
+      "pijama-1723"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "meditation44",
+    "targetTitle": "Meditation 4/4",
+    "sourceSongId": "meditation",
+    "sourceTitle": "Meditation (Meditação)",
+    "realBook": false,
+    "reason": "Same title with meter4/4 descriptor; confirmed by long matching MIDI melody sequences; see compositionEvidence.",
+    "sourceIds": [
+      "jazzsamba-27"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending.",
+    "compositionEvidence": {
+      "targetSourceId": "repository-4e6c8561d34ee8cf",
+      "referenceHeadSourceId": "repository-eecf8979d4f3f19c",
+      "matchingPitches": 246,
+      "targetNoteCount": 251,
+      "fractionMatched": 0.9800796812749004,
+      "longestExactPitchRun": 104,
+      "method": "Ordered MIDI pitch-sequence matching for composition identity only; no timing or same-performance inference."
+    }
+  },
+  {
+    "targetSongId": "nicasdreambyhoracesilver",
+    "targetTitle": "NICA'S DREAM by Horace Silver",
+    "sourceSongId": "nicasdream",
+    "sourceTitle": "Nica's Dream",
+    "realBook": false,
+    "reason": "Same distinctive title with explicit matching composer Horace Silver.",
+    "sourceIds": [
+      "jazzsamba-30",
+      "pijama-2126",
+      "pijama-1461"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 2,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "olittletownofbethlehempbrookslrednerultimatebook",
+    "targetTitle": "O Little Town of Bethlehem/PBrooks,LRedner Ultimate book",
+    "sourceSongId": "olittletownofbethlehembobo",
+    "sourceTitle": "O LITTLE TOWN OF BETHLEHEM  [BOB O]",
+    "realBook": false,
+    "reason": "Same full carol title with explicit Phillips Brooks/Lewis Redner credits and book descriptor.",
+    "sourceIds": [
+      "pijama-322"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "sanantoniorose1",
+    "targetTitle": "SAN ANTONIO ROSE #1",
+    "sourceSongId": "sanantoniorose",
+    "sourceTitle": "San Antonio Rose",
+    "realBook": false,
+    "reason": "Same full title with #1 version suffix.",
+    "sourceIds": [
+      "pijama-814"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "softlyasamorningsunrise",
+    "targetTitle": "Softly As A Morning Sunrise",
+    "sourceSongId": "softlyasinamorningsunrise",
+    "sourceTitle": "Softly as in a Morning Sunrise",
+    "realBook": false,
+    "reason": "Same distinctive title with missing in, a common transcription-title variation.",
+    "sourceIds": [
+      "pijama-1908",
+      "pijama-2064",
+      "pijama-2526"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 3,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "songformyfatherbyhsilver",
+    "targetTitle": "Song For My Father     by H. Silver",
+    "sourceSongId": "songformyfather",
+    "sourceTitle": "Song For My Father",
+    "realBook": false,
+    "reason": "Same full title with explicit matching Horace Silver composer credit.",
+    "sourceIds": [
+      "jazzsamba-37"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "stlouisblueswchandy",
+    "targetTitle": "St. Louis Blues     W.C.Handy",
+    "sourceSongId": "stlouisblues",
+    "sourceTitle": "St. Louis Blues",
+    "realBook": false,
+    "reason": "Same full title with explicit matching W.C. Handy composer credit.",
+    "sourceIds": [
+      "pijama-2102",
+      "pijama-2743",
+      "pijama-2100"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 3,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "sunnysideofthestreet",
+    "targetTitle": "Sunny Side Of The Street",
+    "sourceSongId": "onthesunnysideofthestreet",
+    "sourceTitle": "ON THE SUNNY SIDE OF THE STREET",
+    "realBook": false,
+    "reason": "Standard short title omits initial On The.",
+    "sourceIds": [
+      "jazzsamba-68"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 0,
+    "audioPairs": 1,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "wayyoulooktonite",
+    "targetTitle": "The Way You Look Tonite",
+    "sourceSongId": "wayyoulooktonight",
+    "sourceTitle": "The Way You Look Tonight",
+    "realBook": false,
+    "reason": "Same full title with Tonite spelling variant.",
+    "sourceIds": [
+      "pijama-1681",
+      "pijama-772",
+      "pijama-161"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 3,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "touchofyourlipsthe",
+    "targetTitle": "Touch Of Your Lips, The",
+    "sourceSongId": "touchofyourlips",
+    "sourceTitle": "TOUCH OF YOUR LIPS",
+    "realBook": false,
+    "reason": "Same full title with article The placed at the end.",
+    "sourceIds": [
+      "pijama-807",
+      "pijama-2283",
+      "pijama-2426"
+    ],
+    "recordingCount": 3,
+    "youtubePairs": 3,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "upalazyriver",
+    "targetTitle": "UP A LAZY RIVER",
+    "sourceSongId": "lazyriver",
+    "sourceTitle": "Lazy River",
+    "realBook": false,
+    "reason": "Up A Lazy River is the standard alternate full title of Carmichael/Arodin Lazy River.",
+    "sourceIds": [
+      "pijama-1328"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "upalazyriverjs",
+    "targetTitle": "UP A LAZY RIVER [J&S]",
+    "sourceSongId": "lazyriver",
+    "sourceTitle": "Lazy River",
+    "realBook": false,
+    "reason": "Up A Lazy River alternate title plus contributor initials J&S.",
+    "sourceIds": [
+      "pijama-1328"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "allblues34ver",
+    "targetTitle": "All Blues 3/4 ver",
+    "sourceSongId": "allblues",
+    "sourceTitle": "All Blues",
+    "realBook": false,
+    "reason": "Same distinctive All Blues title with explicit 3/4 version descriptor. Original arrangement remains separate.",
+    "sourceIds": [
+      "piast-lkAfS4v2AvQ"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "auldlangsynetraditional",
+    "targetTitle": "Auld Lang Syne/Traditional",
+    "sourceSongId": "auldlangsyne",
+    "sourceTitle": "Auld Lang Syne",
+    "realBook": false,
+    "reason": "Same full carol title with Traditional attribution appended.",
+    "sourceIds": [
+      "piast-wBmIH_YnvUM"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "beginningtoseethelight",
+    "targetTitle": "BEGINNING TO SEE THE LIGHT",
+    "sourceSongId": "imbeginningtoseethelight",
+    "sourceTitle": "I'm Beginning To See The Light",
+    "realBook": false,
+    "reason": "Same distinctive standard title with the initial Im omitted; also independently reviewed in piano-expansion/safe-duplicate-targets.json.",
+    "sourceIds": [
+      "piast-3D8_0GQcSpk"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "closetoyou3",
+    "targetTitle": "Close To You 3",
+    "sourceSongId": "closetoyou",
+    "sourceTitle": "CLOSE TO YOU",
+    "realBook": false,
+    "reason": "Numeric arrangement variant; MIDI melody confirms Carpenters composition after transposing -7 semitones: 123/152 ordered pitches, longest exact run35.",
+    "sourceIds": [
+      "piast-LBd566t0FzI"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending.",
+    "compositionEvidence": {
+      "targetSongId": "closetoyou3",
+      "sourceSongId": "closetoyou",
+      "targetSourceId": "repository-f087be3e7bf5f24e",
+      "referenceSourceId": "repository-a08a9bf809fdd800",
+      "matchedPitches": 123,
+      "targetNotes": 152,
+      "longestRun": 35,
+      "transposeSemitones": -7,
+      "matchFraction": 0.8092105263157895,
+      "method": "Ordered MIDI pitch-sequence matching for composition identity only; not performance timing alignment."
+    }
+  },
+  {
+    "targetSongId": "crymeariverlr",
+    "targetTitle": "Cry Me A River LR",
+    "sourceSongId": "crymeariver",
+    "sourceTitle": "CRY ME A RIVER",
+    "realBook": false,
+    "reason": "LR arrangement-label suffix. MIDI melody confirms the same standard: 290/303 ordered pitches, longest exact run22 after octave adjustment.",
+    "sourceIds": [
+      "piast-25WoJr5wKUc"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending.",
+    "compositionEvidence": {
+      "targetSongId": "crymeariverlr",
+      "sourceSongId": "crymeariver",
+      "targetSourceId": "repository-96c27c0735847de4",
+      "referenceSourceId": "repository-2c0611545ac46587",
+      "pitchClasses": false,
+      "matchedPitches": 290,
+      "targetNotes": 303,
+      "longestRun": 22,
+      "transposeSemitones": 12,
+      "method": "Ordered MIDI pitch-sequence matching for composition identity only; not performance timing alignment."
+    }
+  },
+  {
+    "targetSongId": "everybreathyoutakebythepolicel",
+    "targetTitle": "Every Breath You Take     by the Police     L.",
+    "sourceSongId": "everybreathyoutake",
+    "sourceTitle": "EVERY BREATH YOU TAKE",
+    "realBook": false,
+    "reason": "Same full title plus explicit matching performer credit The Police and trailing arrangement initial.",
+    "sourceIds": [
+      "multtipop-nZgWprEVxry"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "felllikemakinglove",
+    "targetTitle": "FELL LIKE MAKING LOVE",
+    "sourceSongId": "feellikemakinlove",
+    "sourceTitle": "Feel Like Makin' Love",
+    "realBook": false,
+    "reason": "Catalog typo FELL is resolved by its original fileName Feel Like Makin Love.mid; same named standard and characteristic head. MIWHA publishes the paired Neo-Soul Jazz arrangement as Eugene McDaniel / Roberta Flack.",
+    "sourceIds": [
+      "piast-7kPivcuGIXM"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending.",
+    "compositionEvidence": {
+      "fileName": "Feel Like Makin' Love.mid",
+      "arrangerCreditSourceUrl": "https://www.mymusic5.com/miwha/158094",
+      "publishedComposer": "Eugene McDaniel",
+      "publishedArtist": "Roberta Flack",
+      "note": "Title/credit identity, not timing equivalence. Automatic PIAST melodic reduction differs from the original head arrangement."
+    }
+  },
+  {
+    "targetSongId": "forheavenssakelr",
+    "targetTitle": "For Heaven's Sake LR",
+    "sourceSongId": "forheavenssake",
+    "sourceTitle": "For Heaven's Sake",
+    "realBook": false,
+    "reason": "Same full standard title with LR arrangement-label suffix.",
+    "sourceIds": [
+      "piast-mK_ubrgf5Gc"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "haveyourselfamerrylittlexmas",
+    "targetTitle": "HAVE YOURSELF A MERRY LITTLE XMAS",
+    "sourceSongId": "haveyourselfamerrylittlechristmas",
+    "sourceTitle": "Have Yourself A Merry Little Christmas",
+    "realBook": false,
+    "reason": "Same full distinctive carol title, Xmas abbreviation for Christmas.",
+    "sourceIds": [
+      "piast-jEaiG8nstTM"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "iloveyoujustthewayyouare",
+    "targetTitle": "I Love You Just The Way You Are",
+    "sourceSongId": "justthewayyouare",
+    "sourceTitle": "JUST THE WAY YOU ARE",
+    "realBook": false,
+    "reason": "Expanded Billy Joel title uses the refrain prefix I Love You. MIDI melody confirms 117/154 ordered pitches with longest exact run18 at +2 semitones; paired PIAST title explicitly credits Billy Joel.",
+    "sourceIds": [
+      "piast-ZweWAX6sbXs"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending.",
+    "compositionEvidence": {
+      "targetSongId": "iloveyoujustthewayyouare",
+      "sourceSongId": "justthewayyouare",
+      "targetSourceId": "repository-89f62c7c3833f0e2",
+      "referenceSourceId": "repository-2ef420331a27f015",
+      "pitchClasses": false,
+      "matchedPitches": 117,
+      "targetNotes": 154,
+      "longestRun": 18,
+      "transposeSemitones": 2,
+      "method": "Ordered MIDI pitch-sequence matching for composition identity only; not performance timing alignment."
+    }
+  },
+  {
+    "targetSongId": "justthewayyouarewintro",
+    "targetTitle": "Just The Way You Are   w/intro",
+    "sourceSongId": "justthewayyouare",
+    "sourceTitle": "JUST THE WAY YOU ARE",
+    "realBook": false,
+    "reason": "Same Billy Joel composition with explicit intro descriptor; original MIDI matches canonical melody in a run of19 exact pitches at -5 semitones, despite the added intro and harmonized melody track.",
+    "sourceIds": [
+      "piast-ZweWAX6sbXs"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending.",
+    "compositionEvidence": {
+      "targetSongId": "justthewayyouarewintro",
+      "sourceSongId": "justthewayyouare",
+      "targetSourceId": "repository-3d6ddb8ee4f41a34",
+      "referenceSourceId": "repository-3484da741e1fb937",
+      "pitchClasses": false,
+      "matchedPitches": 149,
+      "targetNotes": 462,
+      "longestRun": 19,
+      "transposeSemitones": -5,
+      "method": "Ordered MIDI pitch-sequence matching for composition identity only; not performance timing alignment."
+    }
+  },
+  {
+    "targetSongId": "masquerade",
+    "targetTitle": "MASQUERADE (THIS)",
+    "sourceSongId": "thismasquerade",
+    "sourceTitle": "This Masquerade",
+    "realBook": false,
+    "reason": "Catalog explicitly writes MASQUERADE (THIS), a title reordered for alphabetical filing.",
+    "sourceIds": [
+      "piast-kPXb-PMmYks"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "masqueradethis",
+    "targetTitle": "Masquerade,  This",
+    "sourceSongId": "thismasquerade",
+    "sourceTitle": "This Masquerade",
+    "realBook": false,
+    "reason": "Catalog explicitly writes Masquerade, This, a title reordered for alphabetical filing.",
+    "sourceIds": [
+      "piast-kPXb-PMmYks"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "sunshineofmylife",
+    "targetTitle": "Sunshine of my life ( can also play as bossa style4)",
+    "sourceSongId": "youarethesunshineofmylife",
+    "sourceTitle": "You Are The Sunshine Of My Life",
+    "realBook": false,
+    "reason": "Distinctive Sunshine of My Life title with initial You Are The omitted and a bossa-style arrangement note appended.",
+    "sourceIds": [
+      "piast-Harm933T6Lo"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "christmassongmeltormerobertwells",
+    "targetTitle": "The Christmas Song  { Mel Torme & Robert Wells }",
+    "sourceSongId": "christmassong",
+    "sourceTitle": "CHRISTMAS SONG",
+    "realBook": false,
+    "reason": "Same title with explicit matching Mel Torme / Robert Wells composer credits.",
+    "sourceIds": [
+      "piast-CS9c4dT4Sdg"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "unforgettablenatkingcole",
+    "targetTitle": "UNFORGETTABLE - Nat King Cole",
+    "sourceSongId": "unforgettable",
+    "sourceTitle": "Unforgettable",
+    "realBook": false,
+    "reason": "Same title plus explicit Nat King Cole performer credit; independently reviewed against the PIAST video title in safe-duplicate-targets.json.",
+    "sourceIds": [
+      "piast-Tbs-c3IPvLM"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "wewishyouamerrychristmasbobo",
+    "targetTitle": "WE WISH YOU A MERRY CHRISTMAS  [BOB O]",
+    "sourceSongId": "wewishyouamerrychristmas",
+    "sourceTitle": "We Wish You a Merry Christmas",
+    "realBook": false,
+    "reason": "Same full carol title plus BOB O arrangement/contributor suffix.",
+    "sourceIds": [
+      "piast-LQ3kt89E-U4"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "whatadiffrenceadaymade",
+    "targetTitle": "What A Diff'rence A Day Made",
+    "sourceSongId": "whatadifferenceadaymade",
+    "sourceTitle": "What a Difference a Day Made",
+    "realBook": false,
+    "reason": "Same full distinctive standard title; Diff-rence is the contracted Difference spelling.",
+    "sourceIds": [
+      "piast-QDw4SQtkL10"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "whatadiffrenzeadaymade",
+    "targetTitle": "What a Diff'renze a Day Made",
+    "sourceSongId": "whatadifferenceadaymade",
+    "sourceTitle": "What a Difference a Day Made",
+    "realBook": false,
+    "reason": "Same full distinctive standard title; Diff-renze is a single-letter spelling variant of contracted Difference.",
+    "sourceIds": [
+      "piast-QDw4SQtkL10"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending."
+  },
+  {
+    "targetSongId": "wonderfulworld",
+    "targetTitle": "Wonderful World",
+    "sourceSongId": "whatawonderfulworld",
+    "sourceTitle": "What a wonderful world",
+    "realBook": false,
+    "reason": "Shortened title is confirmed as Louis Armstrong What a Wonderful World, not Sam Cooke Wonderful World: original melody shares144 ordered pitches and an exact36-note run with the explicitly Louis Armstrong-labeled canonical MIDI.",
+    "sourceIds": [
+      "piast-Gz661U_nhFQ"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending.",
+    "compositionEvidence": {
+      "targetSongId": "wonderfulworld",
+      "sourceSongId": "whatawonderfulworld",
+      "targetSourceId": "repository-0fedc51d9ff1323c",
+      "referenceSourceId": "repository-c696bb83e72f8a39",
+      "matchedPitches": 144,
+      "targetNotes": 220,
+      "longestRun": 36,
+      "transposeSemitones": 0,
+      "matchFraction": 0.6545454545454545,
+      "method": "Ordered MIDI pitch-sequence matching for composition identity only; not performance timing alignment."
+    }
+  },
+  {
+    "targetSongId": "greengreengrassofhomecr",
+    "targetTitle": "GREEN GREEN GRASS OF HOME [cr]",
+    "sourceSongId": "greengreengrassofhome",
+    "sourceTitle": "Green, Green Grass Of Home",
+    "realBook": false,
+    "reason": "Same full distinctive title with contributor/arrangement suffix [cr].",
+    "sourceIds": [
+      "piast-Fzc3OwW1vfE"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending.",
+    "compositionEvidence": {
+      "repositorySourceId": "repository-15dfa04d3dcff85c",
+      "repositoryFileName": "Green grass of home [cr].MID",
+      "sourceVideoTitle": "Green Green Grass of Home -Piano Music Sheet -  : Tom Jones by  SangHeart  Play"
+    }
+  },
+  {
+    "targetSongId": "greengreengrassofhomeri",
+    "targetTitle": "Green Green Grass Of Home [RI]",
+    "sourceSongId": "greengreengrassofhome",
+    "sourceTitle": "Green, Green Grass Of Home",
+    "realBook": false,
+    "reason": "Same full distinctive title with contributor/arrangement suffix [RI].",
+    "sourceIds": [
+      "piast-Fzc3OwW1vfE"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending.",
+    "compositionEvidence": {
+      "repositorySourceId": "repository-119d63393f7d35d9",
+      "repositoryFileName": "GREEN GREEN GRASS [RI].MID",
+      "sourceVideoTitle": "Green Green Grass of Home -Piano Music Sheet -  : Tom Jones by  SangHeart  Play"
+    }
+  },
+  {
+    "targetSongId": "raindropskeepfallin",
+    "targetTitle": "RAINDROPS KEEP FALLIN'",
+    "sourceSongId": "raindropskeepfallingonmyhead",
+    "sourceTitle": "Raindrops Keep Falling On My Head",
+    "realBook": false,
+    "reason": "Truncated display title; original repository filename explicitly expands to Raindrops Keep Fallin on My Head.mid, confirming the same composition.",
+    "sourceIds": [
+      "piast-Ner5bAOSVZc"
+    ],
+    "recordingCount": 1,
+    "youtubePairs": 1,
+    "audioPairs": 0,
+    "originalMidiAligned": false,
+    "action": "Expose existing timed performance as a separate selectable part; retain original arrangement as recording-pending.",
+    "compositionEvidence": {
+      "repositorySourceId": "repository-49b9855152b464c1",
+      "repositoryFileName": "Raindrops Keep Fallin' on My Head.mid",
+      "sourceVideoTitle": "Raindrops Keep Falling on My Head"
+    }
+  }
+]
