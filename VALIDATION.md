@@ -1,3 +1,13 @@
+# Reference recording update — 2026-10-29
+
+- 39 curated references with artist/release identity, selection reason, evidence links and explicit head-review status. All exact video IDs returned YouTube metadata. This is not a complete-library listening audit.
+- All 28 automated checks passed, including 5,178 bundled MIDI-part checks and 1,593 performance timelines. Three new tests verify reference priority, explicit study choice, separation of solo offsets, and evidence/identity fields. Those three passed again after refining the default melody choice.
+- Silent browser checks confirmed the new default on Jordu and Blue Bossa, the reference filter with filtered Random, Head/MIDI switching, and switching between a synchronized study and an unaligned reference without retaining its anchors. Desktop and 390px phone layouts were inspected.
+- The browser preview returned “This video is unavailable” for both new official reference uploads and an existing matched upload. Playback and regional embeddability remain unverified. No audio was played during verification. Unavailable references retain a direct YouTube link and do not silently switch performances.
+- Direct listening review remains pending where stated in the reference JSON; all exact head timestamps remain null and reference playback starts at zero. Existing transcription matches are unchanged.
+
+---
+
 # Validation — October 28, 2026
 
 - Nine automated tests pass: all 706 MIDI files parse and map to playable guitar notes; 408 performance timelines retain the MIDI pitch sequence; note/chord/bar times are chronological; every published recording points to its own performance source; seek maps are invertible and loops validate endpoints.
